@@ -15,7 +15,6 @@ QA.md
 > ⭐ 管理安全的三大理由：**道德 moral（1.1）、经济 financial（1.2）、法律 legal（1.3）**。题目常问其中一个，别把三个混在一起写。
 > 道德理由的要点：雇主对员工和所有受影响的人负有注意义务；社会不接受用安全换利润；要特别照顾弱势人群（孕妇、年轻工人、残障人士）；事故给员工和家属带来痛苦。
 > 常见错误：道德题里写成本和罚款，那是经济和法律理由。
-> OBE 指令词：*comment on*＝结合场景推断并解释；*outline/list*＝分点简列；*explain*＝说明原因／如何。
 
 > 📖 ⭐⭐⭐ 教材补充（p28–29）：常考题型 "Comment on the organisation's health and safety morals"：根据场景推断组织在不在乎人。句型：The organisation appears to care about …, as shown by …；Management do not appear to value …, as …
 > 📖 教材补充（p26–27）：看一个组织在不在乎安全，**看行动不看口号**。好的表现：做风险评估并落实、安全作业制度真正执行、投入时间和钱、培训和入职培训、做好应急准备、检查和维护设备、主动和被动监控、关心所有受影响的人、领导露面、事故少并吸取教训。差的表现：流程过时、追责文化、不培训不维护、管理层不露面、事故多且不吸取教训、士气低落、为产量牺牲安全。
@@ -31,11 +30,11 @@ QA.md
 
 ### 1）总结
 
-> ⭐ **Insured（通常可投保）**：①员工伤病赔偿 → **ELI**（雇主责任险；可能要付 **excess 免赔额**）；②建筑／厂房／设备／物料损坏 → 财产／设备险；③第三方人身／财产索赔 → **PLI**（公众责任险）；④与上述索赔相关的**民事**理赔／辩护费用（看保单）。
-> ⭐ **Uninsured（通常不能／没有投保，且往往远大于投保成本，约 8–36 倍）**：罚款（**fines cannot be insured**）、**刑事辩护律师费**（criminal legal defence costs often not insured）、病假工资、停工／生产损失、清理、调查和管理层时间、低于免赔额的维修、临时工＋培训＋额外监督、加班赶工、丢订单／客户、声誉与士气、**保费上涨**。
-> ⭐ 同一笔钱可同时是 **uninsured** 又是 **direct**（如罚款）：答题框架常先分 insured/uninsured，再分 direct/indirect。
-> direct（马上看得见的账单）：医疗／急救、病假工资、维修、清理、免赔额、罚款和律师费、临时工。
-> indirect（之后才感受到）：停工、效率下降、管理层时间、招人培训、声誉、丢客户、士气。
+> ⭐ insured costs:1)工伤/职业病->ELI(雇主责任险);2)医疗、康复；3）建筑、厂房、设备损坏；4）第三方财产损失、第三人损害->PLI(公众责任险)；5）民事诉讼费用，compensation
+> ⭐ uninsured costs:大部分损失
+
+> direct costs
+> indirect costs:1)disruption,业务中断；2）inefficient；3）商业机会；4）reputation
 
 ### 2）考试重点（Claude 补充）
 
@@ -56,7 +55,7 @@ QA.md
 - 2.医疗与康复费用 Medical and rehabilitation expenses: Costs for hospital treatment, surgeries, or physical therapy covered under insurance policies.
 - 3.建筑、厂房或设备损坏 Damage to buildings, plant, or equipment: Repair or replacement costs for physical assets damaged during an incident (covered by property/equipment insurance).
 - 4.第三方财产损失或人身伤害 Third-party property damage or personal injury: Claims made by members of the public or outside contractors who are hurt or suffer losses due to the company's operations (covered by Public Liability Insurance).
-- 5.与责任险索赔相关的**民事**法律费用 Civil legal costs linked to an insured claim: e.g. defence/handling costs under ELI or PLI. ⚠️ **刑事**辩护费通常 **uninsured**（教材 p35）；考 2 分时写 2 点即可，不必列满。
+- 5.法律辩护费用 Legal defense costs: Fees associated with legal representation during insurance claims or civil lawsuits.
 
 ### Q:In the event of a failure of the crane, what financial costs to the organisation might be insured? (2)
 
@@ -69,39 +68,33 @@ QA.md
 
 > A manufacturing organisation suffered a fatality when an employee was crushed by a forklift.The site was shut down for the rest of the day. The enforcement agency and police investigated.A dozen witnesses were off sick for a week due to the trauma. Counselling was arranged at the company’s expense.Morale was low for months and productivity was reduced. The organisation missed several production deadlines and lost one key account.Temporary labour was brought in to help and these people needed additional training and supervision.The company was eventually fined the equivalent of £300k and the insurance paid a substantial sum to the victim’s family. Legal fees amounted to £55k. The prosecution found the Managing Director had ignored several warnings from the H&S Team and subsequently left the company with his reputation damaged.
 
-- **Insured**：保险付给遇难者家属的赔偿（ELI）。
-- **Uninsured**：罚款 £300k（不能投保）；**刑事辩护律师费 £55k**（教材 p35：criminal legal defence costs often not insured）；当日停工与后续生产损失；丢关键客户；临时工＋培训＋监督；目击证人病假与心理辅导；士气／生产力下降；管理层离职与声誉受损；保费可能上涨。
+- Insured Costs: Payouts to the victim’s family (covered by Employers' Liability Insurance) and legal defense fees (£55k).
+- ⚠️ 教材更正（p35）：刑事辩护律师费（£55k）**通常没有保险**，应归入 uninsured costs。
+- Uninsured (Hidden) Costs: Fines (£300k - note: while legal fines are technically financial penalties, NEBOSH classifies them and prosecution costs as uninsured), lost production deadlines, loss of a key account, hiring and training temporary labor, sick pay for witnesses suffering from trauma, counselling expenses, and management turnover with reputational damage.
 - Management Failure: The Managing Director ignoring warnings highlights a severe lack of leadership commitment and a breakdown in the safety management system.
 
 ### Q:Imagine that your organisation has had a terrible accident. What might have happened?What could it cost the organisation?
 
 ### Q:What are the possible costs of workplace accidents? (20)(Please note, the answer could also include the insured costs). 
 
-> **答题框架（20）**：分两栏写够点数。**Insured**：ELI 赔偿、PLI 第三方索赔、建筑／设备损坏（财产险）、（民事）理赔相关法律费用。**Uninsured**：罚款、刑事辩护费、病假工资、停工／生产损失、清理、调查与管理层时间、免赔额、临时工／培训／加班、丢订单与客户、声誉、士气、保费上涨。句型：*Insured costs could include … ; Uninsured costs could include …*
-
 ### Q:Comment on the possible uninsured costs of poor standards of workplace health and safety. (10) 
 
-> **Comment 句型**：*The organisation may face uninsured costs such as …, because …* / *Fines cannot be insured, so a prosecution would come straight from profit.* 写约 10 个不同的未投保成本点，每点一句。
-
 ### Q:What are the possible uninsured costs of a workplace accident? (10)
-
-> **List/outline**：直接列点即可（fines; criminal defence costs; sick pay; lost production/downtime; clean-up; management time; temporary labour and training; overtime; lost customers/orders; damaged reputation; low morale; increased premiums）。
 
 ## 1.3 What Enforcement Agencies Do and What Happens If You Don’t Comply（教材 p38–44）
 
 ### 1）总结
 
-> ⭐ 看清楚问的是 **powers** 还是 **enforcement actions**（写错类别不得分）。
-> ⭐ **Actions**（查出问题后怎么处理，从轻到重）：① verbal advice / warning；② **improvement notice**（违法但不紧急 → 限期整改）；③ **prohibition notice**（serious and imminent danger → 立即停工）；④ **prosecution**（严重违法或不执行通知 → 起诉，可罚款／监禁）。另：受伤者还可能提起民事索赔。
-> ⭐ **Powers**（调查／检查时能做的事）：不事先通知进入（合理时间）；巡查检查设备／工艺／物料；拍照、测量、录音、取样；查阅并**复印**文件（一般不拿走原件）；要求危险设备／物品清除；要求现场／设备 **left undisturbed**；询问并录取书面陈述；要求协助和使用设施；要求体检；发出法律通知；启动法律程序。
-> ⚠️ 教材把“发通知／起诉”也写在 powers 列表里，但考题若问 **actions**，按上面四档写；若问 **powers**，优先写进入、检查、取样、取证、不动现场、问话、调文件等调查权。
+> ⭐ 看清楚问的是power 还是actions
+> ⭐ actions（从轻到重）:1）verbal advice or warning；2)发出整改令（Improvement Notices）（限期纠正安全缺陷）;3)发出禁止令 / 停工令（Prohibition Notices）（立即勒令关闭危险作业）;4)提起诉讼 / 法庭审判（Prosecution / Court Proceedings）
+> ⭐ powers: 来现场检查的：进入，inspect，investigate，取样测量、保持现场、询问，录口供、调阅文件
 
 ### 2）考试重点（Claude 补充）
 
 > ⭐⭐ 区分题：**powers（调查时能做的事）≠ actions（查出问题后的处理）**，写错类别不得分。
-> powers：进入工作场所（可不事先通知）、检查和调查、测量／取样／拍照、要求保持现场不动、询问人员和录口供、查阅并复印文件；还可要求清除危险物品、协助／使用设施、体检。
-> actions 怎么选：轻微问题 → warning；违法但不紧急 → improvement notice（限期整改）；serious and imminent danger → prohibition notice（立即停工）；严重违法或不执行通知 → prosecution（起诉）。
-> 题目写 "based on the scenario only" 时，只写场景里实际出现的内容；问 powers 时不要写 improvement/prohibition（那是 actions）。
+> powers：进入工作场所（可不事先通知）、检查和调查、测量／取样／拍照、要求保持现场不动、询问人员和录口供、查阅并复印文件。
+> actions 怎么选：违法但不紧急 → improvement notice（限期整改）；有严重且迫在眉睫的危险 → prohibition notice（立即停工）；严重违法或不执行通知 → prosecution（起诉）。
+> 题目写 "based on the scenario only" 时，只写场景里实际出现的内容。
 
 > 📖 教材补充（p40）：执法机构的 5 项职能：向政府提供立法建议、编写合规指南、主动检查工作场所、事后调查严重事故、采取执法行动（必要时起诉）。
 > 📖 教材补充（p41–42）：powers 还包括：要求清除危险设备或物品、要求协助和使用设施、要求体检、发出法律通知。
@@ -114,19 +107,13 @@ QA.md
 
 ### Q:Based on the scenario only, comment on the application of powers by the enforcement agency inspector. (10) 
 
-> **Comment 框架**：只写场景里出现的权力。句型：*The inspector used the power to enter without notice / examine … / take photographs / require the area to be left undisturbed / take statements / examine and take copies of documents …, as shown by …* 不要写成 improvement/prohibition notice（那是 actions）。
-
 ### Q:For exam purposes, it is important to draw a distinction between the powers and the enforcement actions they can take.It is a very common mistake to list the enforcement actions instead of the powers, and vice versa.Read the question carefully, and know what the words mean.
 
 ### Q:Imagine an enforcement agency inspector visiting your site by surprise. What would happen? What health and safety issues do you think they might spot?what happens if you don't comply?
 
 ### Q:What actions could the enforcement inspector take against the organisation? (4) 
 
-> 写 4 点：warning；improvement notice；prohibition notice；prosecution。（可补一句 injured person may sue for compensation。）
-
 ### Q:Describe the enforcement actions an enforcement agency could take against an employer who is not meeting his/her responsibilities. (4)
-
-> 同上四档，并点明选用逻辑：轻微 → warning；需限期改 → improvement；imminent danger → prohibition；严重／无视通知 → prosecution。
 
 ### Q:case study
 
@@ -144,9 +131,9 @@ QA.md
 > C155:配合雇主
 > R164:1)自己/他人安全的合理的注意义务；2）遵守+发现情况及时报告；3)正确使用设备；4）报告：hazards,dangers,injuries,illness
 
-> 员工权利（教材 Element 1 主要列在 **C155 Art.19**）
-> ⭐ C155：①遇严重且紧迫危险可**撤离**，危险消除前不得被要求返回，且不受不当处罚；②获得足够安全信息；③适当培训（入职／新机器或新流程）；④询问并参与安全讨论，可与工会等代表协商（不泄露商业秘密）；⑤安全措施**不由工人付费**。
-> ⚠️ 部分资料把 safety committees／进入现场／带薪时间写在 R164 工人权利下；**Compassa Element 1 正文未把这三项列为 R164 权利**（R164 Art.16 讲的是工人**义务**）。考试优先写 C155 上面几点；若场景出现安全代表／委员会，再联系协商与代表参与。
+> 员工权利
+> ⭐ C155:1）撤离危险（不受处罚，危险未消除前不被要求返回）；2）知情（enough info）;3)培训（proper training）；4）协商（ask,discussion,unions help）
+> R164:1)safety committees;2)进入现场（access to all parts of work）;3)带薪（reasonable paid time）
 
 ### 2）考试重点（Claude 补充）
 
@@ -171,13 +158,13 @@ QA.md
 
 ### 1）总结
 
-> ⭐ 义务等级（教材 p51–52）：**Absolute**（shall/must，不论成本）｜合格义务 **Qualified**：① **practicable**（技术上可行就要做，**不考虑**成本）② **reasonably practicable / SFAIRP**（权衡 risk vs cost/time/trouble/effort；代价与风险严重不成比例才可不做）③ **reasonable**（通常用于工人的 reasonable care，按谨慎正常人标准）。⚠️ 不要把 reasonable 插在 practicable 与 SFAIRP 之间当成一条“由严到松”的连续箭头。
-> ⭐ 信息来源（Identify 直接列）：①法律 acts/decrees/regulations/orders；②官方指南／标准／经批准的工作守则；③执法机构（网站、专项行动、检查与回访、事故调查、执法行动）；④**法院判例**；⑤专业团体、行业协会、保险公司；宣传册与统计数据。
+> ⭐ shall/must（必须）->practicable（只要可行，不看其他的因素）->reasonable(正常人的合理注意)->reasonably practicable(cost,time,trouble,and efforts.).
+> ⭐ 去哪里找国家标准的信息：acts / decrees / regulations / orders（有法律效力）→ codes of practice 工作守则 → guidance notes 指引 → leaflets 宣传册 → statistics 统计数据；以及执法机构在检查（inspections）和跟进检查（follow-up visits）时提供的信息。
 
 ### 2）考试重点（Claude 补充）
 
-> ⭐ 义务要会区分：absolute（不论成本）｜practicable（技术可行就要做，不论成本）｜reasonably practicable（风险 vs 成本权衡）｜reasonable（工人合理注意）。前三者常考雇主义务；reasonable 多用于工人。
-> ⭐ SFAIRP 答题时写出权衡：*Fitting X is reasonably practicable, as the cost is low compared with the risk of …*；若代价 **grossly disproportionate** 于风险，可考虑更便宜的方案。
+> ⭐ 义务的三个等级要会区分：absolute（不论成本）→ practicable（技术上可行就要做）→ reasonably practicable（把风险和成本权衡，除非代价与风险严重不成比例）。
+> ⭐ SFAIRP 答题时要写出权衡：措施的成本 vs 风险的大小。
 > 信息来源题（Identify）直接列：法律法规、工作守则、指引、宣传册、统计数据、执法机构的检查和回访。
 
 > 📖 教材补充（p51–53）：国家标准信息的 5 类来源：①法律（acts、decrees、regulations、orders）；②官方指南（标准、经批准的工作守则）；③执法机构（网站、专项行动、检查和回访、事故调查、执法行动）；④**法院判例**；⑤**其他来源**：专业团体、行业协会、保险公司。
@@ -229,8 +216,8 @@ QA.md
 
 ### 2）考试重点（Claude 补充）
 
-> ⭐⭐ 高频题："How can top management demonstrate commitment?" → **优先按教材的 5 个方法写（p57）**：①提供足够的资源（time/money/people/skills）；②明确角色和职责；③指定一位高层牵头（champion）并以身作则（practise what they preach / safety tours）；④任命有能力的安全团队（adviser 只建议，直线管理负责）；⑤积极参与绩效审查（约每年）。
-> 4P 只是记忆钩子，不是另套考点；每个 P 可举：
+> ⭐⭐ 高频题："How can top management demonstrate commitment?" → **答题按教材的 5 个方法写（p57）**：①提供足够的资源；②明确角色和职责；③指定一位高层牵头（champion）并以身作则；④任命有能力的安全团队；⑤积极参与绩效审查。
+> 4P 是帮助记忆的归纳，每个 P 可以举这些具体做法：
 > Policy：签署方针、设定目标、把安全列入董事会议程；Provide：批预算、配人、给时间做培训；Practise：安全巡查、以身作则遵守规则；Performance：定期审查绩效、追究经理责任、回应警告和报告。
 > 反面例子：无视安全团队的警告（叉车案例）= 缺乏承诺。
 > 选外部顾问时看什么：资质、经验、专业会员资格、职业责任险、费用。
@@ -283,11 +270,8 @@ QA.md
 
 ### 1)总结
 
-> ⭐ 外包 **不等于** 外包安全责任；client 与 contractor **双方都有责任**。
-> **Client**：选有能力的承包商；提供现场已知危害信息；入职培训；协调与监控承包商工作；对**借给**承包商的设备负责（一般不建议外借工具）；指定有能力的人协调；告知特殊风险；要求投标报价含安全费用；定工期考虑安全。
-> **Contractor**：对自己的工作、设备、员工负责；遵守现场规则；提供 **method statement**；自带设备自己负责。
-> 承包商风险更高的常见原因：不熟悉现场；拆除／维修／调试本身风险高；**norms** 不同；人员流动大（分包）；客户压价催工期 → **cutting corners**。
-> 信息交换：client 给现场危害信息 ↔ contractor 给施工方案（method statement）。
+> ⭐ 1)client-contractor 双方之间都有责任：client要挑选合格承包商，监督、确保安全；contractor对自己的工作和设备负责，client出借设备的，client对出借的设备负责。对于承包商自身原因造成的损害，由承包商自己负责（操作不当导致的触电身亡）。
+> 2)planning and coordination
 
 ### 2）考试重点（Claude 补充）
 
@@ -328,13 +312,7 @@ QA.md
 
 ### Q:With reference to the scenario, comment on the effectiveness of the organisation’s process for selecting competent contractors. (10)
 
-> **Comment 框架**：对照预选清单，场景里做了什么／缺什么。句型：*The selection process appears weak, as shown by … (e.g. no references checked / generic risk assessment accepted / zero-accident claim not verified / no check of enforcement history).* 正面则：*… appears effective, as shown by …*
-
 ### Q:What checks do you do on your contractors to ensure they are competent? Are you sure these checks work in practice?
 
-> 对照 1.10 预选清单列点；强调要**核实**推荐信、培训名单与实际到场人员一致、方针非模板、零事故要怀疑。
-
 ### Q:What monitoring do you carry out on contractor behaviour while they are doing work on your behalf?
-
-> 入职培训、签到签出、指定联系人、开工前／到场后／定期会议、控制进入、作业许可、主动检查（新承包商更勤）、长期驻场进安全委员会。句型：*The client should induct contractors, require them to sign in and out, and inspect their work frequently.*
 

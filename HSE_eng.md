@@ -2,12 +2,6 @@
 
 # 1.1 Moral Expectations（教材 p21–31）
 
-### 考试重点（本节）
-> ⭐ 三大理由别混：**moral / financial / legal**。道德题只写对人的关怀、弱势人群、不拿利润换安全、看行动不看口号。
-> Comment 句型：*The organisation appears to care about …, as shown by …* / *Management do not appear to value …, as …*
-> 常见错误：道德题写罚款、保费、成本 → 那是 1.2／1.3。
-
-
 ## Underpin [ˌʌndərˈpɪn] 支持
 
 > 考试里怎么用：较少直接考，读懂即可，写道德理由时可以用。
@@ -226,14 +220,6 @@ and safety systems.
 
 # 1.2 The Financial Costs of Incidents (Insured and Uninsured Costs 隐性成本)（教材 p32–37）
 
-### 考试重点（本节）
-> ⭐⭐ 先分 **insured / uninsured**，再分 **direct / indirect**。未投保通常远大于投保（约 8–36 倍）。
-> **Insured**：ELI（员工赔偿）、PLI（公众索赔）、建筑／设备损坏（财产险）、与民事索赔相关的法律费用（看保单）。
-> **Uninsured（高频）**：fines（**不能投保**）、**criminal legal defence costs often not insured**、sick pay、lost production/downtime、clean-up、management time、excess、临时工／培训、丢客户、声誉、士气、premium increase。
-> 句型：*Uninsured costs include …, which cannot be insured.* / *Compensation to injured employees is usually covered by employers’ liability insurance.*
-> ⚠️ 罚款可同时是 uninsured + direct；别把刑事律师费算进 insured。
-
-
 ## ⭐⭐⭐ Employers’ Liability Insurance/(ELI) 雇主责任险
 
 > 考试里怎么用：成本题（insured costs）：员工伤病的赔偿由 ELI 赔付。注意和 PLI 区分：一个赔员工，一个赔公众。
@@ -274,7 +260,7 @@ and safety systems.
 | 例子 | 工人被机器弄伤 | 访客在前台滑倒 | 顾问误判没有石棉 |
 | 考试里 | 成本题：员工赔偿 | 成本题：第三方索赔 | 1.7 选外部顾问时要查 |
 
-> ⚠️ 罚款不能投保；**刑事**辩护律师费通常没有保险（教材 p35）。民事索赔相关法律费用可能由 ELI/PLI 覆盖（看保单），答题别把 criminal defence 算进 insured。
+> ⚠️ 罚款不能投保；刑事辩护律师费通常没有保险（教材 p35）。
 
 ## ⭐ Indemnity insurance [ɪnˈdemnəti ɪnˈʃʊrəns] [赔偿保险]
 
@@ -400,12 +386,6 @@ and safety systems.
 
 # 1.3 What Enforcement Agencies Do and What Happens If You Don’t Comply（教材 p38–44）
 
-### 考试重点（本节）
-> ⭐⭐ **powers ≠ enforcement actions**。问 powers 写进入、检查、取样、拍照、不动现场、问话、复印文件等；问 actions 写 warning → improvement notice → prohibition notice → prosecution。
-> 选用：无紧迫危险 → improvement；serious and imminent danger → prohibition。
-> 句型：*The inspector used the power to …* / *An improvement notice was appropriate because there was no imminent danger.*
-
-
 ## Show recommendations to their law-making groups...……向其立法机构 / 法律制定小组提出建议……
 
 > 考试里怎么用：理解 ILO 和成员国的关系即可（建议书要提交本国立法机构），一般不单独考。
@@ -492,7 +472,7 @@ and safety systems.
 
 ## ⭐⭐⭐ Imminent [ˈɪmɪnənt] 即将发生的，迫在眉睫的
 
-> 考试里怎么用： 考试里几乎只会用到 serious and imminent danger 这个固定搭配，记住它和禁止令、工人有权撤离这两个考点连在一起就行。写答案时注意别拼成 eminent。
+> 考试里怎么用：考试里怎么用： 考试里几乎只会用到 serious and imminent danger 这个固定搭配，记住它和禁止令、工人有权撤离这两个考点连在一起就行。写答案时注意别拼成 eminent。
 > serious and imminent danger → 检查员发禁止令（prohibition notice）；工人有权撤离且不受处罚。
 >
 > English: Where there is a risk of serious and imminent danger, the inspector may issue a prohibition notice to stop the work immediately.
@@ -537,8 +517,7 @@ and safety systems.
 
 ## ⭐⭐⭐ Served a notice：正式送达一份法律通知
 
-> 考试里怎么用：场景里出现“检查员送达通知”，要判断是整改令（improvement）还是禁止令（prohibition），并说明理由。这是 **enforcement action**，不是 power。
-> 句型：*The inspector served an improvement notice requiring … within a set time.* / *A prohibition notice was appropriate because of serious and imminent danger.*
+> 考试里怎么用：场景里出现“检查员送达通知”，要判断是整改令（improvement）还是禁止令（prohibition），并说明理由。
 >
 > English: The inspector served an improvement notice, requiring the organisation to put things right within a set time.
 
@@ -550,14 +529,6 @@ and safety systems.
 > - appeal against a notice 对通知提出申诉
 
 # 1.4 The ILO and Their Conventions/Recommendations（教材 p45–50）
-
-### 考试重点（本节）
-> **C155**＝公约（批准国有约束力，约束国家再立法）；**R164**＝建议书（无强制力，补细节）。点名哪份就只写哪份。
-> 雇主：C155 场所／设备／物质／PPE（SFAIRP）；R164 另强调监督、工时休息、消除疲劳、跟上新知识、免费 PPE。
-> 工人义务（R164）：合理注意自己和他人、遵守程序、正确使用设备、报告危害／伤害。
-> 工人权利（教材主要列 **C155 Art.19**）：知情、培训、协商、遇严重紧迫危险撤离且不受不当处罚、不为安全措施付费。
-> 句型：*Under C155, workers who remove themselves from serious and imminent danger must be protected from undue consequences.*
-
 
 ## ⭐⭐ Formulate [ˈfɔːrmjuleɪt] 制定 & ⭐ formalise [ˈfɔːrməlaɪz] 正式化、使成为正式的书面形式
 
@@ -921,13 +892,6 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 # 1.5 Where You Can Find Information on National Standards（教材 p50–53）
 
-### 考试重点（本节）
-> 义务：Absolute（shall/must）｜practicable（技术可行不论成本）｜reasonably practicable/SFAIRP（风险 vs 成本）｜reasonable（多用于工人）。
-> ⚠️ reasonable **不是**插在 practicable 与 SFAIRP 之间的“中间档”。
-> 信息来源 Identify：legislation；codes of practice；guidance；leaflets；statistics；enforcement inspections/follow-up；courts；professional/trade bodies；insurers。
-> 句型：*Fitting guard rails is reasonably practicable, as the cost is low compared with the risk of serious injury.*
-
-
 ## ⭐⭐ Shall / Must 应当,必须
 
 > 考试里怎么用：绝对义务：必须做到，不考虑成本。
@@ -1006,8 +970,6 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 | 常用于 | 风险极高的事项 | 高风险、技术不断进步的领域 | 雇主的大部分义务 | **工人**的义务 |
 
 > 绝对义务（absolute）以外的三种都叫 qualified duties（有限定的义务）。
-> ⚠️ 四个不是一条“由严到松”的连续箭头：practicable 与 absolute 都不考虑成本；SFAIRP 才权衡；reasonable 多用于工人注意义务。
-> SFAIRP 句型：*… is reasonably practicable, as the cost is low compared with the risk …*；若成本与风险 **grossly disproportionate**，考虑更便宜方案。
 
 ## ⭐⭐ Without prejudice to 不影响……的适用"或"在不影响……的前提下"
 
@@ -1178,12 +1140,6 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 - 一句话记： 不管是执法机构还是企业自己，发现问题 → 要求整改 → 回头核实，跟进才算完成闭环。
 
 # 1.6 Roles of Directors, Managers, and Supervisors（教材 p53–57）
-
-### 考试重点（本节）
-> 对上号：方针／预算／文化／最终问责 → **top managers**；风险评估／程序／培训／监控 → **managers**；检查／纠正／报告／初步调查 → **supervisors**。
-> ⭐ 职责可下放，**问责不能下放**；H&S adviser 只建议，直线管理负责。
-> 句型：*Senior managers can delegate tasks, but they remain accountable for health and safety.*
-
 
 ## ⭐⭐ The Health and Safety ‘Champion.’ 安全健康倡导者、安全健康牵头人 ⭐⭐ A safety advisor 安全顾问 ⭐ Safety engineers  安全工程师 
 
@@ -1572,13 +1528,6 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 # 1.7 How Top Management Can Demonstrate Commitment（教材 p57–64）
 
-### 考试重点（本节）
-> ⭐⭐ 优先写教材 **5 法（p57）**：①足够资源；②明确角色职责；③高层 champion + 以身作则；④任命 competent H&S team；⑤积极参与绩效审查。
-> 4P（Policy/Provide/Practise/Performance）只是记忆钩子。
-> competence：knowledge + skills + experience + awareness of limits + qualifications + professional memberships；外聘还要查 PI insurance。
-> 句型：*Top management can demonstrate commitment by providing adequate resources and carrying out regular safety tours.*
-
-
 ## ⭐ Incorporating [ɪnˈkɔːrpəreɪtɪŋ] 纳入、融入、把……包含进去
 
 > 考试里怎么用：最高管理层的承诺：把安全纳入经营决策、预算和绩效考核。
@@ -1826,12 +1775,6 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 - This underscores the importance of not only having technical know-how but also being adept at communication and influence to truly make a significant difference in the realm of health and safety.
 
 # 1.8 Organisations Who Share Workplaces（教材 p65–70）
-
-### 考试重点（本节）
-> 三个 C：communicate / coordinate / collaborate。落地：liaison group、统一应急、联合检查／入职、明确公共区域职责、formalise。
-> 合作 **不影响** 各雇主对本员工的责任（R164 *without prejudice to*）。
-> 句型：*The organisations should set up a liaison group to share hazard information and agree a single emergency plan.*
-
 
 ## ⭐ The duplication of efforts [djuːplɪˈkeɪʃn] 重复劳动、工作重复
 
@@ -2090,12 +2033,6 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 # 1.9 How Clients and Contractors Should Work Together（教材 p71–76）
 
-### 考试重点（本节）
-> 外包 ≠ 外包安全责任。Client：选competent、给现场危害信息、induction、协调监控、对借出设备负责。Contractor：对自己工作／设备／员工负责，交 method statement，守现场规则。
-> 高风险原因：不熟现场、拆除／维修／调试、norms 不同、人员流动、cutting corners。
-> 句型：*The client should select a competent contractor, provide information about site hazards and monitor the contractor’s work.*
-
-
 ## Workforce 全体员工、劳动力
 
 > 考试里怎么用： 答题时用来指代组织里所有工作的人，比 workers 更正式、范围更全，通常也包括临时工和承包商。常见于这几类话题：管理层与员工互动（1.7）、协商和参与（1.4）、培训和能力（1.6）、安全文化（Element 3）。场景里出现"管理层和员工之间缺乏沟通" → 建议让员工参与安全决策。
@@ -2287,12 +2224,6 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 # 1.10 Pre-selection and Management of Contractors（教材 p76–79）
 
-### 考试重点（本节）
-> ⭐⭐ 预选：类似经验、核实推荐、人员资质与培训名单对得上、非模板方针、事故统计（零事故可疑）、执法记录、site-specific RA＋method statement、保险、分包管理、资源、监控与协商程序。
-> 管理：induction、签到签出、联系人、三类会议、控制进入、PTW、勤检查、长期驻场进安全委员会。
-> Comment 句型：*The selection process appears weak, as shown by …* / *The client should require a site-specific risk assessment rather than a generic document.*
-
-
 ## Showcase 展示、展现
 
 > 考试里怎么用： 不是考试核心词，读懂即可。它在 1.10 里的作用是：承包商要展示自己以往做过的类似工作，证明自己有能力胜任。答题时不需要用 showcase，用 provide、show 或 demonstrate 写出同样的意思就行，比如写在"发包方选承包商时应要求对方提供什么"这类题里。
@@ -2347,9 +2278,3 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 > English: The client should check how the main contractor selects and manages its sub-contractors, to ensure they are also competent.
 
 - What are their arrangements for selecting and managing sub-contractors? Clients want reassurance that sub-contractors will be carefully selected and managed by the main contractor.
-
-### 考试答题句型（1.10）
-> *With reference to the scenario, the organisation’s contractor selection appears ineffective, as shown by …*
-> *The client should check references, training records, enforcement history and site-specific risk assessments before awarding the contract.*
-> *New contractors should be inducted, signed in and out, and inspected frequently while working on site.*
-> *A generic risk assessment should be rejected; the contractor must provide a task- and site-specific assessment and method statement.*
