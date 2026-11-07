@@ -2278,3 +2278,176 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 > English: The client should check how the main contractor selects and manages its sub-contractors, to ensure they are also competent.
 
 - What are their arrangements for selecting and managing sub-contractors? Clients want reassurance that sub-contractors will be carefully selected and managed by the main contractor.
+
+## A point of contact [pɔɪnt əv ˈkɑːntækt] 联系人、对接人
+
+> **考试里怎么用：** ⭐⭐ 常作为一条具体、实用的建议出现。场景里出现"承包商不知道找谁""几家单位之间没人对接""出了问题不知道向谁报告" → 建议指定一个明确的联系人。答题时要写清楚这个人负责什么：比如照看承包商、回答问题、批准作业、协调各方；并可点出没有联系人的后果：confusion, delays, missed hazards。
+>
+> **English:** The client should nominate a named point of contact who is responsible for supervising the contractors, answering their questions and authorising their work. Contact details should be shared so everyone knows whom to ask or report to.
+
+### 常考位置
+
+- 1. **共用场所（1.8）**：多雇主／多租户同场时，题干常写沟通混乱、事故信息不流通 → 采分点常含 *nominate / appoint a point of contact for each organisation*，并和 communicate／coordinate／collaborate 一起写。
+- 2. **承包商（1.9–1.10）**：发包方与承包商、主承包与分包之间要有明确联系人；否则 induction、许可作业、变更、停工指令对不上人。
+- 3. **场景题写法**：看到 “unclear who to speak to / no named contact / messages lost” → 先点 *lack of a clear point of contact*，再写后果（危害未通报、应急延误、重复或遗漏控制）。
+- 答题尽量写 *a named point of contact*，并说明可如何联系（name / role / contact details）
+
+### 答题可抄句型
+
+- *Appoint a named point of contact for each party and share contact details.*
+- *Use the point of contact to exchange risk information and coordinate emergency arrangements.*
+- *Without a clear point of contact, communication and cooperation break down.*
+
+> Common collocations:
+> - nominate / appoint a point of contact 指定联系人
+> - a single / named point of contact 唯一／具名的对接人
+> - a named person 指定的具体负责人
+> - share contact details 分享联系方式
+> - liaise with 与……联络、对接
+> - report to 向……报告
+
+- Clients should nominate a point of contact for contractors to liaise with during the work. This person is responsible for looking after them, supervising them, answering any questions, and giving any necessary work authorisations. 
+
+## A site visit 现场查看／工地走访
+
+> **考试里怎么用：** ⭐ 常出现在承包商「开工前准备」一条里。场景写承包商不了解现场、作业范围不清、进场就撞上现有危害 → 建议开工前由承包商代表做 *a site visit*，弄清要做什么、现场条件与限制。答题写清目的：identify the work / assess site conditions / plan controls；别只写 “go to site”。
+>
+> **English:** Before contractors arrive, a site visit by their representative should identify the work to be carried out and the site conditions so controls can be planned.
+
+### 常考位置
+
+- 1. **承包商管理 · 开工前准备（1.10，p78）**：教材写 contractors arrival 前通常有讨论 + *a site visit by a representative of the contractors*，用来 identify what work will be carried out。
+- 2. **和日常监督区分**：开工后 client *proactively inspect* 承包商作业（新承包商更勤）——那是现场检查／监督，答题别把所有 “去现场” 都写成 site visit。
+- 3. **场景信号**：*unfamiliar with the site / no walk-round before starting / work scope unclear* → 先点 *no pre-start site visit*，再写后果（错误方法、遗漏危害、延误）。
+
+### 答题可抄句型
+
+- *Arrange a pre-start site visit by the contractor’s representative to identify the work and site conditions.*
+- *Use the site visit to plan controls, access, welfare and interfaces with other parties.*
+- *Without a site visit, contractors may start work without understanding site hazards.*
+
+**易混区分：**
+- site visit ≠ follow-up visit（后者多指执法／整改后回访，检查 improvement notice 等是否落实）
+- site visit ≠ visitor（visitor 是访客；site visit 是为工作／了解现场而去的走访）
+- 开工前 site visit（了解与计划）≠ 开工后 inspection／supervision（监督承包商是否安全作业）
+
+> Common collocations:
+> - a pre-start / preparatory site visit 开工前现场查看
+> - a site visit by a representative 由代表进行现场查看
+> - carry out / arrange a site visit 安排／进行现场查看
+> - identify the work / site conditions 弄清作业内容／现场条件
+> - walk the site / walk-round 现场走一遍
+
+- Before the arrival of the contractors, there would normally be some discussion and a site visit by a representative of the contractors to identify what work will be carried out.This meeting is what will lead to a risk assessment and method statement being written and agreed upon by both parties.
+
+## Stray (into) [streɪ ˈɪntuː] 误入、擅自走进
+
+> **考试里怎么用：** ⭐ 常夹在承包商作业区控制里。场景写无关人员走进施工区、或承包商跑到不该去的区域 → 写 *control access so people do not stray into the work area*；可再补屏障、标牌、许可、告知。后果写 *put themselves at risk*。
+>
+> **English:** Access to the work area should be controlled so that unnecessary personnel do not stray into the area and put themselves at risk.
+
+### 常考位置
+
+- 1. **承包商管理 · 作业中控制（1.10）**：教材：控制进入作业区，避免 unnecessary personnel *stray into* 并把自己置于风险中；同时防止承包商进入他们不需要进入的区域。
+- 2. **场景信号**：*walk into the exclusion zone / wander into hot-work area / no barriers* → 点 *people may stray into the area*，再写 access control／exclusion zone。
+- 3. **和“访客／公共区域”题**：共用场所或施工界面不清时，也可用 *stray into* 描述误入危害区。
+
+### 答题可抄句型
+
+- *Control access so that unnecessary personnel do not stray into the work area.*
+- *Prevent contractors from accessing areas where they are not needed.*
+- *Use barriers and signs so people cannot stray into the exclusion zone.*
+
+> Common collocations:
+> - stray into the (work / hazardous / exclusion) area 误入作业／危险／隔离区
+> - do not stray into 不要误入
+> - control access (to prevent people from straying into…) 控制进入以防误入
+> - unnecessary personnel 无关人员
+> - put themselves at risk 使自己处于风险中
+
+- Access to the work area should be controlled to ensure that unnecessary personnel do not stray into the area and put themselves at risk.
+
+## Congestion [kənˈdʒestʃən] 拥挤、堵塞（通道／场地挤满）
+
+> **考试里怎么用：** ⭐ 承包商管理里写场地控制。场景写工具、材料、废料堆在通道上 → 写 *excessive congestion*，常和 *trip hazards*、*block fire escape routes* 一起出。答措施：提供合适的储存与废料设施（suitable storage and waste facilities）。
+>
+> **English:** Provide suitable storage and waste facilities so that tools, materials and waste do not create excessive congestion, trip hazards, or block fire escape routes.
+
+### 常考位置
+
+- 1. **承包商管理 · 作业中控制（1.10）**：教材：承包商常带大型工具、设备、材料，并产生废料；客户应提供合适储存与废料设施，避免 *excessive congestion*、绊倒危害、堵住消防疏散通道。
+- 2. **场景信号**：*materials left in walkways / waste piled near exits / site cluttered* → 点 *congestion*，再写 storage、housekeeping、clear escape routes。
+- 3. **和滑倒绊倒／消防题交叉**：拥挤本身常连带 *trip hazards* 与 *blocked fire exits*——三件事可一起得分。
+
+### 答题可抄句型
+
+- *Provide suitable storage and waste facilities to avoid excessive congestion.*
+- *Keep walkways and escape routes clear of materials and waste.*
+- *Poor storage of contractor materials can create congestion and trip hazards.*
+
+**易混区分：**
+- congestion ≠ traffic jam（考场里多半是**场地／通道被占满**，不是马路上堵车）
+- congestion ≠ overcrowding of people only（人多可以叫拥挤；教材这句更强调**物堆导致的堵塞**）
+- congestion 是现象；措施写 *storage / waste facilities / housekeeping / keep routes clear*
+
+> Common collocations:
+> - excessive congestion 过度拥挤／严重堵塞
+> - create congestion 造成拥挤
+> - congestion, trip hazards, (and) blocked fire escape routes 拥挤、绊倒危害、堵住疏散通道（教材固定三联）
+> - suitable storage and waste facilities 合适的储存与废料设施
+
+- Contractors often require large tools, equipment, and quantities of materials. Their work often generates waste. The client should provide suitable storage and waste facilities to ensure this does not create excessive congestion, trip hazards, or block fire escape routes.
+
+# 2.1 The Basics of Management Systems
+
+## Interrelated [ˌɪntərɪˈleɪtɪd] 相互关联的
+
+> **考试里怎么用：** ⭐ 出现在管理系统定义里。问什么是 management system → 写 *manages the interrelated parts of its business*（把业务中彼此牵连的各部分管起来）以达到目标。强调不是单点措施，而是各部分互相影响、要一起管。
+>
+> **English:** A management system is the way an organisation manages the interrelated parts of its business in order to achieve its objectives.
+
+### 常考位置
+
+- 1. **Element 1 · 管理系统导论（PDCA 开篇）**：教材给 management system 下定义时用 *interrelated parts of its business*——政策、组织、计划、实施、检查、改进等环节彼此关联。
+- 2. **场景信号**：*define a management system / why not just one procedure* → 点 *interrelated parts*，说明改一处会影响别处，所以要用系统（常接 PDCA）。
+- 3. **和“孤立控制”对比**：只写一条规则、不管培训／监督／资源 → 没管到 *interrelated parts*，体系不完整。
+
+### 答题可抄句型
+
+- *A management system manages the interrelated parts of the business to achieve objectives.*
+- *Health and safety controls are interrelated — changing one part affects others.*
+- *The PDCA cycle links interrelated activities into one continual improvement process.*
+
+> Common collocations:
+> - interrelated parts (of its business) 业务中相互关联的各部分
+> - manage the interrelated parts 管理相互关联的各部分
+> - interrelated activities / processes 相互关联的活动／过程
+
+- A management system is the way in which an organisation manages the interrelated parts of its business in order to achieve its objectives.
+
+## Bureaucratic [ˌbjʊərəˈkrætɪk] 官僚式的、手续繁琐的
+
+> **考试里怎么用：** ⭐ 管理系统语境。一是描述正式体系：*formal, documented, and bureaucratic*（成文、层级多、程序多）。二是写 ISO 45001 的批评：HSE 提醒其可能 *overly bureaucratic*、对某些组织 *disproportionate and overly complex*——有证≠一定合法合规。答题可写：体系要与风险相称，小／低风险组织可用简单体系。
+>
+> **English:** Some management systems are formal, documented and bureaucratic; the HSE cautions that an overly bureaucratic approach (e.g. to ISO 45001) may be disproportionate and overly complex for some organisations.
+
+### 常考位置
+
+- 1. **Element 1 · 管理系统导论**：教材说管理工作优先级的体系有时正式、成文、*bureaucratic*；有的还经外部审核并获认证（accredited／certification）。
+- 2. **ISO 45001 与 HSE 态度**：实施 ISO 45001 非法定义务；HSE 认为有证未必证明合法合规，并告诫勿采用过度官僚、与组织规模／风险不相称的做法；标准本身也允许小／低风险组织用简单 OH&S 体系。
+- 3. **场景信号**：*lots of paperwork / certification / disproportionate for an SME* → 点 *bureaucratic*／*proportionate*，强调有效管理重于堆文件。
+
+### 答题可抄句型
+
+- *Some systems are formal, documented and bureaucratic; others are simpler.*
+- *An overly bureaucratic approach may be disproportionate and overly complex for some organisations.*
+- *ISO 45001 certification is not necessarily evidence of legal compliance.*
+
+> Common collocations:
+> - formal, documented, and bureaucratic 正式、成文且手续繁琐的
+> - overly bureaucratic (approach) 过于官僚的（做法）
+> - disproportionate and overly complex 不相称且过于复杂
+> - externally audited and accredited／certified 经外部审核并获认可／认证
+
+# 2.2 ILO-OSH 2001
+

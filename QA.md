@@ -316,3 +316,20 @@ QA.md
 
 ### Q:What monitoring do you carry out on contractor behaviour while they are doing work on your behalf?
 
+### Case Study
+
+> What Happened?A construction company was fined following the death of a worker.The deceased worker was employed as a groundworker by a subcontractor to work on a construction site. He was using a machine to compact hardcore next to the area where a steel frame was being erected. The frame fell onto the worker, causing fatal injuries.
+
+> The Prosecution:The subsequent enforcement agency investigation found serious safety failings in the way in which the company had managed the project. The anchor bolts of the steelwork were so poorly installed that they could be moved by hand. They had not been properly checked.The company had failed to review the risk assessments and method statements submitted by the subcontractor for the work and had failed to establish and maintain an exclusion zone around the steelwork while erection was being carried out.
+
+> The Sentence:The company was fined the equivalent of $255,000 for failing to ensure the health and safety of nonemployees
+
+# ELEMENT 2 HOW & WHAT
+## 2.1 The Basics of Management Systems
+
+> 总结：
+> -1)PDCA,Plan–Do–Check–Act（戴明循环）
+> -2)**ILO-OSH 2001**：国际劳工组织出的**指南（guidelines）**——实用建议／框架，**不能拿来认证**。
+> -3)**ISO 45001:2018**：国际标准化组织出的**标准（standard）**——可请外部认证机构审核，**可以拿证**。
+
+## 2.2 ILO-OSH 2001
