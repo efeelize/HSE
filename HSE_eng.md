@@ -1,6 +1,6 @@
 > 星级说明：⭐⭐⭐ 必考高频 ｜ ⭐⭐ 常考 ｜ ⭐ 了解、会用 ｜ 无星：读懂即可
 
-# 1.1 Moral Expectations（教材 p21–31）
+# 1.1 Moral Expectations（教材 p11–27）
 
 ## Underpin [ˌʌndərˈpɪn] 支持
 
@@ -96,7 +96,7 @@ and safety systems.
 
 - 易混：**-ly** 结尾的 *transparently* 修饰动作；*transparency* 是动作所体现的状态或原则。
 - 记忆：**报告要公开透明（report transparently），这样可以确保透明（ensure transparency）。**
-- **Studybook 原句**：Audit results must be reported to those responsible for corrective action and discussed with worker representatives to ensure transparency and shared ownership.（教材 p100）
+- **Studybook 原句**：Audit results must be reported to those responsible for corrective action and discussed with worker representatives to ensure transparency and shared ownership.（教材 p164）
 
 ## Shared ownership  共同承担责任；共同参与并认同
 
@@ -111,7 +111,7 @@ and safety systems.
 > - **take ownership of an action** 对某项行动承担责任
 > - **assign ownership of corrective actions** 指定纠正措施的负责人
 
-- **Studybook 原句**：Audit results must be reported to those responsible for corrective action and discussed with worker representatives to ensure transparency and shared ownership.（教材 p100）
+- **Studybook 原句**：Audit results must be reported to those responsible for corrective action and discussed with worker representatives to ensure transparency and shared ownership.（教材 p164）
 
 ## Benchmark [ˈbentʃmɑːrk] 对标 / 基准
 
@@ -142,7 +142,7 @@ and safety systems.
 
 ### ⭐⭐⭐ Inductions [ɪnˈdʌkʃ(ə)n] 入职培训/安全交底
 
-> Induction ⭐⭐⭐： 场景里出现新人（新员工、临时工、承包商、访客）不了解规则、出了事 → 指出没有入职培训，建议上岗前做 induction。1.10 管理承包商的第一项措施就是"入场前做入职培训"（p78）。教材 1.1 的案例里，每个访客和承包商都要看入职视频、通过测验，被当作组织重视安全的表现（p28）。
+> Induction ⭐⭐⭐： 场景里出现新人（新员工、临时工、承包商、访客）不了解规则、出了事 → 指出没有入职培训，建议上岗前做 induction。1.10 管理承包商的第一项措施就是"入场前做入职培训"（p134）。教材 1.1 的案例里，每个访客和承包商都要看入职视频、通过测验，被当作组织重视安全的表现（p21）。
 >
 > English: All new workers and contractors should receive an induction before starting work, covering site hazards, rules and emergency procedures.
 
@@ -198,7 +198,7 @@ and safety systems.
 | 给谁 | 本单位的新人、承包商、访客 | 同一场所**所有单位**的新人 | 现有班组的工人 |
 | 内容 | 本单位的危害、规则、应急程序 | **公共区域**规则、统一的疏散路线和集合点 | **一个话题**：当天作业、最近事故、情况变化 |
 | 时长 | 较长 | 较长 | **5–15 分钟** |
-| 教材 | 1.1（p26、28）、1.10（p78）、3.3 | **1.8**（p68） | **3.4**（p187） |
+| 教材 | 1.1（p16、28）、1.10（p131）、3.3 | **1.8**（p105） | **3.4**（p333） |
 | 场景里的问题 | 新人不懂规矩出了事 | 几家单位各讲各的、信息不一致 | 情况变了、刚出过事、工人不清楚当天危害 |
 
 ## ⭐⭐⭐ Inference [ˈɪnfərəns] 推论
@@ -255,7 +255,7 @@ and safety systems.
 
 - the effective abolition of child labor.
 
-# 1.2 The Financial Costs of Incidents (Insured and Uninsured Costs 隐性成本)（教材 p32–37）
+# 1.2 The Financial Costs of Incidents (Insured and Uninsured Costs 隐性成本)（教材 p28–35）
 
 ## ⭐⭐⭐ Employers’ Liability Insurance/(ELI) 雇主责任险
 
@@ -297,7 +297,7 @@ and safety systems.
 | 例子 | 工人被机器弄伤 | 访客在前台滑倒 | 顾问误判没有石棉 |
 | 考试里 | 成本题：员工赔偿 | 成本题：第三方索赔 | 1.7 选外部顾问时要查 |
 
-> ⚠️ 罚款不能投保；刑事辩护律师费通常没有保险（教材 p35）。
+> ⚠️ 罚款不能投保；刑事辩护律师费通常没有保险（教材 p32）。
 
 ## ⭐ Indemnity insurance [ɪnˈdemnəti ɪnˈʃʊrəns] [赔偿保险]
 
@@ -421,7 +421,7 @@ and safety systems.
 
 - The person who was injured may be off sick and being paid sick pay
 
-# 1.3 What Enforcement Agencies Do and What Happens If You Don’t Comply（教材 p38–44）
+# 1.3 What Enforcement Agencies Do and What Happens If You Don’t Comply（教材 p36–45）
 
 ## Show recommendations to their law-making groups...……向其立法机构 / 法律制定小组提出建议……
 
@@ -565,7 +565,7 @@ and safety systems.
 > - comply with a notice 执行通知要求
 > - appeal against a notice 对通知提出申诉
 
-# 1.4 The ILO and Their Conventions/Recommendations（教材 p45–50）
+# 1.4 The ILO and Their Conventions/Recommendations（教材 p46–79）
 
 ## ⭐⭐ Formulate [ˈfɔːrmjuleɪt] 制定 & ⭐ formalise [ˈfɔːrməlaɪz] 正式化、使成为正式的书面形式
 
@@ -768,7 +768,7 @@ and safety systems.
 
 > ⚠️ 易混：**non-conformity** 是“不符合某项要求的情况”；**non-compliance** 常指“不遵守法律、规则或要求”。两者意思接近，但 *non-conformity* 常用于管理体系、审核和标准的语境。
 
-- **Studybook 原句**：Identifying and analysing root causes of any non-conformities or failures — whether related to legal requirements or the organisation’s own safety arrangements.（教材 p101）
+- **Studybook 原句**：Identifying and analysing root causes of any non-conformities or failures — whether related to legal requirements or the organisation’s own safety arrangements.（教材 p167）
 
 ### ⭐⭐ Legal compliance records 法律合规记录
 
@@ -844,7 +844,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 #### 1. ⭐⭐⭐ PPE 是"最后一道防线"（控制层级）
 
-> 教材 Element 3.11 会详细讲（p253–269）。场景里只给工人发了 PPE 就算完事 → 指出应该先考虑消除、替代、工程控制和管理控制，PPE 只是最后手段。
+> 教材 Element 3.11 会详细讲（p427–448）。场景里只给工人发了 PPE 就算完事 → 指出应该先考虑消除、替代、工程控制和管理控制，PPE 只是最后手段。
 
 > English: PPE should only be used as a last resort, after other controls such as guarding and ventilation have been considered.
 
@@ -976,7 +976,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 - To talk to their representative groups[代表工人发声的组织], like unions[比如工会、工人协会], about the safety information they get, as long as[前提是] they don’t share any business secrets.
 
-# 1.5 Where You Can Find Information on National Standards（教材 p50–53）
+# 1.5 Where You Can Find Information on National Standards（教材 p80–83）
 
 ## ⭐⭐ Shall / Must 应当,必须
 
@@ -1047,7 +1047,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 - take all reasonably practicable measures[采取一切合理可行的措施] with a view to [旨在，以便] eliminating excessive physical[体力疲劳] and mental fatigue[精神疲劳];
 - the aim of the policy shall be to prevent accidents and injury to health arising out of, linked with or occurring in the course of work[与工作有关或在工作过程中发生的], by minimising[通过尽量减少], so far as is reasonably practicable, the causes of hazards[危害的成因] inherent in the working environment.”
 
-### 怎么区分：义务的四个等级（教材 p51–52）
+### 怎么区分：义务的四个等级（教材 p80–82）
 
 |  | Absolute 绝对 | Practicable 可行 | Reasonably practicable 合理可行 | Reasonable 合理 |
 |---|---|---|---|---|
@@ -1071,7 +1071,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 ## ⭐ Acts 法律, Decrees 法令, Regulations 条例、规章, Orders 命令, norms 规范、惯例（不成文的规矩）
 
-> 考试里怎么用： 出现在 1.5"去哪里找国家标准的信息"（p51）。考试不会让你区分这四种文件，只要知道：它们都是有法律效力的国家标准信息来源。题目如果问 Identify sources of information on national standards，可以把"法律法规"写成第一项，再写工作守则、指引、执法机构、法院判例、专业团体等。
+> 考试里怎么用： 出现在 1.5"去哪里找国家标准的信息"（p80）。考试不会让你区分这四种文件，只要知道：它们都是有法律效力的国家标准信息来源。题目如果问 Identify sources of information on national standards，可以把"法律法规"写成第一项，再写工作守则、指引、执法机构、法院判例、专业团体等。
 >
 > English: Information on national standards can be found in acts, regulations and other legal documents.
 
@@ -1120,7 +1120,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 | 谁制定 | 立法机关 | 元首／政府 | 政府部门 | 部长、法院、地方机关 |
 | 内容 | 一般性义务 | 视国家而定 | 具体要求 | 针对具体事项 |
 
-> 考试只需记住：它们都是**有法律效力**的国家标准信息来源（教材 p51）。
+> 考试只需记住：它们都是**有法律效力**的国家标准信息来源（教材 p80）。
 
 ### ⭐ Norms 不成文的规矩
 
@@ -1208,7 +1208,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 > English: The inspector made a follow-up visit to check that the improvement notice had been complied with.
 
-### 2. 执法机构提供信息的渠道（1.5，p53）
+### 2. 执法机构提供信息的渠道（1.5，p83）
 > 这是它在教材里的原始位置：执法机构在检查和回访时，会告诉企业国家标准的要求。考"国家标准的信息来源"时可以写上。
 
 ### 3. 企业自己的跟进（Element 4，最重要）
@@ -1225,7 +1225,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 - Enforcement agencies might share information on national standards in several ways:during checks at workplaces or follow-up visits
 - 一句话记： 不管是执法机构还是企业自己，发现问题 → 要求整改 → 回头核实，跟进才算完成闭环。
 
-# 1.6 Roles of Directors, Managers, and Supervisors（教材 p53–57）
+# 1.6 Roles of Directors, Managers, and Supervisors（教材 p84–88）
 
 ## ⭐⭐ The Health and Safety ‘Champion.’ 安全健康倡导者、安全健康牵头人 ⭐⭐ A safety advisor 安全顾问 ⭐ Safety engineers  安全工程师 
 
@@ -1279,7 +1279,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 | 作用 | **牵头推动**：让安全留在董事会议程上，做主要联系人，展现管理层承诺 | **提供建议**：法律要求、风险评估、控制措施、调查、审核、培训 | **技术安全**：机器、电气、压力系统、工艺的设计和检查 |
 | 负不负最终责任 | 不是唯一负责的人，**最终责任在雇主** | **不负责**，责任在直线管理层 | 不负责，只提供技术意见 |
 | 层面 | 战略 | 管理 | 技术 |
-| 教材 | 1.7（p61） | 1.7（p62–63） | 1.6（p54） |
+| 教材 | 1.7（p94） | 1.7（p95–97） | 1.6（p84） |
 
 ## An occupational health advisor 职业健康顾问 ⭐ Hygienists  [haɪˈdʒiːnɪst] 职业卫生师 ⭐ An Asbestos  [æzˈbestəs] 石棉 Consultant
 
@@ -1287,8 +1287,8 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 > 考试里怎么用：三者都属于**外部专家建议**：内部能力不够时，要请**有能力的**专家，并写清楚请谁、为什么。
 > - 专家只**提供建议**，雇主仍然要负责根据建议采取行动。
-> - 职业健康顾问和安全顾问同时存在时，要互相沟通，避免遗漏和重复劳动（p62）。
-> - 石棉：等专家评估期间，要**封闭受影响区域**（p63）。石棉本身的细节属于 GIC2。
+> - 职业健康顾问和安全顾问同时存在时，要互相沟通，避免遗漏和重复劳动（p95）。
+> - 石棉：等专家评估期间，要**封闭受影响区域**（p97）。石棉本身的细节属于 GIC2。
 
 ### ⭐ An occupational health advisor 职业健康顾问
 
@@ -1344,7 +1344,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 | 是谁 | 通常有**医学资质**，比如职业健康护士或医生 | 测量和控制健康危害的专家 | 石棉方面的专家 |
 | 做什么 | 健康监护（比如听力检测）、岗位适应性评估、伤病后复工、为有健康问题的工人调整工作 | 采样测量粉尘、烟尘、噪声、化学品，对比接触限值，提出控制措施（比如通风） | 勘察建筑、评估石棉风险、编写管理计划；**不负责动手拆除** |
 | 典型场景 | 员工长期病假、伤后复工、需要健康检查 | 有粉尘、烟尘、噪声、化学品，又不知道严重程度 | 老建筑翻新或拆除前，或发现可能碎裂的石棉板 |
-| 教材 | 1.6（p54）、1.7（p62） | 1.6（p54） | 1.7（p63） |
+| 教材 | 1.6（p84）、1.7（p95） | 1.6（p84） | 1.7（p97） |
 
 ## ⭐⭐ Fire wardens [ˈfaɪər ˌwɔːrdnz]/Fire marshals 消防安全员、消防员（企业内部的）
 
@@ -1364,7 +1364,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 ## ⭐⭐ Fire escape routes 疏散通道 / 逃生通道 / Evacuation routes / Emergency routes
 
 > 考试里怎么用： ⭐⭐ 场景题里很常见，看到就要找这几类问题：
-> -通道被堵： 走廊、楼梯间堆了箱子、设备、承包商的材料或垃圾（1.10 教材专门提到要给承包商留存放地方，别堵疏散通道，p79）
+> -通道被堵： 走廊、楼梯间堆了箱子、设备、承包商的材料或垃圾（1.10 教材专门提到要给承包商留存放地方，别堵疏散通道，p134）
 > -防火门被顶开： 烟会进入楼梯间，楼梯间就不能用了
 > -出口锁着，或者从里面打不开
 > -标识不清、没有应急照明
@@ -1612,7 +1612,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 - Joint inspections are another practical tool for coordination and cooperation. They demonstrate a shared commitment to safety and help maintain consistent standards throughout the building or site.
 
-# 1.7 How Top Management Can Demonstrate Commitment（教材 p57–64）
+# 1.7 How Top Management Can Demonstrate Commitment（教材 p89–99）
 
 ## ⭐ Incorporating [ɪnˈkɔːrpəreɪtɪŋ] 纳入、融入、把……包含进去
 
@@ -1845,7 +1845,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 - sharing and emphasising the significance of effective occupational health and safety management, and the importance of adhering to the requirements of the management system
 
-# 1.8 Organisations Who Share Workplaces（教材 p65–70）
+# 1.8 Organisations Who Share Workplaces（教材 p100–107）
 
 ## ⭐ The duplication of efforts [djuːplɪˈkeɪʃn] 重复劳动、工作重复
 
@@ -1883,7 +1883,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 ### ⭐⭐ Be part of discussions 被征求意见
 
-> 考试里怎么用：工人被协商权：通过安全委员会、安全代表、班前会参与。注意 consult（事前征求意见）≠ inform（告知）。be part of discussions 是同一件事，从员工角度说（1.4 工人的权利，p49）。场景里管理层不听员工意见、单方面决定 → 写 lack of consultation，建议通过安全委员会、安全代表、班前会协商。
+> 考试里怎么用：工人被协商权：通过安全委员会、安全代表、班前会参与。注意 consult（事前征求意见）≠ inform（告知）。be part of discussions 是同一件事，从员工角度说（1.4 工人的权利，p72）。场景里管理层不听员工意见、单方面决定 → 写 lack of consultation，建议通过安全委员会、安全代表、班前会协商。
 >
 > English: Workers should be consulted on health and safety matters, for example through a safety committee.
 
@@ -1930,7 +1930,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 | **Collaboration** | 一起做 | 多方 | **单位 ↔ 单位** |
 
 > 最容易混的：
-> - **consultation vs communication**：communication 可以只是"告诉"（从周一开始换班）；consultation 必须"先问再决定"（我们打算换班，大家怎么看？）。Element 3.5 有专门一节讲（p189）。
+> - **consultation vs communication**：communication 可以只是"告诉"（从周一开始换班）；consultation 必须"先问再决定"（我们打算换班，大家怎么看？）。Element 3.5 有专门一节讲（p339）。
 > - **consultation vs be part of discussions**：同一件事，答题时用 consultation 更专业。
 > - 三个 C 的顺序：先沟通 → 再协调 → 实现协作。
 
@@ -2102,7 +2102,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 > English: At the loading bay, pedestrians and vehicles should be separated, for example with marked walkways and barriers.
 
-# 1.9 How Clients and Contractors Should Work Together（教材 p71–76）
+# 1.9 How Clients and Contractors Should Work Together（教材 p108–124）
 
 ## Workforce 全体员工、劳动力
 
@@ -2293,7 +2293,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 - painting from ladders instead of scaffolding
 
-# 1.10 Pre-selection and Management of Contractors（教材 p76–79）
+# 1.10 Pre-selection and Management of Contractors（教材 p125–145）
 
 ## Showcase 展示、展现
 
@@ -2329,7 +2329,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 ## ⭐⭐ Accreditations [əˌkredɪˈteɪʃnz] 认证、资质认可
 
-> 考试里怎么用： 1.10 预选承包商的检查项之一。场景题问"怎么判断承包商是否胜任"时，可以写：检查对方是否有相关的安全认证（比如 ISO 45001）。认证是能力的好迹象，但不是全部：教材也说，承包商的安全管理体系不一定要正式认证（p77），所以还要结合其他检查项一起判断。
+> 考试里怎么用： 1.10 预选承包商的检查项之一。场景题问"怎么判断承包商是否胜任"时，可以写：检查对方是否有相关的安全认证（比如 ISO 45001）。认证是能力的好迹象，但不是全部：教材也说，承包商的安全管理体系不一定要正式认证（p130），所以还要结合其他检查项一起判断。
 
 > English: The client should check whether the contractor holds relevant accreditations, such as ISO 45001, as evidence of a good health and safety management system.
 
@@ -2387,7 +2387,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 ### 常考位置
 
-- 1. **承包商管理 · 开工前准备（1.10，p78）**：教材写 contractors arrival 前通常有讨论 + *a site visit by a representative of the contractors*，用来 identify what work will be carried out。
+- 1. **承包商管理 · 开工前准备（1.10，p133）**：教材写 contractors arrival 前通常有讨论 + *a site visit by a representative of the contractors*，用来 identify what work will be carried out。
 - 2. **和日常监督区分**：开工后 client *proactively inspect* 承包商作业（新承包商更勤）——那是现场检查／监督，答题别把所有 “去现场” 都写成 site visit。
 - 3. **场景信号**：*unfamiliar with the site / no walk-round before starting / work scope unclear* → 先点 *no pre-start site visit*，再写后果（错误方法、遗漏危害、延误）。
 
@@ -2469,17 +2469,17 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 - Contractors often require large tools, equipment, and quantities of materials. Their work often generates waste. The client should provide suitable storage and waste facilities to ensure this does not create excessive congestion, trip hazards, or block fire escape routes.
 
-# 2.1 The Basics of Management Systems（教材 p81–82）
+# 2.1 The Basics of Management Systems（教材 p146–148）
 
 ## ⭐⭐ Interrelated [ˌɪntərɪˈleɪtɪd] 相互关联的
 
-> **考试里怎么用：** 出现在管理系统定义里（教材 p81）。问什么是 management system → 写 *manages the interrelated parts of its business*（把业务中彼此牵连的各部分管起来）以达到目标。强调不是单点措施，而是各部分互相影响、要一起管。
+> **考试里怎么用：** 出现在管理系统定义里（教材 p146）。问什么是 management system → 写 *manages the interrelated parts of its business*（把业务中彼此牵连的各部分管起来）以达到目标。强调不是单点措施，而是各部分互相影响、要一起管。
 >
 > **English:** A management system is the way an organisation manages the interrelated parts of its business in order to achieve its objectives.
 
 ### 常考位置
 
-- 1. **Element 2 · 2.1 管理系统基础（PDCA 开篇，p81）**：教材给 management system 下定义时用 *interrelated parts of its business*——政策、组织、计划、实施、检查、改进等环节彼此关联。
+- 1. **Element 2 · 2.1 管理系统基础（PDCA 开篇，p146）**：教材给 management system 下定义时用 *interrelated parts of its business*——政策、组织、计划、实施、检查、改进等环节彼此关联。
 - 2. **场景信号**：*define a management system / why not just one procedure* → 点 *interrelated parts*，说明改一处会影响别处，所以要用系统（常接 PDCA）。
 - 3. **和“孤立控制”对比**：只写一条规则、不管培训／监督／资源 → 没管到 *interrelated parts*，体系不完整。
 
@@ -2504,8 +2504,8 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 ### 常考位置
 
-- 1. **Element 2 · 2.1 管理系统基础（p81）**：教材说管理工作优先级的体系有时正式、成文、*bureaucratic*；有的还经外部审核并获认证（accredited／certification）。
-- 2. **ISO 45001 与 HSE 态度（2.3 p105、p107；2.4 局限性 p118）**：实施 ISO 45001 非法定义务；HSE 认为有证未必证明合法合规，并告诫勿采用过度官僚、与组织规模／风险不相称的做法；标准本身也允许小／低风险组织用简单 OH&S 体系。
+- 1. **Element 2 · 2.1 管理系统基础（p146）**：教材说管理工作优先级的体系有时正式、成文、*bureaucratic*；有的还经外部审核并获认证（accredited／certification）。
+- 2. **ISO 45001 与 HSE 态度（2.3 p171、p172；2.4 局限性 p191）**：实施 ISO 45001 非法定义务；HSE 认为有证未必证明合法合规，并告诫勿采用过度官僚、与组织规模／风险不相称的做法；标准本身也允许小／低风险组织用简单 OH&S 体系。
 - 3. **场景信号**：*lots of paperwork / certification / disproportionate for an SME* → 点 *bureaucratic*／*proportionate*，强调有效管理重于堆文件。
 
 ### 答题可抄句型
@@ -2551,7 +2551,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
   - English: You act differently, or the same, based on whether you are achieving your objectives.
   - 搭配：take corrective action, learn lessons, review
 
-- All management systems follow a simple 4-step process: PLAN - DO - CHECK - ACT also known as PDCA or the Deming cycle.（教材 p81）
+- All management systems follow a simple 4-step process: PLAN - DO - CHECK - ACT also known as PDCA or the Deming cycle.（教材 p146）
 
 ## ⭐⭐⭐ Continual / Continuous improvement [kənˈtɪnjuəl ɪmˈpruːvmənt] 持续改进
 
@@ -2565,7 +2565,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 > - improve the system over time 逐步改进体系
 > - a commitment to continual improvement 对持续改进的承诺（政策里常写）
 
-- Inherent in this PDCA model is the notion of Continuous Improvement.（教材 p82）
+- Inherent in this PDCA model is the notion of Continuous Improvement.（教材 p146）
 
 ## ⭐ Inherent [ɪnˈhɪərənt] 内在的、固有的、自带的
 
@@ -2613,7 +2613,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
   - English: The organisation can become certified to ISO 45001.
   - 搭配：be certified to, gain certification, certificate
 - **Accredited 经认可的**
-  - 考：有资格的、被正式认可的。教材 p81 用 accredited 指体系获得认可；严格讲 accreditation 是对"认证机构本身"的认可。答题用 certified 最稳。
+  - 考：有资格的、被正式认可的。教材 p146 用 accredited 指体系获得认可；严格讲 accreditation 是对"认证机构本身"的认可。答题用 certified 最稳。
   - English: Some systems are externally audited and accredited.
   - 搭配：accredited body, accredited certification
 
@@ -2624,9 +2624,9 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 | 是什么 | 外部审核（过程） | 拿到证书（结果） | 被正式认可（资格） |
 | 对象 | 组织的体系 | 组织的体系 | 严格讲是认证机构；教材里也用于体系 |
 | 答题建议 | 写 independent / external audit | **最常用**：certified to ISO 45001 | 了解即可 |
-| 教材 | p81 | p82、p84、p104 起 | p81 |
+| 教材 | p146 | p147、p149、p169 起 | p146 |
 
-- Some systems are even externally audited and accredited, meaning your management system may receive a certification.（教材 p81）
+- Some systems are even externally audited and accredited, meaning your management system may receive a certification.（教材 p146）
 
 ## ⭐⭐ Binding / Not binding [ˈbaɪndɪŋ] 有约束力的／不具约束力的
 
@@ -2640,7 +2640,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 > - replace national laws 取代国家法律
 > - practical recommendations 实用建议
 
-- These guidelines are not binding, nor do they replace international laws. They provide practical recommendations.（教材 p82）
+- These guidelines are not binding, nor do they replace international laws. They provide practical recommendations.（教材 p147）
 
 ## ⭐⭐⭐ Guidelines / Standard [ˈɡaɪdlaɪnz] [ˈstændəd] 指南／标准
 
@@ -2675,12 +2675,12 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 | 能否认证 | **不能** | **能**（外部认证机构） |
 | 结构 | 5 要素：Policy / Organising / Planning & implementation / Evaluation / Action for improvement，中心是 Audit | 按 PDCA，条款 4–10 |
 | 共同点 | 都遵循 PDCA | 都遵循 PDCA |
-| 教材 | 2.2（p83–103） | 2.3（p104–114） |
+| 教材 | 2.2（p149–168） | 2.3（p169–186） |
 
-- ILO-OSH 2001: The ILO developed its guidelines … These guidelines are not binding … They provide practical recommendations.（教材 p82）
-- ISO45001:2018: The international standard for H&S management systems … You can become certified to this standard.（教材 p82）
+- ILO-OSH 2001: The ILO developed its guidelines … These guidelines are not binding … They provide practical recommendations.（教材 p147）
+- ISO45001:2018: The international standard for H&S management systems … You can become certified to this standard.（教材 p147）
 
-# 2.2 ILO-OSH 2001（教材 p83–103）
+# 2.2 ILO-OSH 2001（教材 p149–168）
 
 ## In the realm of 在……领域、在……范围内，⭐⭐ Compatible with, or integrated into 与……兼容，或融入……
 
@@ -2701,7 +2701,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 ### ⭐⭐ Compatible with 兼容
 
-> 考试里怎么用：2.2 ILO-OSH 2001 方针的要求之一（教材 p86）。问「OSH 方针应包含什么／有什么要求」时可以写：方针要与组织的其他管理体系（质量、环境）兼容。两套体系各自存在，但不冲突、能互相配合。场景里公司的安全体系和质量、环境体系各搞各的、文件互相矛盾 → 建议让它们兼容或整合。和 2.1 的 not standalone 是同一个思路。
+> 考试里怎么用：2.2 ILO-OSH 2001 方针的要求之一（教材 p152）。问「OSH 方针应包含什么／有什么要求」时可以写：方针要与组织的其他管理体系（质量、环境）兼容。两套体系各自存在，但不冲突、能互相配合。场景里公司的安全体系和质量、环境体系各搞各的、文件互相矛盾 → 建议让它们兼容或整合。和 2.1 的 not standalone 是同一个思路。
 >
 > English: The OSH policy should be compatible with other management systems in use, such as quality or environmental management systems.
 
@@ -2721,7 +2721,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 > - an integrated management system (IMS) 一体化管理体系（质量＋环境＋安全）
 > - quality / environmental management systems 质量／环境管理体系
 
-- The policy should also be compatible with, or integrated into, any other management systems in use — for example, quality or environmental systems.（教材 p86）
+- The policy should also be compatible with, or integrated into, any other management systems in use — for example, quality or environmental systems.（教材 p152）
 
 ### 怎么区分：In the realm of / SFAIRP / Extensive / Compatible with, integrated into
 
@@ -2732,7 +2732,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 | 词性 | 介词短语 | 法律限定语 | 形容词 | 形容词短语／动词短语 |
 | 考试重要性 | 读懂即可，答题用 in | ⭐⭐⭐ 必考 | 会用即可 | ⭐⭐ 方针要求 |
 | 例句 | in the realm of health and safety = in health and safety | Employers must reduce risks SFAIRP. | extensive damage | The OSH policy should be integrated into other systems. |
-| 教材 | 1.7 | 1.5（p51–52） | 1.7 | 2.2（p86） |
+| 教材 | 1.7 | 1.5（p80–82） | 1.7 | 2.2（p152） |
 
 - 易混：In the realm of 和 SFAIRP 中文都可译作「在……范围内」，但前者讲**领域**，后者讲**义务程度**。考试写 SFAIRP，in the realm of 不用写。
 - 易混：In the realm of 只说话题属于哪个领域；integrated into 是**把一套体系放进另一套**，有实际动作。
@@ -2740,7 +2740,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 ## Cash-strapped [ˈkæʃ stræpt] 资金紧张的、手头紧的
 
-> **考试里怎么用：** 读懂即可，答题不用写。案例／政策落地题。场景写组织缺钱、舍不得买 PPE／控制措施 → 可用 *cash-strapped* 描述背景，但采分点是：**政策承诺了 adequate resources，实际却因“太贵”不配** → 政策未真正落实；缺钱**不能**当免责理由。Hull 案例（教材 p87–88）：$31 的防滑安全靴嫌贵、只想花 $25（为省 $6），最终罚款 $234,000＋费用 $55,000 多，合计约 $291,000。
+> **考试里怎么用：** 读懂即可，答题不用写。案例／政策落地题。场景写组织缺钱、舍不得买 PPE／控制措施 → 可用 *cash-strapped* 描述背景，但采分点是：**政策承诺了 adequate resources，实际却因“太贵”不配** → 政策未真正落实；缺钱**不能**当免责理由。Hull 案例（教材 p153–154）：$31 的防滑安全靴嫌贵、只想花 $25（为省 $6），最终罚款 $234,000＋费用 $55,000 多，合计约 $291,000。
 >
 > **English:** A cash-strapped organisation may cut spending on safety equipment, but failing to provide adequate resources can breach the commitments in its health and safety policy and lead to serious harm and prosecution.
 
@@ -2798,7 +2798,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 ## ⭐⭐ Line manager [laɪn ˈmænɪdʒə] 直线经理、直属上级
 
-> 考试里怎么用：2.2 ILO-OSH Organising（教材 p89）：*Line managers are accountable for health and safety in their areas — OSH is not just a specialist's job.* line manager 不是一个层级，而是一种身份：有直接下属、在指挥链上（中层经理、一线主管都可以是）。与之相对的是安全顾问这类专业角色——只提建议、没有指挥权。场景里"安全的事都推给安全顾问，经理们不管" → 指出安全责任在 line managers 身上，顾问只提供 competent advice；经理要对自己负责的区域问责。
+> 考试里怎么用：2.2 ILO-OSH Organising（教材 p156）：*Line managers are accountable for health and safety in their areas — OSH is not just a specialist's job.* line manager 不是一个层级，而是一种身份：有直接下属、在指挥链上（中层经理、一线主管都可以是）。与之相对的是安全顾问这类专业角色——只提建议、没有指挥权。场景里"安全的事都推给安全顾问，经理们不管" → 指出安全责任在 line managers 身上，顾问只提供 competent advice；经理要对自己负责的区域问责。
 >
 > English: Line managers are accountable for health and safety in their own areas; the H&S adviser only provides competent advice and does not take over the managers' responsibility.
 
@@ -2817,16 +2817,16 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 | 有没有指挥权 | 有（战略层面） | **有**（对自己的下属） | 有（对班组） | **没有**，只提建议 |
 | 对谁的安全负责 | 整个组织 | **自己负责的区域和下属** | 自己的班组和作业区 | 不直接负责，提供 competent advice |
 | 和 1.6 的关系 | = directors + senior managers | 通常 = middle managers，也包括 supervisors | = first-line / front-line managers | 1.6 的 specific H&S positions |
-| 教材 | 1.6（p54–55） | **2.2（p89）** | 1.6（p56–57） | 1.6（p54）、1.7 |
+| 教材 | 1.6（p84–86） | **2.2（p156）** | 1.6（p88–89） | 1.6（p84）、1.7 |
 
 - 易混：line manager 和 middle manager 常常是同一个人，但角度不同——middle manager 讲**层级**，line manager 讲**有直接下属、有指挥权**。
 - 易混：line manager 和 H&S adviser：前者**有责任、有权力**，后者**只提建议**。
 
-- Line managers are accountable for health and safety in their areas — OSH is not just a specialist's job.（教材 p89）
+- Line managers are accountable for health and safety in their areas — OSH is not just a specialist's job.（教材 p156）
 
 ## ⭐⭐ At … intervals [ət ˈɪntəvlz] 每隔一段时间、定期
 
-> 考试里怎么用：万能答题短语，各 Element 都能用。2.2 培训要求（教材 p90）：*initial and refresher training, reviewed at appropriate intervals*。场景里"培训只在入职时做一次" → 写 *refresher training should be provided at appropriate intervals*。写检查、审核、维护、风险评估回顾时加上 at regular / planned intervals，答案更具体；频率取决于风险高低（*depending on the level of risk*）。
+> 考试里怎么用：万能答题短语，各 Element 都能用。2.2 培训要求（教材 p156）：*initial and refresher training, reviewed at appropriate intervals*。场景里"培训只在入职时做一次" → 写 *refresher training should be provided at appropriate intervals*。写检查、审核、维护、风险评估回顾时加上 at regular / planned intervals，答案更具体；频率取决于风险高低（*depending on the level of risk*）。
 >
 > English: Refresher training should be provided at appropriate intervals, and equipment should be inspected at regular intervals depending on the level of risk.
 
@@ -2844,7 +2844,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 > - The organisation should monitor safety performance **at appropriate intervals** to identify problems early.
 
 - ⚠️ 答题提醒：如果场景显示风险较高、设备使用频繁或近期发生过事故，要说明为什么需要更频繁检查。不要只写“定期检查”，要尽可能结合场景给出理由。
-- Include initial and refresher training, reviewed at appropriate intervals.（教材 p90）
+- Include initial and refresher training, reviewed at appropriate intervals.（教材 p156）
 
 ## ⭐⭐ Be free of charge 免费；不收取费用
 
@@ -2891,9 +2891,9 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 > ⚠️ 答题提醒：健康监护用于及早发现与工作有关的健康影响，也能提示控制措施是否有效；它不能代替对危害源的控制。发现异常时，应调查暴露情况并改进控制措施。
 
-- Health surveillance and exposure data;（教材 p91，OSH 文件记录要保存的记录之一）
-- Analyse data from health surveillance or other monitoring activities to detect early signs of harm.（教材 p93，Initial review）
-- Health surveillance, where appropriate, to detect early signs of ill health.（教材 p98，active monitoring）
+- Health surveillance and exposure data;（教材 p157，OSH 文件记录要保存的记录之一）
+- Analyse data from health surveillance or other monitoring activities to detect early signs of harm.（教材 p159，Initial review）
+- Health surveillance, where appropriate, to detect early signs of ill health.（教材 p163，active monitoring）
 
 ## ⭐⭐ Initial Review /ɪˈnɪʃəl rɪˈvjuː/ 初始评审；初步审查
 
@@ -2919,7 +2919,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 > ⚠️ 答题提醒：Initial review 是建立或改进管理体系前的**现状盘点和基准评估**。若情景说明组织没有系统掌握现有风险、法律要求或控制措施，可以建议先开展评审，再根据发现制定改进计划。
 
-- **Studybook 原句**：Before developing or improving its OSH management system, an organisation must carry out an initial review.（教材 p93）
+- **Studybook 原句**：Before developing or improving its OSH management system, an organisation must carry out an initial review.（教材 p158）
 
 ## ⭐⭐ Performance criteria /kraɪˈtɪəriə/ 绩效标准；绩效判定标准
 
@@ -2943,7 +2943,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 > **笔记关联**：Studybook 中它位于 **Element 2.2，ILO-OSH 2001: Planning and Implementation**，建议和 **OSH objectives**、**action plans** 放在一起复习。
 
-- **Studybook 原句**：Defined performance criteria to measure progress and verify achievement.（教材 p94）
+- **Studybook 原句**：Defined performance criteria to measure progress and verify achievement.（教材 p159）
 
 ## ⭐ Practical targets 实际目标；具体可行的目标
 
@@ -2966,7 +2966,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 > ⚠️ 答题提醒：这里的 *practical* 不是“实践课”的意思，而是“实际可行、能落实”。可以把它和 **OSH objectives** 一起理解：objective 是目标，practical targets 强调这些目标应具体而可执行。
 
-- **Studybook 原句**：OSH objectives translate the policy commitments into practical targets.（教材 p94）
+- **Studybook 原句**：OSH objectives translate the policy commitments into practical targets.（教材 p159）
 
 ## Natural disaster 自然灾害
 
@@ -2991,7 +2991,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 > **笔记关联**：Studybook 将它列在 **Element 2.2，ILO-OSH 2001: Planning and Implementation** 下的应急准备内容中；可和 **foreseeable emergencies**、疏散程序及应急演练一起记。
 
--  **Studybook 原句**：Organisations must plan for foreseeable emergencies such as fire, chemical release, explosion, or natural disaster.（教材 p96）
+-  **Studybook 原句**：Organisations must plan for foreseeable emergencies such as fire, chemical release, explosion, or natural disaster.（教材 p160）
 
 ## ⭐ Drill /drɪl/ 演练；电钻；钻孔,Practical drills 实操演练；实际演练
 
@@ -3026,10 +3026,10 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 > **笔记关联**（按词条找，不按行号）：
 > - 1.7 **Hand-arm vibration (HAV)** 词条：*drills* 指电钻（手传振动的常见来源）。
 > - 1.1 词条里的搭配 *joint fire drills* 指联合消防演练；1.8 **Consultation** 词条里 *collaborate on fire drills* 指在消防演练上协作。
-> - 2.2 **Natural disaster** 词条：*emergency drills / practical drills* 指应急演练（教材 p96）。
+> - 2.2 **Natural disaster** 词条：*emergency drills / practical drills* 指应急演练（教材 p160）。
 
 > **Studybook 原句**：
-> - “Regular training and practical drills for all staff.”（教材 p96）
+> - “Regular training and practical drills for all staff.”（教材 p160）
 > - Studybook 中也将 *drills* 列为手臂振动风险相关设备的例子（3.x 手传振动部分）。
 
 ## In essence /ɪn ˈesəns/ 本质上；简而言之
@@ -3051,7 +3051,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 > ⚠️ 答题提醒：**In essence** 是概括用的连接表达，本身不是安全管理措施或专业考点。考试答题可以用，但要确保后面真的总结了核心意思。
 
-- **Studybook 原句**：In essence, evaluation turns data into understanding — it tells the organisation whether its arrangements are effective and where improvement is needed.（教材 p97）
+- **Studybook 原句**：In essence, evaluation turns data into understanding — it tells the organisation whether its arrangements are effective and where improvement is needed.（教材 p162）
 
 ## ⭐⭐ Qualitative indicators 定性指标，⭐⭐ Quantitative indicators 定量指标
 
@@ -3076,7 +3076,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 > **笔记关联**：Studybook 中它们位于 **Element 2.2「ILO-OSH 2001: Evaluation」**的绩效衡量部分，建议与 **performance measurement**、**active / reactive monitoring** 一起复习。
 
-- **Studybook 原句**：Use both qualitative and quantitative indicators (e.g. safety climate surveys as well as numerical data).（教材 p97）
+- **Studybook 原句**：Use both qualitative and quantitative indicators (e.g. safety climate surveys as well as numerical data).（教材 p162）
 
 ### ⭐⭐ Qualitative indicators [ˈkwɒlɪtətɪv] 定性指标
 
@@ -3110,7 +3110,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 | 例子 | 安全氛围调查、访谈、行为观察 | 事故率、病假天数、检查完成率 |
 | 优点 | 能看到文化和原因 | 便于对比、看趋势 |
 | 局限 | 主观、难比较 | 只看数字可能漏掉原因；事故少≠安全 |
-| 教材 | 2.2（p97） | 2.2（p97） |
+| 教材 | 2.2（p162） | 2.2（p162） |
 
 - 易混：拼写只差一点——**quali**ty 质 → 定性；**quanti**ty 量 → 定量。
 - 易混：考试要求**两种都用**（use both），只用一种不全面。
@@ -3136,7 +3136,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 > ⚠️ 答题提醒：这里的 **ergonomic** 不是只指“椅子舒不舒服”，还涉及工作任务、工具、工作站和人的适配。答题时结合场景指出具体问题，再说明如何调整或控制。
 
-- **Studybook 原句**：Monitoring of environmental and ergonomic conditions.（教材 p98）
+- **Studybook 原句**：Monitoring of environmental and ergonomic conditions.（教材 p163）
 
 ## ⭐⭐⭐ Corrective actions 纠正措施，⭐⭐ Preventive actions 预防措施
 
@@ -3161,7 +3161,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 > ⚠️ 答题提醒：纠正措施要针对查明的问题或原因；只写“采取措施”太笼统。应结合场景说明改什么、谁负责，以及如何跟进。
 
-- **Studybook 原句**：Audit results must be reported to those responsible for corrective action and discussed with worker representatives to ensure transparency and shared ownership.（教材 p100）
+- **Studybook 原句**：Audit results must be reported to those responsible for corrective action and discussed with worker representatives to ensure transparency and shared ownership.（教材 p164）
 
 ### ⭐⭐ Preventive actions /prɪˈventɪv ˈækʃənz/ 预防措施
 
@@ -3175,7 +3175,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 > - share lessons learned across departments and sites 在各部门、各场所分享教训
 > - preventive measures 预防性措施（同义）
 
-- Planning and implementing preventive actions, i.e. measures to prevent potential problems before they occur.（教材 p102）
+- Planning and implementing preventive actions, i.e. measures to prevent potential problems before they occur.（教材 p167）
 
 ### 怎么区分：Corrective / Preventive
 
@@ -3186,11 +3186,11 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 | 来源 | 事故调查、审核发现、检查发现 | 风险评估、主动监测、员工建议、别处的教训 |
 | 例子 | 叉车撞人后，设置人车分离通道 | 新设备投用前先做风险评估 |
 | 共同点 | 都要找根本原因、按控制层级排优先、指定负责人和期限、检查有效性、记录 | 同左 |
-| 教材 | 2.2（p99、p102） | 2.2（p102） |
+| 教材 | 2.2（p163、p166） | 2.2（p166） |
 
 - 易混：corrective = 事后「改」；preventive = 事前「防」。
-- 易混：两者都按 hierarchy of control 排优先：先消除危害，PPE 和程序控制放最后（教材 p103）。
-- Planning and implementing corrective actions, i.e. steps to remove the causes of existing non-conformities or hazards.（教材 p102）
+- 易混：两者都按 hierarchy of control 排优先：先消除危害，PPE 和程序控制放最后（教材 p167）。
+- Planning and implementing corrective actions, i.e. steps to remove the causes of existing non-conformities or hazards.（教材 p167）
 
 ## ⭐⭐⭐ Hierarchy of control [ˈhaɪərɑːki] 控制层级
 
@@ -3208,7 +3208,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 > - PPE as a last resort PPE 作为最后手段
 > - residual risk 残余风险
 
-- Eliminate the hazard completely. Control at source using engineering or organisational measures. Minimise through safe systems of work and administrative controls. Provide PPE where residual risks remain — at no cost to workers and with training on its correct use and maintenance.（教材 p95）
+- Eliminate the hazard completely. Control at source using engineering or organisational measures. Minimise through safe systems of work and administrative controls. Provide PPE where residual risks remain — at no cost to workers and with training on its correct use and maintenance.（教材 p160）
 
 ## ⭐⭐ Management of change 变更管理
 
@@ -3222,7 +3222,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 > - new equipment, materials, processes or staffing 新设备、材料、流程或人员
 > - inform and train those affected 告知并培训受影响的人
 
-- When changes occur — such as new equipment, materials, processes, or staffing — their impact on health and safety must be assessed before implementation.（教材 p95）
+- When changes occur — such as new equipment, materials, processes, or staffing — their impact on health and safety must be assessed before implementation.（教材 p160）
 
 ## ⭐⭐⭐ Audit 审核，⭐⭐⭐ Management review 管理评审
 
@@ -3239,7 +3239,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 > - document review, interviews and workplace observation 查文件、访谈、现场观察
 > - audit findings 审核发现
 
-- Auditing provides a formal and independent check on how well the OSH management system is functioning.（教材 p100）
+- Auditing provides a formal and independent check on how well the OSH management system is functioning.（教材 p164）
 
 ### ⭐⭐⭐ Management review [rɪˈvjuː] 管理评审
 
@@ -3254,7 +3254,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 > - close the loop 形成闭环
 > - priorities for future planning 下一步规划的优先事项
 
-- The most senior accountable person should conduct reviews at planned intervals.（教材 p101）
+- The most senior accountable person should conduct reviews at planned intervals.（教材 p165）
 
 ### 怎么区分：Inspection / Audit / Management review
 
@@ -3265,9 +3265,9 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 | 方法 | 现场看、对照检查表 | 查文件、访谈、现场观察 | 看监测、审核、调查结果和趋势 |
 | PDCA | Check（主动监测） | Check | Check → **Act**（闭环） |
 | 结果 | 当场问题清单 | 审核报告，交整改负责人 | 新目标、新优先事项、结构调整 |
-| 教材 | 2.2（p98） | 2.2（p100） | 2.2（p101） |
+| 教材 | 2.2（p163） | 2.2（p164） | 2.2（p165） |
 
-- 易混：Will's Insights（p101）——**measuring** 是收集数据；**reviewing** 是判断数据好坏、是否达到目标。
+- 易混：Will's Insights（p165）——**measuring** 是收集数据；**reviewing** 是判断数据好坏、是否达到目标。
 - 易混：audit 强调**独立**、看**整个体系**；inspection 只看现场条件。
 
-# 2.3 ISO45001 - An International H&SManagement System Standard（教材 p104–114）
+# 2.3 ISO45001 - An International H&SManagement System Standard（教材 p169–186）
