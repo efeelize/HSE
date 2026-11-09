@@ -61,20 +61,57 @@ and safety systems.
 
 - These expectations reflect a shared societal belief that it is morally unacceptable to value production or profit above human safety and wellbeing.
 
-## Transparently [trænsˈpærəntli] 透明地 / 公开地
+## ⭐ Transparently /trænsˈpærəntli/ 透明地、公开地；Transparency /trænsˈpærənsi/ 透明、公开
 
-> 考试里怎么用：道德理由和安全文化：公开、诚实地报告事故和安全绩效。答题可写 report incidents openly。
->
+### Transparently adv.透明地；公开地
+
+> 考试里怎么用：副词，修饰动作，表示以公开、诚实、清楚的方式做某事。比如公开报告事故或安全绩效。
+
 > English: The organisation should report incidents and safety performance openly and transparently.
 
 > 常见搭配：
-> - act transparently 透明行事
-> - report incidents transparently / openly 公开报告事故
-> - transparency of information 信息透明
+> - **report incidents transparently / openly** 公开报告事故
+> - **act transparently** 透明行事
+> - **communicate transparently** 公开透明地沟通
 
-> transparently (or transparency) refers to openness, honesty, and clear communication regarding safety data, decisions, risks, and performance.
+### Transparency n.透明；公开
 
-- society expects employers to act responsibly and transparently, showing visible commitment to protecting their workers and others affected by their work.
+> 考试里怎么用：名词，表示信息或处理过程公开、清楚。在审核语境中，分享审核结果有助于让相关人员了解发现的问题和后续行动。
+
+> English: Audit results should be discussed with worker representatives to ensure transparency.
+
+> 常见搭配：
+> - **ensure transparency** 确保透明
+> - **transparency of information** 信息透明
+> - **promote transparency** 促进透明
+
+### 怎么区分：Transparently / Transparency
+
+| | Transparently | Transparency |
+|---|---|---|
+| 中文 | 透明地、公开地 | 透明、公开 |
+| 词性 | 副词 | 名词 |
+| 常见结构 | **report / act transparently** | **ensure / promote transparency** |
+| 例句 | report incidents transparently | ensure transparency |
+
+- 易混：**-ly** 结尾的 *transparently* 修饰动作；*transparency* 是动作所体现的状态或原则。
+- 记忆：**报告要公开透明（report transparently），这样可以确保透明（ensure transparency）。**
+- **Studybook 原句**：Audit results must be reported to those responsible for corrective action and discussed with worker representatives to ensure transparency and shared ownership.（教材 p100）
+
+## Shared ownership  共同承担责任；共同参与并认同
+
+> 考试里怎么用：这里的 **shared ownership** 指相关人员共同参与改进，并对后续行动承担责任。它不是“共同拥有某件财产”的所有权，而是对改进有共同的责任感和参与感。
+
+> English: Discussing audit findings with worker representatives can encourage shared ownership of improvements.
+> 与员工代表讨论审核发现，可以促进大家共同参与改进。
+
+> 常见搭配：
+> - **encourage shared ownership** 促进共同承担责任
+> - **shared ownership of improvements** 共同参与并承担改进责任
+> - **take ownership of an action** 对某项行动承担责任
+> - **assign ownership of corrective actions** 指定纠正措施的负责人
+
+- **Studybook 原句**：Audit results must be reported to those responsible for corrective action and discussed with worker representatives to ensure transparency and shared ownership.（教材 p100）
 
 ## Benchmark [ˈbentʃmɑːrk] 对标 / 基准
 
@@ -715,6 +752,55 @@ and safety systems.
 > - non-compliance 不合规
 
 - Article 19(a) of C155 simply requires that member countries[批准了 C155 的成员国] included in their national legislation[写进本国法律] the duty for workers to cooperate with their employer and enable the employer to comply with their own health and safety duties[帮助雇主履行其法定的安全健康责任].
+
+## Non-conformities /ˌnɒn kənˈfɔːmɪtiz/ 不符合项；不符合要求的情况
+
+> 考试里怎么用：指没有达到相关要求的情况，例如未遵守法律要求，或没有按组织自己的安全安排执行。发现不符合项后，组织应分析原因、采取纠正措施，并检查问题是否解决、是否可能再次发生。
+
+> English: The organisation should identify the root causes of non-conformities and implement corrective actions.
+
+> 常见搭配：
+> - **identify / report a non-conformity** 识别／报告不符合项
+> - **root causes of non-conformities** 不符合项的根本原因
+> - **address / correct a non-conformity** 处理／纠正不符合项
+> - **implement corrective actions** 实施纠正措施
+> - **check the effectiveness of corrective actions** 检查纠正措施是否有效
+
+> ⚠️ 易混：**non-conformity** 是“不符合某项要求的情况”；**non-compliance** 常指“不遵守法律、规则或要求”。两者意思接近，但 *non-conformity* 常用于管理体系、审核和标准的语境。
+
+- **Studybook 原句**：Identifying and analysing root causes of any non-conformities or failures — whether related to legal requirements or the organisation’s own safety arrangements.（教材 p101）
+
+### ⭐⭐ Legal compliance records 法律合规记录
+
+> 考试里怎么用：指组织用来记录或证明其遵守相关健康与安全法律要求的资料。若场景提到记录缺失、过期或无法查阅，可以指出组织难以核查合规情况，也可能无法及时发现问题。记录应按适用要求维护和更新。
+
+> English: The organisation should maintain up-to-date records to demonstrate compliance with relevant health and safety legislation.
+
+> 常见搭配：
+> - **maintain / keep compliance records** 维护／保存合规记录
+> - **up-to-date records** 最新、及时更新的记录
+> - **demonstrate compliance with legislation** 证明符合法律要求
+> - **records of inspections / training / risk assessments** 检查／培训／风险评估记录
+> - **review records regularly** 定期审查记录
+
+> 答题例句：
+> - The employer should keep records of statutory inspections to show that work equipment is examined as required.
+>   雇主应保存法定检查记录，以说明设备已按要求接受检查。
+> - Training records should be kept up to date so the organisation can identify workers who still need training.
+>   培训记录应及时更新，以便组织识别仍需培训的员工。
+> - The organisation should review its compliance records and investigate any gaps.
+>   组织应审查合规记录，并调查其中的缺漏。
+
+> ⚠️ 答题提醒：有记录不等于已经实际合规。可以结合场景说明组织还需要落实控制措施、完成必要检查，并处理发现的问题。
+
+> **笔记关联**：
+> - `HSE_eng.md` 第 **705** 行，Element **1.6**「To comply with」；第 **712–715** 行同一词条下有 *comply with legal requirements*、*ensure compliance*、*non-compliance*。
+> - `HSE_eng.md` 第 **1137** 行，Element **1.8**「Cooperation and communication」相关内容中有 *check compliance*。
+> - `HSE_eng.md` 第 **1414** 行，Element **1.9**「Managing contractors」相关内容中有 *monitor compliance*。
+> - `QA.md` 第 **182** 行，Element **1.6** 管理层职责总结中出现 *monitor compliance through monitoring and audits*。
+
+> **Studybook 原句与页码**：Legal compliance records;
+
 
 ## ⭐ Speaking up 向主管或经理说出问题，提出顾虑
 
@@ -1759,21 +1845,6 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 - sharing and emphasising the significance of effective occupational health and safety management, and the importance of adhering to the requirements of the management system
 
-## In the realm of 在……领域、在……范围内
-
-> 考试里怎么用：读懂即可，答题用 in 或 for 更简单。
->
-> English: In health and safety, prevention is better than reaction.
-
-> 常见搭配：读懂即可，没有需要特别记的搭配。
-
-> HSE 文本里可能看到：
-> in the realm of health and safety：在安全健康领域
-> in the realm of occupational health：在职业健康方面
-> in the realm of specialist advice：说到专家建议
-
-- This underscores the importance of not only having technical know-how but also being adept at communication and influence to truly make a significant difference in the realm of health and safety.
-
 # 1.8 Organisations Who Share Workplaces（教材 p65–70）
 
 ## ⭐ The duplication of efforts [djuːplɪˈkeɪʃn] 重复劳动、工作重复
@@ -2398,17 +2469,17 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 - Contractors often require large tools, equipment, and quantities of materials. Their work often generates waste. The client should provide suitable storage and waste facilities to ensure this does not create excessive congestion, trip hazards, or block fire escape routes.
 
-# 2.1 The Basics of Management Systems
+# 2.1 The Basics of Management Systems（教材 p81–82）
 
-## Interrelated [ˌɪntərɪˈleɪtɪd] 相互关联的
+## ⭐⭐ Interrelated [ˌɪntərɪˈleɪtɪd] 相互关联的
 
-> **考试里怎么用：** ⭐ 出现在管理系统定义里。问什么是 management system → 写 *manages the interrelated parts of its business*（把业务中彼此牵连的各部分管起来）以达到目标。强调不是单点措施，而是各部分互相影响、要一起管。
+> **考试里怎么用：** 出现在管理系统定义里（教材 p81）。问什么是 management system → 写 *manages the interrelated parts of its business*（把业务中彼此牵连的各部分管起来）以达到目标。强调不是单点措施，而是各部分互相影响、要一起管。
 >
 > **English:** A management system is the way an organisation manages the interrelated parts of its business in order to achieve its objectives.
 
 ### 常考位置
 
-- 1. **Element 1 · 管理系统导论（PDCA 开篇）**：教材给 management system 下定义时用 *interrelated parts of its business*——政策、组织、计划、实施、检查、改进等环节彼此关联。
+- 1. **Element 2 · 2.1 管理系统基础（PDCA 开篇，p81）**：教材给 management system 下定义时用 *interrelated parts of its business*——政策、组织、计划、实施、检查、改进等环节彼此关联。
 - 2. **场景信号**：*define a management system / why not just one procedure* → 点 *interrelated parts*，说明改一处会影响别处，所以要用系统（常接 PDCA）。
 - 3. **和“孤立控制”对比**：只写一条规则、不管培训／监督／资源 → 没管到 *interrelated parts*，体系不完整。
 
@@ -2425,16 +2496,16 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 - A management system is the way in which an organisation manages the interrelated parts of its business in order to achieve its objectives.
 
-## Bureaucratic [ˌbjʊərəˈkrætɪk] 官僚式的、手续繁琐的
+## ⭐ Bureaucratic [ˌbjʊərəˈkrætɪk] 官僚式的、手续繁琐的
 
-> **考试里怎么用：** ⭐ 管理系统语境。一是描述正式体系：*formal, documented, and bureaucratic*（成文、层级多、程序多）。二是写 ISO 45001 的批评：HSE 提醒其可能 *overly bureaucratic*、对某些组织 *disproportionate and overly complex*——有证≠一定合法合规。答题可写：体系要与风险相称，小／低风险组织可用简单体系。
+> **考试里怎么用：** 管理系统语境。一是描述正式体系：*formal, documented, and bureaucratic*（成文、层级多、程序多）。二是写 ISO 45001 的批评：HSE 提醒其可能 *overly bureaucratic*、对某些组织 *disproportionate and overly complex*——有证≠一定合法合规。答题可写：体系要与风险相称，小／低风险组织可用简单体系。
 >
 > **English:** Some management systems are formal, documented and bureaucratic; the HSE cautions that an overly bureaucratic approach (e.g. to ISO 45001) may be disproportionate and overly complex for some organisations.
 
 ### 常考位置
 
-- 1. **Element 1 · 管理系统导论**：教材说管理工作优先级的体系有时正式、成文、*bureaucratic*；有的还经外部审核并获认证（accredited／certification）。
-- 2. **ISO 45001 与 HSE 态度**：实施 ISO 45001 非法定义务；HSE 认为有证未必证明合法合规，并告诫勿采用过度官僚、与组织规模／风险不相称的做法；标准本身也允许小／低风险组织用简单 OH&S 体系。
+- 1. **Element 2 · 2.1 管理系统基础（p81）**：教材说管理工作优先级的体系有时正式、成文、*bureaucratic*；有的还经外部审核并获认证（accredited／certification）。
+- 2. **ISO 45001 与 HSE 态度（2.3 p105、p107；2.4 局限性 p118）**：实施 ISO 45001 非法定义务；HSE 认为有证未必证明合法合规，并告诫勿采用过度官僚、与组织规模／风险不相称的做法；标准本身也允许小／低风险组织用简单 OH&S 体系。
 - 3. **场景信号**：*lots of paperwork / certification / disproportionate for an SME* → 点 *bureaucratic*／*proportionate*，强调有效管理重于堆文件。
 
 ### 答题可抄句型
@@ -2449,5 +2520,754 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 > - disproportionate and overly complex 不相称且过于复杂
 > - externally audited and accredited／certified 经外部审核并获认可／认证
 
-# 2.2 ILO-OSH 2001
+## ⭐⭐⭐ PDCA / Deming cycle [ˈdemɪŋ ˈsaɪkl] 计划—实施—检查—改进循环（戴明循环）
 
+> 考试里怎么用：Element 2 的骨架。所有管理体系（ILO-OSH 2001、ISO 45001）都按 PDCA 走。常考：说出四步各干什么；把体系里的某个要素对应到 PDCA（如 audit → CHECK）；场景里公司只写了政策、从不检查 → 指出缺了 CHECK 和 ACT，体系转不起来。
+>
+> English: All health and safety management systems follow the Plan-Do-Check-Act (PDCA) cycle: plan what you will do, do it, check whether it is working, and act on the results to improve.
+
+> 常见搭配：
+> - follow the PDCA cycle / the Deming cycle 遵循 PDCA 循环
+> - a PDCA approach 按 PDCA 的做法
+> - Plan – Do – Check – Act 计划—实施—检查—改进
+> - link / map … to PDCA 把……对应到 PDCA
+
+### 分开记
+
+- **Plan 计划**
+  - 考：定目标、定计划、分配资源。
+  - English: You plan what you will do and set objectives.
+  - 搭配：set objectives, plan the work, allocate resources
+- **Do 实施**
+  - 考：按计划执行，落实控制措施。
+  - English: You do it and try to stick to your plan.
+  - 搭配：implement the plan, put controls in place
+- **Check 检查**
+  - 考：检查是否有效——检查、审核、监测、事故调查都属于 CHECK。
+  - English: You check whether it is working.
+  - 搭配：monitor performance, inspections, audits
+- **Act 改进**
+  - 考：根据检查结果调整或保持；吸取教训。
+  - English: You act differently, or the same, based on whether you are achieving your objectives.
+  - 搭配：take corrective action, learn lessons, review
+
+- All management systems follow a simple 4-step process: PLAN - DO - CHECK - ACT also known as PDCA or the Deming cycle.（教材 p81）
+
+## ⭐⭐⭐ Continual / Continuous improvement [kənˈtɪnjuəl ɪmˈpruːvmənt] 持续改进
+
+> 考试里怎么用：PDCA 里"自带"的理念（inherent）。答题时说明：检查结果、吸取教训 → 体系逐步改进。教材 2.1 用 continuous improvement，ISO 45001 原文用 continual improvement，两个都可以写，意思一样。
+>
+> English: Inherent in the PDCA model is the notion of continuous improvement: as you check your results and learn lessons, you gradually improve your system over time.
+
+> 常见搭配：
+> - drive / achieve continual improvement 推动／实现持续改进
+> - learn lessons 吸取教训
+> - improve the system over time 逐步改进体系
+> - a commitment to continual improvement 对持续改进的承诺（政策里常写）
+
+- Inherent in this PDCA model is the notion of Continuous Improvement.（教材 p82）
+
+## ⭐ Inherent [ɪnˈhɪərənt] 内在的、固有的、自带的
+
+> 考试里怎么用：读懂教材用，答题可用 built into 代替。2.1 说 PDCA 里"自带"两样东西：持续改进，和领导定目标、给资源。另外 Element 3 会遇到 inherent hazard（固有危害）。
+>
+> English: Inherent in the PDCA model is the need for a leader to decide on the objectives and to provide resources to make the system work.
+
+> 常见搭配：
+> - inherent in … ……中固有的
+> - inherent risk / inherent hazard 固有风险／固有危害
+> - built into the system 体系本身就包含
+
+## ⭐ Standalone [ˈstændəˌləʊn] 独立的、孤立的
+
+> 考试里怎么用：教材观点：管理体系不应被看成一个孤立的东西，用 PDCA 本身就是好的管理（good management）。答题可写：安全管理要融入日常业务管理，而不是另起一套。
+>
+> English: You should not look at management systems as a standalone system; adopting a PDCA approach is simply good management.
+
+> 常见搭配：
+> - a standalone system 孤立的体系
+> - integrated into business management 融入业务管理
+> - simply good management 本身就是好的管理
+
+## ⭐⭐ Certification / Accredited / Externally audited 认证／经认可的／外部审核
+
+> 考试里怎么用：2.1 提到有些体系会被外部审核并获认证；2.2–2.4 反复考：ISO 45001 可认证，ILO-OSH 2001 不能认证；认证的好处（外部认可、赢得合同）和局限（成本、官僚、有证≠合法合规）。
+>
+> English: Some management systems are externally audited and accredited, meaning the organisation may receive a certification; ISO 45001 can be certified, but ILO-OSH 2001 cannot.
+
+> 常见搭配：
+> - be certified to ISO 45001 获得 ISO 45001 认证
+> - external certification 外部认证
+> - certification body / external certification organisation 认证机构
+> - externally audited 经外部审核
+> - an accredited certification body 经认可的认证机构
+
+### 分开记
+
+- **Externally audited 外部审核**
+  - 考：由组织外部的审核员来检查体系——是"过程"。
+  - English: The system is externally audited by independent auditors.
+  - 搭配：external audit, independent auditor
+- **Certification 认证（拿证）**
+  - 考：审核通过后，认证机构发证，证明体系符合标准——是"结果"。
+  - English: The organisation can become certified to ISO 45001.
+  - 搭配：be certified to, gain certification, certificate
+- **Accredited 经认可的**
+  - 考：有资格的、被正式认可的。教材 p81 用 accredited 指体系获得认可；严格讲 accreditation 是对"认证机构本身"的认可。答题用 certified 最稳。
+  - English: Some systems are externally audited and accredited.
+  - 搭配：accredited body, accredited certification
+
+### 怎么区分
+
+| | Externally audited | Certification | Accredited |
+|---|---|---|---|
+| 是什么 | 外部审核（过程） | 拿到证书（结果） | 被正式认可（资格） |
+| 对象 | 组织的体系 | 组织的体系 | 严格讲是认证机构；教材里也用于体系 |
+| 答题建议 | 写 independent / external audit | **最常用**：certified to ISO 45001 | 了解即可 |
+| 教材 | p81 | p82、p84、p104 起 | p81 |
+
+- Some systems are even externally audited and accredited, meaning your management system may receive a certification.（教材 p81）
+
+## ⭐⭐ Binding / Not binding [ˈbaɪndɪŋ] 有约束力的／不具约束力的
+
+> 考试里怎么用：描述 ILO-OSH 2001 的性质必用：guidelines are not binding, do not replace national laws, provide practical recommendations。对比：法律（acts / regulations）是 binding 的。
+>
+> English: The ILO-OSH 2001 guidelines are not binding, nor do they replace national laws; they provide practical recommendations.
+
+> 常见搭配：
+> - legally binding 具有法律约束力的
+> - not binding / non-binding 不具约束力的
+> - replace national laws 取代国家法律
+> - practical recommendations 实用建议
+
+- These guidelines are not binding, nor do they replace international laws. They provide practical recommendations.（教材 p82）
+
+## ⭐⭐⭐ Guidelines / Standard [ˈɡaɪdlaɪnz] [ˈstændəd] 指南／标准
+
+> 考试里怎么用：ILO-OSH 2001 = guidelines（指南，不能认证）；ISO 45001 = standard（标准，可以认证）。题目问两者区别、或场景里公司想"拿证赢合同" → 应选 ISO 45001。
+>
+> English: ILO-OSH 2001 is a set of guidelines that cannot be certified, whereas ISO 45001 is an international standard to which organisations can become certified.
+
+> 常见搭配：
+> - follow the guidelines 遵循指南
+> - meet / comply with the standard 符合标准
+> - an international standard 国际标准
+> - certified to the standard 获得该标准认证
+
+### 分开记
+
+- **Guidelines 指南**
+  - 考：ILO-OSH 2001；国际劳工组织（ILO）出；不具约束力、不取代国家法律；给实用建议；**不能认证**。
+  - English: ILO-OSH 2001 provides practical recommendations and does not offer certification.
+  - 搭配：ILO guidelines, practical recommendations, not binding
+- **Standard 标准**
+  - 考：ISO 45001:2018；国际标准化组织（ISO）出；可由外部认证机构审核，**可以拿证**。
+  - English: Organisations can become certified to ISO 45001 with the help of external certification bodies.
+  - 搭配：international standard, certified to, certification body
+
+### 怎么区分
+
+| | ILO-OSH 2001 | ISO 45001:2018 |
+|---|---|---|
+| 性质 | Guidelines 指南 | Standard 标准 |
+| 谁出的 | ILO 国际劳工组织 | ISO 国际标准化组织 |
+| 约束力 | 不具约束力，不取代国家法律 | 自愿采用，非法定义务 |
+| 能否认证 | **不能** | **能**（外部认证机构） |
+| 结构 | 5 要素：Policy / Organising / Planning & implementation / Evaluation / Action for improvement，中心是 Audit | 按 PDCA，条款 4–10 |
+| 共同点 | 都遵循 PDCA | 都遵循 PDCA |
+| 教材 | 2.2（p83–103） | 2.3（p104–114） |
+
+- ILO-OSH 2001: The ILO developed its guidelines … These guidelines are not binding … They provide practical recommendations.（教材 p82）
+- ISO45001:2018: The international standard for H&S management systems … You can become certified to this standard.（教材 p82）
+
+# 2.2 ILO-OSH 2001（教材 p83–103）
+
+## In the realm of 在……领域、在……范围内，⭐⭐ Compatible with, or integrated into 与……兼容，或融入……
+
+### In the realm of 在……领域、在……范围内
+
+> 考试里怎么用：读懂即可，答题用 in 或 for 更简单。
+>
+> English: In health and safety, prevention is better than reaction.
+
+> 常见搭配：读懂即可，没有需要特别记的搭配。
+
+> HSE 文本里可能看到：
+> in the realm of health and safety：在安全健康领域
+> in the realm of occupational health：在职业健康方面
+> in the realm of specialist advice：说到专家建议
+
+- This underscores the importance of not only having technical know-how but also being adept at communication and influence to truly make a significant difference in the realm of health and safety.
+
+### ⭐⭐ Compatible with 兼容
+
+> 考试里怎么用：2.2 ILO-OSH 2001 方针的要求之一（教材 p86）。问「OSH 方针应包含什么／有什么要求」时可以写：方针要与组织的其他管理体系（质量、环境）兼容。两套体系各自存在，但不冲突、能互相配合。场景里公司的安全体系和质量、环境体系各搞各的、文件互相矛盾 → 建议让它们兼容或整合。和 2.1 的 not standalone 是同一个思路。
+>
+> English: The OSH policy should be compatible with other management systems in use, such as quality or environmental management systems.
+
+> 常见搭配：
+> - be compatible with other management systems 与其他管理体系兼容
+> - be consistent with 与……一致
+> - not conflict with 不与……冲突
+
+### ⭐⭐ Integrated into 融入、合为一体
+
+> 考试里怎么用：比 compatible with 程度更深——直接合并成一套体系。答题可写：安全健康管理应融入整体业务管理，而不是另起一套。
+>
+> English: Health and safety should be integrated into overall business management.
+
+> 常见搭配：
+> - be integrated into business management 融入业务管理
+> - an integrated management system (IMS) 一体化管理体系（质量＋环境＋安全）
+> - quality / environmental management systems 质量／环境管理体系
+
+- The policy should also be compatible with, or integrated into, any other management systems in use — for example, quality or environmental systems.（教材 p86）
+
+### 怎么区分：In the realm of / SFAIRP / Extensive / Compatible with, integrated into
+
+| | In the realm of | So far as is (reasonably) practicable | Extensive | Compatible with / Integrated into |
+|---|---|---|---|---|
+| 回答什么问题 | 在哪个**领域** | 义务要做到什么**程度** | **规模**多大 | 两套体系什么**关系** |
+| 中文 | 在……方面、在……领域 | 在（合理）可行的范围内 | 广泛的、大量的 | 与……兼容／融入…… |
+| 词性 | 介词短语 | 法律限定语 | 形容词 | 形容词短语／动词短语 |
+| 考试重要性 | 读懂即可，答题用 in | ⭐⭐⭐ 必考 | 会用即可 | ⭐⭐ 方针要求 |
+| 例句 | in the realm of health and safety = in health and safety | Employers must reduce risks SFAIRP. | extensive damage | The OSH policy should be integrated into other systems. |
+| 教材 | 1.7 | 1.5（p51–52） | 1.7 | 2.2（p86） |
+
+- 易混：In the realm of 和 SFAIRP 中文都可译作「在……范围内」，但前者讲**领域**，后者讲**义务程度**。考试写 SFAIRP，in the realm of 不用写。
+- 易混：In the realm of 只说话题属于哪个领域；integrated into 是**把一套体系放进另一套**，有实际动作。
+- 易混：Compatible with 是两套体系**并存不冲突**；Integrated into 是**合成一套**，程度更深。
+
+## Cash-strapped [ˈkæʃ stræpt] 资金紧张的、手头紧的
+
+> **考试里怎么用：** 读懂即可，答题不用写。案例／政策落地题。场景写组织缺钱、舍不得买 PPE／控制措施 → 可用 *cash-strapped* 描述背景，但采分点是：**政策承诺了 adequate resources，实际却因“太贵”不配** → 政策未真正落实；缺钱**不能**当免责理由。Hull 案例（教材 p87–88）：$31 的防滑安全靴嫌贵、只想花 $25（为省 $6），最终罚款 $234,000＋费用 $55,000 多，合计约 $291,000。
+>
+> **English:** A cash-strapped organisation may cut spending on safety equipment, but failing to provide adequate resources can breach the commitments in its health and safety policy and lead to serious harm and prosecution.
+
+### 常考位置
+
+- 1. **ILO-OSH 2001 · Policy／资源（Element 2）**：Hull City Council 案例——*cash-strapped* 市政会因滑冰场员工滑倒重伤被罚；政策写明提供充足财务与物质资源，却因 $31 安全靴“太贵”不买。
+- 2. **场景信号**：*budget cut / too expensive / cheapest option / departmental safety budget* → 点资源不足与政策言行不一；可带 *cash-strapped* 作背景词。
+- 3. **Thought Provoker 方向**：组织如何在现实中 *live out* 政策——不只写在纸上，要配钱、配装备、跟进事故后措施。
+
+### 答题可抄句型
+
+- *Even a cash-strapped organisation must provide adequate resources for health and safety.*
+- *Saying equipment is “too expensive” can show the policy is not being lived out in practice.*
+- *Cutting safety spend to save a small amount can lead to far higher fines and human cost.*
+
+**易混区分：**
+- cash-strapped ≠ legally excused（手头紧≠可以不履行雇主职责）
+- cash-strapped ≠ risk assessment 结论（它是财务背景；控制不足仍要写 hazard／risk／controls）
+- 单词本身少单独采分；真正得分在 **adequate resources**、政策落实、事故后预防措施
+
+> Common collocations:
+> - cash-strapped (organisation / council / company) 资金紧张的组织／市政会／公司
+> - adequate financial and physical resources 充足的财务与物质资源
+> - “too expensive” “太贵了”（案例原话，常作反面信号）
+> - live out its policy 把政策落到实处
+
+## A groin injury [ˈɡrɔɪn] 腹股沟／胯部受伤
+
+> **考试里怎么用：** 了解即可（案例细节）。Hull 滑冰场案例里，同一员工**六个月前**曾因冰上滑倒造成 *a groin injury and bruised ribs*，并病假三周；之后又发生更重的头部／肋骨伤。采分不在“groin”这个部位名，而在：**同类事故反复发生却未有效纠正**（history of similar incidents）。
+>
+> **English:** He had previously suffered a groin injury and bruised ribs in a fall on the ice, then was seriously hurt again — showing a history of similar incidents without adequate preventive action.
+
+### 常考位置
+
+- 1. **ILO-OSH Policy 案例（Hull Arena）**：先前伤＝*groin injury*；后一次更重；三年内 11 起类似冰上事故。
+- 2. **场景信号**：*previous fall / similar accidents / off work* → 写未能从既往事故学习、未落实预防措施（适合的防滑鞋、指导等）。
+- 3. **和 investigation／preventative measures**：政策要求事故后调查并采取措施防再发——案例说明没做到。
+
+### 答题可抄句型
+
+- *There was a history of similar incidents before the serious injury.*
+- *A previous fall had already caused injury, but suitable footwear was still not provided.*
+- *Failing to act after earlier accidents allowed the risk to continue.*
+
+**易混区分：**
+- groin injury ≠ 考点本身；只是案例里的伤情描述（腹股沟／胯部）
+- previous injury ≠ 与本次无关：考试要把它读成 **warning sign／未闭环的 Action for improvement**
+- bruised ribs 常与之一起出现，同属先前伤情，不必单独深挖解剖
+
+> Common collocations:
+> - a groin injury 腹股沟／胯部伤
+> - bruised ribs 肋骨挫伤
+> - a history of similar incidents 同类事故史
+> - off work (for three weeks) 因伤休假
+
+## ⭐⭐ Line manager [laɪn ˈmænɪdʒə] 直线经理、直属上级
+
+> 考试里怎么用：2.2 ILO-OSH Organising（教材 p89）：*Line managers are accountable for health and safety in their areas — OSH is not just a specialist's job.* line manager 不是一个层级，而是一种身份：有直接下属、在指挥链上（中层经理、一线主管都可以是）。与之相对的是安全顾问这类专业角色——只提建议、没有指挥权。场景里"安全的事都推给安全顾问，经理们不管" → 指出安全责任在 line managers 身上，顾问只提供 competent advice；经理要对自己负责的区域问责。
+>
+> English: Line managers are accountable for health and safety in their own areas; the H&S adviser only provides competent advice and does not take over the managers' responsibility.
+
+> 常见搭配：
+> - line managers are accountable for … 直线经理对……负责
+> - in their areas / within their area of control 在他们负责的区域内
+> - the line of command / chain of command 指挥链
+> - report to one's line manager 向直属上级汇报
+> - not just a specialist's job 不只是专职人员的事
+
+### 怎么区分：Senior manager / Line manager / Supervisor / H&S adviser
+
+| | Senior manager 高层 | Line manager 直线经理 | Supervisor 主管 | H&S adviser 安全顾问 |
+|---|---|---|---|---|
+| 是什么 | 一个层级（最高层） | 一种身份：有直接下属、有指挥权 | 一个层级（一线） | 专业／顾问角色 |
+| 有没有指挥权 | 有（战略层面） | **有**（对自己的下属） | 有（对班组） | **没有**，只提建议 |
+| 对谁的安全负责 | 整个组织 | **自己负责的区域和下属** | 自己的班组和作业区 | 不直接负责，提供 competent advice |
+| 和 1.6 的关系 | = directors + senior managers | 通常 = middle managers，也包括 supervisors | = first-line / front-line managers | 1.6 的 specific H&S positions |
+| 教材 | 1.6（p54–55） | **2.2（p89）** | 1.6（p56–57） | 1.6（p54）、1.7 |
+
+- 易混：line manager 和 middle manager 常常是同一个人，但角度不同——middle manager 讲**层级**，line manager 讲**有直接下属、有指挥权**。
+- 易混：line manager 和 H&S adviser：前者**有责任、有权力**，后者**只提建议**。
+
+- Line managers are accountable for health and safety in their areas — OSH is not just a specialist's job.（教材 p89）
+
+## ⭐⭐ At … intervals [ət ˈɪntəvlz] 每隔一段时间、定期
+
+> 考试里怎么用：万能答题短语，各 Element 都能用。2.2 培训要求（教材 p90）：*initial and refresher training, reviewed at appropriate intervals*。场景里"培训只在入职时做一次" → 写 *refresher training should be provided at appropriate intervals*。写检查、审核、维护、风险评估回顾时加上 at regular / planned intervals，答案更具体；频率取决于风险高低（*depending on the level of risk*）。
+>
+> English: Refresher training should be provided at appropriate intervals, and equipment should be inspected at regular intervals depending on the level of risk.
+
+> 常见搭配：
+> - at regular intervals 定期（间隔固定）——检查、维护
+> - at appropriate / suitable intervals 按适当间隔——培训复审、健康监护
+> - at planned intervals 按计划的间隔——ISO 45001 内部审核、管理评审
+> - at frequent intervals 频繁地——高风险作业检查
+> - at specified / set intervals 按规定周期——法定检验、设备检定
+> - refresher training 复训
+
+> 答题例句：
+> - The risk assessment should be reviewed **at regular intervals** and whenever there are significant changes.
+> - The equipment should be inspected **at frequent intervals** because it is used heavily.
+> - The organisation should monitor safety performance **at appropriate intervals** to identify problems early.
+
+- ⚠️ 答题提醒：如果场景显示风险较高、设备使用频繁或近期发生过事故，要说明为什么需要更频繁检查。不要只写“定期检查”，要尽可能结合场景给出理由。
+- Include initial and refresher training, reviewed at appropriate intervals.（教材 p90）
+
+## ⭐⭐ Be free of charge 免费；不收取费用
+
+> 考试里怎么用：描述培训、设备或其他安全安排**不应让员工承担费用**时，可以用这个表达。  
+> **free of charge** 是固定搭配，意思是“免费”；前面常接 **be**。
+
+> English: Health and safety training should be provided free of charge to workers.
+
+> 常见搭配：
+> - **be free of charge** 免费
+> - **provide something free of charge** 免费提供某物
+> - **training / advice / equipment free of charge** 免费的培训／建议／设备
+> - **at no charge** 免费（近义表达）
+
+> 答题例句：
+> - The employer should provide the required safety training **free of charge**.
+> - Personal protective equipment should be provided **free of charge** to workers.
+> - The training should be **free of charge** and preferably take place during working hours.
+
+> ⚠️ 答题提醒：**free of charge** 只说明“不收费”。如果题目还涉及员工能否参加培训，可以补充培训应安排在工作时间内。
+
+- Be free of charge and preferably [最好；尽可能] take place during working hours.
+
+## ⭐⭐ Health surveillance /ˈhelθ səˌveɪləns/ 健康监护；健康监测
+
+> 考试里怎么用：当员工可能因工作接触某种危害而出现健康影响时，雇主应安排适当的 **health surveillance**，以便及早发现职业相关健康问题，并检查现有控制措施是否有效。是否需要健康监护，应根据具体风险决定。
+
+> English: Workers exposed to substances or conditions that could adversely affect their health should receive appropriate health surveillance.
+
+> 常见搭配：
+> - **carry out / provide health surveillance** 开展／提供健康监护
+> - **health surveillance programme** 健康监护计划
+> - **identify early signs of work-related ill health** 及早发现职业相关健康损害迹象
+> - **monitor workers’ health** 监测员工健康
+> - **review the effectiveness of control measures** 审查控制措施的有效性
+
+> 答题例句：
+> - Workers exposed to hazardous substances should receive appropriate health surveillance.
+>   接触有害物质的员工应接受适当的健康监护。
+> - Health surveillance may identify early signs of work-related ill health.
+>   健康监护可能帮助及早发现职业相关健康损害的迹象。
+> - The employer should review the control measures if health surveillance results show adverse effects.
+>   如果健康监护结果显示不良影响，雇主应审查控制措施。
+
+> ⚠️ 答题提醒：健康监护用于及早发现与工作有关的健康影响，也能提示控制措施是否有效；它不能代替对危害源的控制。发现异常时，应调查暴露情况并改进控制措施。
+
+- Health surveillance and exposure data;（教材 p91，OSH 文件记录要保存的记录之一）
+- Analyse data from health surveillance or other monitoring activities to detect early signs of harm.（教材 p93，Initial review）
+- Health surveillance, where appropriate, to detect early signs of ill health.（教材 p98，active monitoring）
+
+## ⭐⭐ Initial Review /ɪˈnɪʃəl rɪˈvjuː/ 初始评审；初步审查
+
+> 考试里怎么用：组织在建立或改进职业安全健康管理体系之前，先进行 **initial review**，了解现有管理安排、适用的法律要求、危害与风险，以及现有控制措施是否充分。它建立一个 **baseline（基准）**，帮助组织找出差距，并据此计划和衡量后续改进。
+
+> English: Before developing or improving its OSH management system, an organisation must carry out an initial review.
+
+> 常见搭配：
+> - **carry out / conduct an initial review** 开展初始评审
+> - **establish a baseline** 建立基准
+> - **identify gaps** 找出差距
+> - **review existing controls** 评审现有控制措施
+> - **document the results** 记录评审结果
+> - **plan future improvements** 规划后续改进
+
+> 答题例句：
+> - The organisation should carry out an initial review to identify gaps in its current health and safety arrangements.
+>   组织应开展初始评审，找出现有健康与安全安排中的差距。
+> - The review should identify applicable legal requirements and assess whether existing controls are adequate.
+>   评审应识别适用的法律要求，并评估现有控制措施是否充分。
+> - The results should be documented and used to plan future improvements.
+>   评审结果应形成记录，并用于规划后续改进。
+
+> ⚠️ 答题提醒：Initial review 是建立或改进管理体系前的**现状盘点和基准评估**。若情景说明组织没有系统掌握现有风险、法律要求或控制措施，可以建议先开展评审，再根据发现制定改进计划。
+
+- **Studybook 原句**：Before developing or improving its OSH management system, an organisation must carry out an initial review.（教材 p93）
+
+## ⭐⭐ Performance criteria /kraɪˈtɪəriə/ 绩效标准；绩效判定标准
+
+> 考试里怎么用：**Performance criteria** 是用来衡量安全计划进展、判断目标是否达成的标准。答题时可以说明组织应设定清楚、可衡量的标准，并用它们检查进展。
+
+> English: The organisation should define performance criteria to measure progress and verify whether its health and safety objectives have been achieved.
+
+> 常见搭配：
+> - **define / set performance criteria** 制定绩效标准
+> - **measure progress against performance criteria** 对照绩效标准衡量进展
+> - **verify achievement of objectives** 核实目标是否达成
+> - **measurable objectives** 可衡量的目标
+
+> 答题例句：
+> - The organisation should define performance criteria so it can measure progress against its safety objectives.
+>   组织应制定绩效标准，以便衡量安全目标的进展。
+> - The criteria should be measurable and reviewed regularly.
+>   这些标准应可衡量，并定期审查。
+
+> ⚠️ 答题提醒：**Objective** 是“要达到什么目标”；**performance criteria** 是“用什么标准衡量进展或判断目标是否达成”。例如，目标是减少设备故障；判定标准可以是记录并比较故障次数。
+
+> **笔记关联**：Studybook 中它位于 **Element 2.2，ILO-OSH 2001: Planning and Implementation**，建议和 **OSH objectives**、**action plans** 放在一起复习。
+
+- **Studybook 原句**：Defined performance criteria to measure progress and verify achievement.（教材 p94）
+
+## ⭐ Practical targets 实际目标；具体可行的目标
+
+> 考试里怎么用：这里的 **practical targets** 指把方针承诺转化为组织可以落实的具体目标。目标应结合组织的活动，具体、可实现，并能推动持续改进。Studybook 用它来解释 **OSH objectives**。
+
+> English: OSH objectives translate the policy commitments into practical targets.
+
+> 常见搭配：
+> - **set practical targets** 制定实际目标
+> - **translate commitments into targets** 将承诺转化为目标
+> - **measurable targets** 可衡量的目标
+> - **realistic and achievable targets** 现实且可实现的目标
+> - **review targets periodically** 定期审查目标
+
+> 答题例句：
+> - The organisation should translate its policy commitments into practical, measurable targets.
+>   组织应将方针承诺转化为实际、可衡量的目标。
+> - A target to complete all workplace risk assessments by a set date would make the objective more specific.
+>   设定在某个日期前完成所有工作场所风险评估的目标，可以让目标更具体。
+
+> ⚠️ 答题提醒：这里的 *practical* 不是“实践课”的意思，而是“实际可行、能落实”。可以把它和 **OSH objectives** 一起理解：objective 是目标，practical targets 强调这些目标应具体而可执行。
+
+- **Studybook 原句**：OSH objectives translate the policy commitments into practical targets.（教材 p94）
+
+## Natural disaster 自然灾害
+
+> 考试里怎么用：在应急准备（**emergency preparedness**）中，组织应考虑可能发生、并影响工作场所的紧急情况，例如火灾、化学品泄漏、爆炸或自然灾害。答题时可联系场景说明相应的预防、沟通、急救、消防、疏散、培训和演练安排。
+
+> English: Organisations must plan for foreseeable emergencies such as fire, chemical release, explosion, or natural disaster.
+
+> 常见搭配：
+> - **natural disaster** 自然灾害
+> - **foreseeable emergency** 可预见的紧急情况
+> - **emergency preparedness and response** 应急准备与响应
+> - **evacuation procedures** 疏散程序
+> - **emergency drills** 应急演练
+
+> 答题例句：
+> - The organisation should consider natural disasters when identifying foreseeable emergency situations.
+>   组织在识别可预见的紧急情况时，应考虑自然灾害。
+> - Emergency arrangements should include clear evacuation procedures and regular practical drills.
+>   应急安排应包括明确的疏散程序和定期实操演练。
+
+> ⚠️ 答题提醒：**foreseeable** 是“可以预见的”。答题时应结合工作地点和实际风险，指出相关灾害及对应安排，不要笼统地说所有组织都要防范同一种自然灾害。
+
+> **笔记关联**：Studybook 将它列在 **Element 2.2，ILO-OSH 2001: Planning and Implementation** 下的应急准备内容中；可和 **foreseeable emergencies**、疏散程序及应急演练一起记。
+
+-  **Studybook 原句**：Organisations must plan for foreseeable emergencies such as fire, chemical release, explosion, or natural disaster.（教材 p96）
+
+## ⭐ Drill /drɪl/ 演练；电钻；钻孔,Practical drills 实操演练；实际演练
+
+> 考试里怎么用：**drill** 在 HSE 学习资料里常见有三种用法，要看上下文：
+>
+> 1. **演练**（名词）：练习应急程序或安全行动。
+>    *a fire drill* = 消防演练；*practical drills* = 实操演练。
+> 2. **电钻**（名词）：一种作业设备。
+>    *an electric drill* = 电钻。使用电钻时可能要考虑噪声、振动和安全操作。
+> 3. **钻孔**（动词）：用钻具打孔。
+>    *Workers drilled holes in the wall.* = 工人在墙上钻孔。
+
+> 常见搭配：
+> - **fire drill / emergency drill** 消防演练／应急演练
+> - **practical drills** 实操演练
+> - **electric drill** 电钻
+> - **use a drill** 使用电钻
+> - **drill a hole** 钻一个孔
+> - **drill into a material** 在材料上钻孔
+> - 电焊是 **welding**。
+
+> 答题例句：
+> - The organisation should carry out regular fire drills.
+>   组织应定期开展消防演练。
+> - Workers using electric drills may be exposed to hand-arm vibration.
+>   使用电钻的工人可能受到手臂振动影响。
+> - Workers drilled holes in the concrete wall.
+>   工人在混凝土墙上钻孔。
+
+> ⚠️ 答题提醒：搭配通常能判断词义：**fire / emergency / practical + drill** 通常是“演练”；**electric / hand + drill** 通常是“电钻”；**drill + hole** 是动词“钻孔”。
+
+> **笔记关联**（按词条找，不按行号）：
+> - 1.7 **Hand-arm vibration (HAV)** 词条：*drills* 指电钻（手传振动的常见来源）。
+> - 1.1 词条里的搭配 *joint fire drills* 指联合消防演练；1.8 **Consultation** 词条里 *collaborate on fire drills* 指在消防演练上协作。
+> - 2.2 **Natural disaster** 词条：*emergency drills / practical drills* 指应急演练（教材 p96）。
+
+> **Studybook 原句**：
+> - “Regular training and practical drills for all staff.”（教材 p96）
+> - Studybook 中也将 *drills* 列为手臂振动风险相关设备的例子（3.x 手传振动部分）。
+
+## In essence /ɪn ˈesəns/ 本质上；简而言之
+
+> 考试里怎么用：**In essence** 用来概括前面内容的核心意思，类似 **basically** 或 **in short**。在 Studybook 这句话里，它引出对 evaluation（评估）的简明解释：评估把数据转化为理解，帮助组织判断现有安排是否有效、哪里需要改进。
+
+> English: In essence, evaluation turns data into understanding.
+
+> 常见搭配：
+> - **in essence, + 句子** 本质上／简而言之，……
+> - **the essence of something** 某事的本质
+> - **essentially** 本质上；基本上（副词近义词）
+
+> 答题例句：
+> - In essence, the review checks whether the safety arrangements are working.
+>   简而言之，这次评审是检查安全安排是否有效。
+> - In essence, the organisation needs to identify the problem and improve its controls.
+>   本质上，组织需要找出问题并改进控制措施。
+
+> ⚠️ 答题提醒：**In essence** 是概括用的连接表达，本身不是安全管理措施或专业考点。考试答题可以用，但要确保后面真的总结了核心意思。
+
+- **Studybook 原句**：In essence, evaluation turns data into understanding — it tells the organisation whether its arrangements are effective and where improvement is needed.（教材 p97）
+
+## ⭐⭐ Qualitative indicators 定性指标，⭐⭐ Quantitative indicators 定量指标
+
+> 考试里怎么用：组织衡量健康与安全绩效时，应同时使用**定性指标**和**定量指标**。定性指标帮助了解人们的看法、经验或管理质量；定量指标用数字表示情况。两类指标结合起来，能更全面地判断管理安排是否有效。
+
+> English: Performance measurement should use both qualitative and quantitative indicators.
+
+> 常见搭配：
+> - **qualitative indicators** 定性指标
+> - **quantitative indicators** 定量指标
+> - **measure performance** 衡量绩效
+> - **safety climate survey** 安全氛围调查
+> - **numerical data** 数值数据
+
+> 答题例句：
+> - The organisation should use safety climate surveys as qualitative indicators and accident rates as quantitative indicators.
+>   组织应使用安全氛围调查作为定性指标，并使用事故率作为定量指标。
+> - Using both types of indicators gives a broader picture of health and safety performance.
+>   同时使用两类指标，可以更全面地了解健康与安全绩效。
+
+> ⚠️ 答题提醒：可以这样区分：**定性看“情况如何、员工怎么感受”**；**定量看“多少、频率多高、变化多少”**。例如，员工对安全氛围的反馈属于定性资料，事故数量或缺勤率属于定量资料。
+
+> **笔记关联**：Studybook 中它们位于 **Element 2.2「ILO-OSH 2001: Evaluation」**的绩效衡量部分，建议与 **performance measurement**、**active / reactive monitoring** 一起复习。
+
+- **Studybook 原句**：Use both qualitative and quantitative indicators (e.g. safety climate surveys as well as numerical data).（教材 p97）
+
+### ⭐⭐ Qualitative indicators [ˈkwɒlɪtətɪv] 定性指标
+
+> 考试里怎么用：看「情况怎么样、大家怎么看」，用文字描述，不是数字。例如安全氛围调查、员工访谈、巡查时观察到的行为、员工的意见反馈。场景里只看事故数字 → 建议补充安全氛围调查等定性指标，了解员工真实感受和安全文化。
+>
+> English: Safety climate surveys can be used as qualitative indicators to understand workers' perceptions of health and safety.
+
+> 常见搭配：
+> - safety climate / culture surveys 安全氛围／文化调查
+> - worker feedback / interviews 员工反馈／访谈
+> - observations of behaviour 行为观察
+
+### ⭐⭐ Quantitative indicators [ˈkwɒntɪtətɪv] 定量指标
+
+> 考试里怎么用：看「多少、多频繁、变化多少」，用数字表示。例如事故率、病假天数、检查完成率、整改按期完成的比例。答题时说明数字要和目标对比、看趋势。
+>
+> English: Accident rates and the percentage of inspections completed on time can be used as quantitative indicators.
+
+> 常见搭配：
+> - accident / incident rates 事故率
+> - numerical data 数值数据
+> - sickness absence 病假
+> - percentage of inspections completed 检查完成率
+
+### 怎么区分：Qualitative / Quantitative
+
+| | Qualitative 定性 | Quantitative 定量 |
+|---|---|---|
+| 回答什么 | 情况如何、员工怎么看 | 多少、多频繁、变化多少 |
+| 形式 | 文字、意见、观察 | 数字、比率 |
+| 例子 | 安全氛围调查、访谈、行为观察 | 事故率、病假天数、检查完成率 |
+| 优点 | 能看到文化和原因 | 便于对比、看趋势 |
+| 局限 | 主观、难比较 | 只看数字可能漏掉原因；事故少≠安全 |
+| 教材 | 2.2（p97） | 2.2（p97） |
+
+- 易混：拼写只差一点——**quali**ty 质 → 定性；**quanti**ty 量 → 定量。
+- 易混：考试要求**两种都用**（use both），只用一种不全面。
+
+## ⭐ Ergonomic conditions /ˌɜːɡəˈnɒmɪk/ 人体工学条件；工效学状况
+
+> 考试里怎么用：指工作环境和工作安排是否适合人的身体特点与能力，例如工作站布局、座椅和显示器设置、操作姿势、重复动作和搬运方式。进行主动监控时，组织可检查这些条件，及早发现可能导致肌肉骨骼不适或损伤的问题。
+
+> English: Active monitoring should include monitoring of environmental and ergonomic conditions.
+
+> 常见搭配：
+> - **ergonomic conditions** 人体工学条件
+> - **ergonomic assessment** 人体工学评估
+> - **ergonomic hazards** 人体工学危害
+> - **adjust a workstation** 调整工作站
+> - **awkward postures / repetitive movements** 不良姿势／重复动作
+
+> 答题例句：
+> - The organisation should monitor ergonomic conditions to identify poorly designed workstations and awkward postures.
+>   组织应监控人体工学条件，以识别设计不佳的工作站和不良姿势。
+> - Workstations should be adjusted to suit workers and reduce the risk of musculoskeletal problems.
+>   应调整工作站以适应员工，降低肌肉骨骼问题的风险。
+
+> ⚠️ 答题提醒：这里的 **ergonomic** 不是只指“椅子舒不舒服”，还涉及工作任务、工具、工作站和人的适配。答题时结合场景指出具体问题，再说明如何调整或控制。
+
+- **Studybook 原句**：Monitoring of environmental and ergonomic conditions.（教材 p98）
+
+## ⭐⭐⭐ Corrective actions 纠正措施，⭐⭐ Preventive actions 预防措施
+
+### ⭐⭐⭐ Corrective actions /kəˈrektɪv ˈækʃənz/ 纠正措施
+
+> 考试里怎么用：针对检查、审核或事故调查发现的问题，采取措施消除问题或其原因，避免问题再次发生。情景题中应把措施对应到具体发现，并说明由谁负责、何时完成，以及如何确认措施有效。
+
+> English: Corrective actions should address the causes of identified problems and help prevent them from happening again.
+
+> 常见搭配：
+> - **take corrective action(s)** 采取纠正措施
+> - **implement corrective actions** 实施纠正措施
+> - **assign responsibility for corrective actions** 指定纠正措施负责人
+> - **monitor / review corrective actions** 监控／审查纠正措施
+> - **complete actions by the due date** 按期完成措施
+
+> 答题例句：
+> - The organisation should implement corrective actions to address the root causes of the incident.
+>   组织应实施纠正措施，处理事故的根本原因。
+> - Each action should have a responsible person and a completion date, and its effectiveness should be checked.
+>   每项措施都应指定负责人和完成日期，并检查其有效性。
+
+> ⚠️ 答题提醒：纠正措施要针对查明的问题或原因；只写“采取措施”太笼统。应结合场景说明改什么、谁负责，以及如何跟进。
+
+- **Studybook 原句**：Audit results must be reported to those responsible for corrective action and discussed with worker representatives to ensure transparency and shared ownership.（教材 p100）
+
+### ⭐⭐ Preventive actions /prɪˈventɪv ˈækʃənz/ 预防措施
+
+> 考试里怎么用：问题**还没发生**时，针对潜在问题提前采取措施。来源可以是主动监测、风险评估、员工建议、其他部门的事故教训。场景里一个部门出了事、其他部门有同样的风险却没动 → 建议采取预防措施，把教训推广到其他部门。
+>
+> English: Preventive actions should be taken to deal with potential problems before they occur, for example by sharing lessons from incidents across all departments.
+
+> 常见搭配：
+> - take / implement preventive action(s) 采取预防措施
+> - prevent potential problems 防止潜在问题
+> - share lessons learned across departments and sites 在各部门、各场所分享教训
+> - preventive measures 预防性措施（同义）
+
+- Planning and implementing preventive actions, i.e. measures to prevent potential problems before they occur.（教材 p102）
+
+### 怎么区分：Corrective / Preventive
+
+| | Corrective action 纠正措施 | Preventive action 预防措施 |
+|---|---|---|
+| 针对 | **已经发生**的问题、不符合项 | **可能发生**的问题 |
+| 目的 | 消除原因，防止**再次**发生 | 防止**第一次**发生 |
+| 来源 | 事故调查、审核发现、检查发现 | 风险评估、主动监测、员工建议、别处的教训 |
+| 例子 | 叉车撞人后，设置人车分离通道 | 新设备投用前先做风险评估 |
+| 共同点 | 都要找根本原因、按控制层级排优先、指定负责人和期限、检查有效性、记录 | 同左 |
+| 教材 | 2.2（p99、p102） | 2.2（p102） |
+
+- 易混：corrective = 事后「改」；preventive = 事前「防」。
+- 易混：两者都按 hierarchy of control 排优先：先消除危害，PPE 和程序控制放最后（教材 p103）。
+- Planning and implementing corrective actions, i.e. steps to remove the causes of existing non-conformities or hazards.（教材 p102）
+
+## ⭐⭐⭐ Hierarchy of control [ˈhaɪərɑːki] 控制层级
+
+> 考试里怎么用：选控制措施的优先顺序，从最有效到最弱：**消除 → 从源头控制（工程／组织措施） → 用安全作业制度和行政措施减少 → 最后才是 PPE**。场景里公司一上来就只发 PPE → 指出 PPE 是最后手段，应先考虑消除或工程控制。PPE 要免费提供，并培训正确使用和保养。Element 3 还会细讲。
+>
+> English: Control measures should follow the hierarchy of control, starting with elimination; PPE should only be used as a last resort and provided free of charge with training.
+
+> 常见搭配：
+> - follow the hierarchy of control 遵循控制层级
+> - eliminate the hazard 消除危害
+> - control at source 从源头控制
+> - engineering controls 工程控制
+> - safe systems of work 安全作业制度
+> - administrative controls 行政管理措施
+> - PPE as a last resort PPE 作为最后手段
+> - residual risk 残余风险
+
+- Eliminate the hazard completely. Control at source using engineering or organisational measures. Minimise through safe systems of work and administrative controls. Provide PPE where residual risks remain — at no cost to workers and with training on its correct use and maintenance.（教材 p95）
+
+## ⭐⭐ Management of change 变更管理
+
+> 考试里怎么用：引入新设备、新材料、新流程或人员变动时，要在**实施前**评估对安全的影响；与员工和安全委员会协商做风险评估；所有受影响的人都要被告知并接受培训。场景里公司换了新机器或改了班次，却没评估、没培训 → 指出缺少变更管理。
+>
+> English: Before introducing new equipment or processes, the organisation should assess the health and safety impact, consult workers, and inform and train everyone affected.
+
+> 常见搭配：
+> - manage change / management of change 变更管理
+> - assess the impact before implementation 实施前评估影响
+> - new equipment, materials, processes or staffing 新设备、材料、流程或人员
+> - inform and train those affected 告知并培训受影响的人
+
+- When changes occur — such as new equipment, materials, processes, or staffing — their impact on health and safety must be assessed before implementation.（教材 p95）
+
+## ⭐⭐⭐ Audit 审核，⭐⭐⭐ Management review 管理评审
+
+### ⭐⭐⭐ Audit [ˈɔːdɪt] 审核
+
+> 考试里怎么用：对整个体系的**正式、独立**检查，看体系是否到位、是否充分、是否有效。审核方案要规定：频率和范围、审核员的能力和独立性、方法（查文件、访谈、现场观察）、报告和跟进安排。结果要报告给负责整改的人，并与员工代表讨论。ILO-OSH 图的中心就是 Audit。
+>
+> English: An audit provides a formal and independent check on whether the OSH management system is in place, adequate and effective.
+
+> 常见搭配：
+> - carry out / conduct an audit 开展审核
+> - an audit programme 审核方案
+> - auditor competence and independence 审核员的能力和独立性
+> - document review, interviews and workplace observation 查文件、访谈、现场观察
+> - audit findings 审核发现
+
+- Auditing provides a formal and independent check on how well the OSH management system is functioning.（教材 p100）
+
+### ⭐⭐⭐ Management review [rɪˈvjuː] 管理评审
+
+> 考试里怎么用：PDCA 收尾的**战略**评估，由**最高负责人**按计划的间隔进行。输入：监测、调查、审核结果；事故和健康趋势；法律、技术、组织变化；员工、安全委员会、外部的反馈。输出：目标是否达成、体系是否仍适用、需要哪些整改、下一步优先事项。结果要正式记录，并告知员工和员工代表。
+>
+> English: The most senior accountable person should carry out management reviews at planned intervals to decide whether the OSH strategy is still effective.
+
+> 常见搭配：
+> - conduct a management review 进行管理评审
+> - at planned intervals 按计划的间隔
+> - the most senior accountable person 最高负责人
+> - close the loop 形成闭环
+> - priorities for future planning 下一步规划的优先事项
+
+- The most senior accountable person should conduct reviews at planned intervals.（教材 p101）
+
+### 怎么区分：Inspection / Audit / Management review
+
+| | Inspection 检查 | Audit 审核 | Management review 管理评审 |
+|---|---|---|---|
+| 查什么 | 现场的场所、设备、作业 | **整个体系**是否到位、充分、有效 | 整体**策略**是否仍有效 |
+| 谁来做 | 主管、经理、安全代表 | 有能力且**独立**的审核员 | **最高负责人** |
+| 方法 | 现场看、对照检查表 | 查文件、访谈、现场观察 | 看监测、审核、调查结果和趋势 |
+| PDCA | Check（主动监测） | Check | Check → **Act**（闭环） |
+| 结果 | 当场问题清单 | 审核报告，交整改负责人 | 新目标、新优先事项、结构调整 |
+| 教材 | 2.2（p98） | 2.2（p100） | 2.2（p101） |
+
+- 易混：Will's Insights（p101）——**measuring** 是收集数据；**reviewing** 是判断数据好坏、是否达到目标。
+- 易混：audit 强调**独立**、看**整个体系**；inspection 只看现场条件。
+
+# 2.3 ISO45001 - An International H&SManagement System Standard（教材 p104–114）

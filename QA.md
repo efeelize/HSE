@@ -176,12 +176,12 @@ QA.md
 ## 1.6 Roles of Directors, Managers, and Supervisors（教材 p53–57）
 
 ### 1)总结
-
 | role | responsibility |
 | --- | ---- |
-| 最高层 top managers = directors 董事 + senior managers 高层管理者 | 1)制定方针、明确责任：create defined roles and responsibilities for directors, managers, supervisors, workers, H&S team；2)总负责：ultimately responsible for H&S；3)制定计划：create H&S policy, set and achieve objectives；4)提供资源：provide sufficient resources；5)确保、审查：H&S system, risk assessments, H&S reports & acts；6)明确责任：hold them accountable and ensure they have access to competent advice；7)负责：作为或者不作为 |
-| 中层 managers 经理 | 风险评估、程序、培训： 1）实施计划，organise work ；2）事前提供设备（providing equipments，PPE）,评估（risk assessments）,检查(monitor inspections);3）事中监督（supervision of workers and act），记录（keep records,）；4）事后：调查（participate in investigations） | 
-|一线： supervisors/first-line or front-line managers. 主管 team leaders 班组长 | 检查、纠正、报告：1）开工前：toolbox talks，monitor,report ;2)开工：communicate with workers,participate in risk assessments, 3)事故：low-level investigations. | 
+| 最高层 top managers = directors 董事 + senior managers 高层管理者（教材 p54–55） | 1)明确责任：define roles and responsibilities for directors, managers, supervisors, workers, H&S team；2)总负责：ultimately responsible for H&S；3)建立体系、制定计划：set up and maintain an H&S management system, create H&S policy, set measurable objectives and make plans to achieve them；4)提供资源：provide sufficient resources；5)确保、审查：ensure risk assessments are carried out, 📖establish management arrangements and control measures, review H&S reports and take action to fix issues, 📖annual review of H&S performance；6)问责：hold managers accountable and ensure they have access to competent advice；7)个人负责：personally responsible for actions taken or not taken；📖8)以身作则：lead by example — follow the policy, take part in tours and inspections, wear PPE, show interest in the workforce；📖9)法律责任：in some countries senior managers can face legal action |
+| 中层 managers 经理（教材 p55–56） | 风险评估、程序、培训：1)实施计划：organise work safely (📖considering work hours and breaks)；2)事前：provide and maintain equipment, provide PPE, carry out and update risk assessments, 📖create rules, procedures and safe ways of working, 📖give training and instructions；3)事中：ensure adequate supervision of workers, monitor compliance through monitoring and audits, 📖ensure cooperation among managers, workers and contractors, 📖consult workers or their representatives；4)事后：participate in investigations and take action to fix problems, keep records and make reports |
+| 一线：supervisors / first-line or front-line managers 主管、team leaders 班组长（教材 p56–57） | 检查、纠正、报告：1)开工前：📖allocate tasks to workers who can do them safely, participate in risk assessments, 📖help develop safe work methods, toolbox talks（3.4 p187）；2)开工：📖control the work, communicate with workers, 📖ensure the team knows how to work safely, 📖regularly check work areas；3)发现问题：📖deal with problems they can handle, report bigger issues upwards；4)事故：carry out an initial investigation and pass information to higher-ups；📖5)以身作则：set a good example to encourage rule-following |
+
 
 ### 2）考试重点（Claude 补充）
 
@@ -325,11 +325,109 @@ QA.md
 > The Sentence:The company was fined the equivalent of $255,000 for failing to ensure the health and safety of nonemployees
 
 # ELEMENT 2 HOW & WHAT
-## 2.1 The Basics of Management Systems
+## 2.1 The Basics of Management Systems（教材 p81–82）
 
 > 总结：
 > -1)PDCA,Plan–Do–Check–Act（戴明循环）
 > -2)**ILO-OSH 2001**：国际劳工组织出的**指南（guidelines）**——实用建议／框架，**不能拿来认证**。
 > -3)**ISO 45001:2018**：国际标准化组织出的**标准（standard）**——可请外部认证机构审核，**可以拿证**。
 
-## 2.2 ILO-OSH 2001
+### 2）考试重点（Claude 补充）
+
+> ⭐⭐⭐ 管理体系的定义（p81）：A management system is the way in which an organisation manages the **interrelated parts** of its business in order to achieve its **objectives**.
+
+> ⭐⭐⭐ PDCA 四步（p81–82）：**Plan** 计划要做什么 → **Do** 去做，尽量按计划 → **Check** 检查是否有效 → **Act** 根据是否达成目标，调整或保持。
+
+> ⭐⭐ PDCA 里"自带"的两样东西（p82）：① **持续改进**（continuous improvement）：检查结果、吸取教训，逐步改进体系；② **领导**要定目标、给资源（decide on the objectives and provide resources）。
+
+> 📖 p82 管理体系不应看成孤立的东西（not standalone）；用 PDCA 本身就是好的管理（simply good management）。
+
+> ⭐⭐ 📖 p82 Will's Insights：文件写得再好也不够，还需要三样：**重视安全的领导、知道自己在做什么的员工、信任与协作的文化**。场景题里"体系很完整但还是出事" → 用这句分析。
+
+> 📖 p81 有些体系正式、成文、手续繁琐（formal, documented, bureaucratic），有的还经外部审核并获认证。
+
+> ⭐⭐ 📖 p82 两套体系虽有差别，但**都遵循 PDCA**。
+
+> ⚠️ 补充 ILO-OSH 2001 的性质（p82、p84）：**不具约束力（not binding）、不取代国家法律**，只提供实用建议（practical recommendations）；不提供认证。
+
+> 📖 小提示：ISO 的全称是 International Organization for Standardization（教材写作 International Standards Organisation，意思一样）。
+
+> English:
+> - A management system is the way an organisation manages the interrelated parts of its business to achieve its objectives.
+> - All management systems follow the Plan-Do-Check-Act cycle, which builds in continual improvement.
+> - Even a well-documented system will fail without committed leaders, competent workers and a culture of trust.
+> - ILO-OSH 2001 provides non-binding guidelines and cannot be certified, whereas organisations can become certified to ISO 45001.
+
+## 2.2 ILO-OSH 2001（教材 p83–103）
+
+### 1）总结
+
+> 1)Plan 分在 Policy 和 Planning 两处
+> 2)Do 是 Organising 和 Implementation
+> 3)Check 是 Evaluation，加上中心的 Audit
+> 4)Act 是 Action for improvement
+
+### 2）考试重点（Claude 补充）
+
+> ⭐⭐⭐ 5 个要素（p84）：**Policy / Organising / Planning and implementation / Evaluation / Action for improvement**，图的中心是 **Audit**。画成圆圈 = 持续进行、不断变化。ILO-OSH 是**指南**：不强制、不取代国家法律、**不能认证**。
+
+> ⭐⭐⭐ Policy 的要求（p85）：雇主**与员工或员工代表协商**后，**书面**制定。必须：① 针对本组织（规模、结构、活动）；② 简洁清楚；③ 由**最高负责人签名并注明日期**；④ 传达到位、容易获取；⑤ 定期回顾；⑥ 适当时对外共享（承包商、监管机构、客户）。
+
+> ⭐⭐⭐ Policy 的 4 项最低承诺（p86）：① 预防伤害、疾病和事件，保护健康安全；② 遵守法律和其他要求；③ **协商并让员工积极参与**体系的所有要素；④ 持续改进。另外，方针要与其他管理体系**兼容或融合**。
+
+> ⭐⭐ 员工参与（p86）：员工和安全代表要**被协商、被告知、被培训**（包括应急安排）；有**时间和资源**参与；通过安全代表或安全委员会有效代表员工。员工参与**不是可选项**，是核心原则。
+
+> ⭐⭐ 📖 Hull 案例（p87–88）：方针承诺「充足的资金和物质资源」，现实中 $31 的防滑靴嫌贵 → 3 年 11 起冰面事故、员工重伤、罚款加费用约 $291,000。教训：**方针要落实**（live out the policy）；部门安全预算会导致省小钱、赔大钱。
+
+> ⭐⭐⭐ Organising = Do（p89）：雇主负**总责**；高层要有**看得见的领导力**。组织结构要确保：line managers 对自己区域负责（不只是专职人员的事）；角色明确并传达；监督有效；各层级合作沟通（包括员工代表）；资源充足（时间、人员、设备、培训）；目标可衡量；员工能参加安全委员会。还要指定一名高层或一个团队监督体系。
+
+> ⭐⭐ 能力与培训（p90）：雇主要规定各岗位的能力要求。培训要：覆盖所有层级；由有能力的人授课；包括入职培训和**复训**，按适当间隔回顾；**免费**，最好在工作时间内；**检查学员是否理解和记住**；不断改进。还要能获得专家建议。
+
+> ⭐⭐ 📖 文件记录（p91）：方针和目标；职责；危害、风险和控制措施；程序。要保存的记录：事故报告、健康监护和接触数据、守法记录、监测和审核结果。员工有权查看与自己健康有关的记录，同时要保密。沟通（p92）：接收并回应内外部沟通；部门之间共享信息；鼓励员工反馈，并**听取和采取行动**。
+
+> ⭐⭐⭐ Planning and implementation = Plan + Do（p93–96）：
+> - **初始评审**（p93）：由有能力的人进行，并与员工协商；识别适用法律；识别和评估危害与风险；评估现有控制是否充分；分析健康监护数据。结果要**记录**，作为基准（baseline）。
+> - **计划内容**（p94）：按风险排优先的可衡量目标；行动计划（**做什么、谁做、何时完成**）；绩效标准；充足资源。
+> - **目标要求**（p94）：针对本组织；合法；着眼持续改进；现实可行但有挑战性；记录、传达并定期回顾。
+> - **控制层级**（p95）：消除 → 从源头控制 → 安全作业制度和行政措施 → PPE（免费并配培训）。
+> - **变更管理**（p95）：实施**前**评估；与员工和安全委员会协商；告知并培训受影响的人。
+> - **应急**（p96）：识别紧急情况；建立沟通和协调；急救、消防、疏散；定期培训和**演练**；与外部救援配合。
+> - **采购和承包**（p96）：设备和材料使用前要符合安全要求；承包商要达到同等安全标准；双方沟通协调；承包商的事故要报告；培训和监督承包商（联系 1.10）。
+
+> ⭐⭐⭐ Evaluation = Check（p97–101）：
+> - **绩效衡量**（p97）：与组织规模和风险相称；**定性和定量指标都用**；与危害、方针、目标直接相关；支持管理评审。
+> - **主动监测**（p98，伤害发生前）：对照计划和目标检查进度；例行检查；监测环境和人体工学条件；健康监护；核实是否守法。
+> - **被动监测**（p98，伤害发生后）：报告和调查伤害、疾病、事件；财产损坏；违反程序；员工康复和复工情况。被动数据**不能是唯一的衡量手段**。
+> - 📖 Will's Insights（p98）：监测容易，**让人对发现的问题采取行动才难**。
+> - **调查**（p99）：所有伤害、疾病和**未遂事件**都要调查，找直接原因、间接原因和根本原因；目的**不是追责**，而是找体系的缺陷、防止再发生。调查要：有记录；有员工参与；提出建议和纠正措施；把结果反馈给管理层、安全委员会和全体员工；及时落实。
+> - **审核**（p100）：正式、独立的检查。审核方案要规定频率和范围、审核员的能力和独立性、方法、报告和跟进。结果交给整改负责人，并与员工代表讨论（透明、共同承担）。
+> - **管理评审**（p101）：由最高负责人按计划间隔进行；结果要记录并传达。Will's Insights：measuring 是收集数据，reviewing 是判断好坏。
+
+> ⭐⭐ Action for improvement = Act（p102–103）：找根本原因 → **纠正措施**（消除已发生问题的原因）+ **预防措施**（防止潜在问题）→ 检查有效性 → 记录。措施按**控制层级**排优先。持续改进的来源：目标进展、风险评估、监测和调查发现、审核和评审建议、**员工和安全委员会的建议**、新法规、新技术、**对标**。教训要在各部门、各场所之间分享，并反馈回 Plan。改进离不开领导承诺、员工参与和资源。
+
+> ⚠️ 你的总结只写了 PDCA 和 5 要素的对应，这部分是对的。上面补的是每个要素**具体要做什么**，考试场景题主要考这些。
+
+> 📖 和官方样卷的联系：第 2 题（调查未遂事故）→ p99；第 3 题（评价方针落实，只用场景）→ p85–86 的要求和承诺；第 4 题（正式会议改善协商）→ p86、p89 的员工参与和安全委员会。
+
+> English:
+> - ILO-OSH 2001 is built around five elements: policy, organising, planning and implementation, evaluation, and action for improvement, with audit at the centre.
+> - The policy should be written in consultation with workers, signed and dated by the most senior accountable person, communicated to everyone and reviewed periodically.
+> - The organisation should carry out an initial review to establish a baseline before planning improvements.
+> - Reactive data should never be the only measure of safety performance; active monitoring should check controls before harm occurs.
+> - Investigations should identify failings in the management system rather than assign blame, and corrective actions should be implemented promptly.
+
+### Case Study
+
+> Read how trying to save $6 on a pair of safety shoes cost Hull City Council, UK $291,000...
+> Hull City Council’s Health and Safety Policy
+> Their health and safety policy is freely available online. It says, “The Council is committed to supporting this Health and Safety policy by ensuring the (...) provision of adequate financial and physical resources.”It also says managers are responsible for “Keeping themselves informed of all accidents and incidents that occur (ensuring that they are reported and documented), undertaking appropriate levels of investigation and implementing preventative measures to avoid a reoccurrence
+> What Happened?
+> In 2018, cash-strapped Hull City Council was fined $234,000, and ordered to pay more than $55,000 costs,for failing to protect a member of staff who was seriously injured when he slipped on the ice rink at Hull Arena.The customer service assistant, who had worked for the council for 20 years, was knocked unconscious and suffered a head injury and three broken ribs when he fell on the ice with a “horrible thud”, on August 30th,2014, Hull Crown Court heard.When he came around, he was bleeding and having “a lot of trouble breathing”. He was taken to hospital andhad to sleep in a chair for five to six weeks afterwards because he could not lie down.
+> A History of Similar Incidents
+> The same man, who had worked at the arena for eight years, suffered a groin injury and bruised ribs in a fall on the ice six months earlier and had been off work for three weeks. His later fall in August was one of 11 similar accidents on the ice in three years.He said he had only been provided with “normal” safety boots or shoes and staff often slipped or fell.He said: “People had their own methods of trying not to slip on the ice. Some shuffled along, some took small steps. We use our common sense. There were no instructions given, and no footwear provided, which would have given extra protection against slipping when working on the ice.”He also said: “I have seen many people slip on the ice, but they would get up quickly and say they were OK as they were embarrassed.”
+> $31 safety boots were ‘too expensive’
+> The court heard that before the most serious accident, another member of staff had been asked to look for suitable safety footwear for all arena staff, but the cheapest pair he could find were $31 and an area manager said they were “too expensive”.He was told to look for some costing $25, but “couldn’t find any” at that price and was “wearing his own shoes”. Other staff were said to have worn “trainers”.And this highlights the problem with setting departmental budgets for safety equipment!
+
+### Q:Consider your own organisation’s health and safety policy. How does your organisation “live out” its policy in real life?
+
+## 2.3 ISO45001 - An International H&S Management System Standard（教材 p104–114）
