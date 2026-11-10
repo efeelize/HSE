@@ -353,13 +353,21 @@ QA.md
 ### Q:How well is their work planned and coordinated? 
 ### Q:Does their work sometimes interfere with the work of your staff, or vice versa?
 
-## 1.10 Pre-selection and Management of Contractors（教材 p125–145）
+## ⭐⭐⭐ 1.10 Pre-selection and Management of Contractors（教材 p125–145）
 
 ### 1)总结
 
 > ⭐⭐ 预选检查清单（p129–131）：类似工作经验；以往客户推荐（要核实）；关键人员资质；培训记录（名字要和干活的人对得上）；安全方针（不能是通用模板）；事故统计（零事故反而可疑）；专业团体会员；**针对本作业**的风险评估和安全作业制度；执法和起诉记录；认证（如 ISO 45001）；保险；分包商的选择和管理；设备检查维护记录；**监控程序**；**与员工协商的程序**；**资源是否足够**；**安全管理体系**。
 
 > ⭐⭐ 管理承包商的做法（p132–145）：入场前做入职培训（必要时包括石棉信息）；签到签出；指定联系人；三类会议（开工前准备会、到场后开工会、长期驻场的定期会议）；控制进入作业区；不让承包商去不需要去的区域；提供材料存放和废物处理的地方（别堵疏散通道）；未经授权不得开工，高风险作业要用作业许可；主动检查，新承包商查得更勤；长期驻场的承包商派代表进安全委员会。
+
+![1.10 视频总结：各阶段要做的事](img/1.10-contractor-tasks-by-stage.png)
+
+> 视频总结要点（按阶段）：
+> - **开工前 · 选承包商**：查保险（insurances）、查以往经验、查资质（qualifications）、查事故记录（accident history）。
+> - **开工前 · 计划**：开工作计划会议（job planning meeting）、商定发包方提供哪些支持。
+> - **施工中 · 管理**：入职培训（induction）、开工前会议（pre-start meetings）、监督检查（monitoring & inspections）、指定联系人（nominated contact）。
+> - **完工后**：评价工作质量和安全表现 → 记入合格承包商名单。
 
 ### 2）考试重点（Claude 补充）
 
@@ -393,11 +401,14 @@ QA.md
 
 ### Case Study
 
-> What Happened?A construction company was fined following the death of a worker.The deceased worker was employed as a groundworker by a subcontractor to work on a construction site. He was using a machine to compact hardcore next to the area where a steel frame was being erected. The frame fell onto the worker, causing fatal injuries.
+> What Happened?
+> - A construction company was fined following the death of a worker.The deceased worker was employed as a groundworker by a subcontractor to work on a construction site. He was using a machine to compact hardcore next to the area where a steel frame was being erected. The frame fell onto the worker, causing fatal injuries.
 
-> The Prosecution:The subsequent enforcement agency investigation found serious safety failings in the way in which the company had managed the project. The anchor bolts of the steelwork were so poorly installed that they could be moved by hand. They had not been properly checked.The company had failed to review the risk assessments and method statements submitted by the subcontractor for the work and had failed to establish and maintain an exclusion zone around the steelwork while erection was being carried out.
+> The Prosecution:
+> -The subsequent enforcement agency investigation found serious safety failings in the way in which the company had managed the project. The anchor bolts of the steelwork were so poorly installed that they could be moved by hand. They had not been properly checked.The company had failed to review the risk assessments and method statements submitted by the subcontractor for the work and had failed to establish and maintain an exclusion zone around the steelwork while erection was being carried out.
 
-> The Sentence:The company was fined the equivalent of $255,000 for failing to ensure the health and safety of nonemployees
+> The Sentence:
+> -The company was fined the equivalent of $255,000 for failing to ensure the health and safety of nonemployees
 
 # ELEMENT 2 HOW & WHAT
 ## 2.1 The Basics of Management Systems（教材 p146–148）

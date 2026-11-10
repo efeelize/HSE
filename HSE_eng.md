@@ -346,7 +346,9 @@ and safety systems.
 
 > the aftermath refers to the immediate and long-term period following a major incident, accident, or disaster. It encompasses all the consequential events, reactions, and tasks that an organization must manage once the dust settles.
 
-## Cessation ， ⭐⭐Downtime ， ⭐⭐ Disruption
+## Cessation  ⭐⭐Downtime  ⭐⭐ Disruption
+
+> - 记法： 停（cessation）→ 停着（downtime）→ 乱（disruption）
 
 ### Cessation [seˈseɪʃn] 停止
 
@@ -389,10 +391,21 @@ and safety systems.
 > - disruption to production 对生产的干扰
 > - cause disruption 造成中断
 
-> disruption refers to an interruption, disturbance, or breakdown in normal business operations, processes, supply chains, or daily activities.
-
 - Indirect costs are what you feel later — disruption, inefficiency, lost business, damaged reputation.
-- 记法： 停（cessation）→ 停着（downtime）→ 乱（disruption）。
+
+## ⭐⭐ Halting [ˈhɔːltɪŋ] the work 暂停；停止
+
+> 考试里怎么用：在 halting the work 这个搭配里，halt 是停止正在进行的作业。结合教材上下文，它是客户对安全表现不达标的承包商可以采取的合同措施；通常表示先停下作业处理问题，和 terminating the contract（终止合同）不同，后者是结束合同关系。
+>
+> English: The client should halt the work if the contractor’s unsafe practices create a risk of serious injury.
+>
+> 常见搭配：
+> - halt the work 暂停／停止作业
+> - halt operations 暂停运营
+> - halt work until the risks are controlled 停工，直到风险得到控制
+> - halt work and investigate 停工并调查
+
+- Studybook 原句：The client may use contractual measures, including “entirely halting the work” or terminating the contract for severe breaches.（新版教材 p141）
 
 ## A clean-up operation 清理作业
 
@@ -793,14 +806,21 @@ and safety systems.
 
 > ⚠️ 答题提醒：有记录不等于已经实际合规。可以结合场景说明组织还需要落实控制措施、完成必要检查，并处理发现的问题。
 
-> **笔记关联**：
-> - `HSE_eng.md` 第 **705** 行，Element **1.6**「To comply with」；第 **712–715** 行同一词条下有 *comply with legal requirements*、*ensure compliance*、*non-compliance*。
-> - `HSE_eng.md` 第 **1137** 行，Element **1.8**「Cooperation and communication」相关内容中有 *check compliance*。
-> - `HSE_eng.md` 第 **1414** 行，Element **1.9**「Managing contractors」相关内容中有 *monitor compliance*。
-> - `QA.md` 第 **182** 行，Element **1.6** 管理层职责总结中出现 *monitor compliance through monitoring and audits*。
+- **Studybook 原句与页码**：Legal compliance records;
 
-> **Studybook 原句与页码**：Legal compliance records;
+## Compliance in practice 合规做法；合规实例
 
+> 考试里怎么用：这是新版 Studybook 中的提示语，用来引出一个**实际符合要求的例子**，说明组织怎样把安全要求落实到工作中。它不是某一种特定的安全措施，具体要看后面的例子。
+
+> English: **Compliance in Practice:** Before groundworks begin, the client provides the excavation contractor with detailed site maps showing the location of underground high-voltage cables and gas pipes.
+
+> 常见搭配：
+> - **comply with requirements** 遵守要求
+> - **demonstrate compliance** 证明合规
+> - **compliance in practice** 实际落实合规要求
+> - **non-compliance in practice** 实际不合规的做法
+
+- **Studybook 原句**：Compliance in Practice: Before groundworks begin, the client provides the excavation contractor with detailed site maps showing the location of underground high-voltage cables and gas pipes.（新版教材 p112）
 
 ## ⭐ Speaking up 向主管或经理说出问题，提出顾虑
 
@@ -853,6 +873,22 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 > 常考 Explain 题。要点：只保护穿戴的人；不合身或戴错就没用；可能失效而没人发现；不舒服，工人不愿戴；可能带来新问题（比如看不清、听不见）；不消除危害本身。
 
 > English: PPE only protects the wearer, and it may not work if it does not fit properly or is not worn correctly.
+
+## ⭐ Goggles /ˈɡɒɡəlz/ 护目镜
+
+> 考试里怎么用：**Goggles** 是保护眼睛的 PPE。选择时要根据具体危害，不能只笼统写“佩戴 PPE”。例如，承包商处理危险化学品时，应在风险评估中明确需要哪种手套和护目镜。
+
+> English: The risk assessment should specify the type of goggles required for the task and the hazards involved.
+
+> 常见搭配：
+> - **safety goggles** 安全护目镜
+> - **wear goggles** 佩戴护目镜
+> - **specify the necessary type of goggles** 明确所需护目镜的类型
+> - **eye and face protection** 眼部和面部防护
+
+> ⚠️ 易混：**goggles** 通常指贴合眼周的护目镜；**safety glasses / spectacles** 是安全眼镜。选用哪种防护要看飞溅、粉尘或冲击等具体风险。
+
+- **Studybook 原句**：Non-Compliance: Simply stating that personal protective equipment will be worn on a risk assessment for handling hazardous chemicals, without specifying the necessary type of gloves or goggles.（新版教材 p119）
 
 #### 3. ⭐⭐ 雇主的责任（1.4）
 
@@ -1384,6 +1420,20 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 - 答题用 escape route 或 evacuation route 就行，不用纠结区别。
 - 笔记里相关的词： corridor（走廊）、stairwell（楼梯间）、occupants（楼内人员）、fire wardens（消防安全员）、signage（标识）、liaison group（联络小组）、joint inspections（联合检查）。这几个词在场景里经常一起出现。
 - 一句话记： 看到疏散通道，就想 "畅通、标识、门、人"：通道要畅通，标识要清楚，防火门要关好，楼里的人要都撤出来。
+
+## ⭐ Egress [ˈiːɡres] 离开、出去；出口通行
+
+> 考试里怎么用：egress 是离开某处、出去的意思，常与 access（进入、通行）成对出现。在承包商管理中，control access and egress 指管理人员进出现场，例如要求承包商签到和签退，以便知道谁在现场、在哪里、正在做什么。它在其他语境中也可以指离开建筑物的通道；要根据上下文判断，这里不一定专指消防逃生。
+>
+> English: Contractors should sign in and out so the client can keep track of access to and egress from the site.
+>
+> 常见搭配：
+> - control access and egress 管理进出
+> - access / egress difficulties 进入／离开方面的困难
+> - means of egress 出口通道、离开途径
+> - emergency egress 紧急疏散
+
+- Studybook 原句：Control Access and Egress: Each individual contractor must sign in and out so the client knows exactly who is on site, where they are, and what they are doing at all times.（新版教材 p134）
 
 ## ⭐ Corridor [ˈkɔːrɪdɔːr] 走廊
 
@@ -2010,21 +2060,20 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 - renovation（翻修）、alteration（改建）、repair（维修）、demolition（拆除)
 - Tenants and contractors may carry out joint inspections before and after maintenance or refurbishment [翻修]work.
 
-## ⭐ Demolition [ˌdeməˈlɪʃ(ə)n] 拆除
+## ⭐ Demolition [ˌdeməˈlɪʃ(ə)n] 拆除；拆除作业
 
-> Demolition = the planned and controlled destruction or dismantling of a building or structure.
-
-> 考试里怎么用：1.9 典型的高风险承包工作，和维修、调试并列。场景里出现拆除 → 联想到：石棉勘察、结构倒塌、坠落物、粉尘和噪声、设隔离区、作业许可、选择有能力的承包商。
-
-> English: Before demolition starts, an asbestos survey should be carried out and an exclusion zone set up to keep people away.
-
+> 考试里怎么用：新版教材 1.09 How Clients and Contractors Should Work Together 把 demolition（拆除）列为承包工作中可能带来较高风险的活动。场景出现拆除工程时，可结合具体信息考虑结构倒塌、坠落物、粉尘、噪声、石棉，以及如何隔离作业区、选择有能力的承包商。答案要针对题目给出的风险，不必把所有措施都堆上去。
+>
+> English: Before demolition work begins, the client should check that the contractor is competent and that people are kept clear of the work area.
+>
 > 常见搭配：
 > - demolition work 拆除作业
 > - carry out demolition 进行拆除
-> - dismantle a structure 拆解构筑物
+> - demolition contractor 拆除承包商
+> - demolish a building 拆除建筑物
 > - an exclusion zone 隔离区
-> - falling materials 坠落物
-> - an asbestos survey 石棉勘察
+
+- Studybook 原句：“Activities with Higher Risks: Contract work often involves tasks outside the usual scope of the organisation's activities, many of which could present higher levels of risk. Examples include demolition, repair work, or commissioning new equipment.”（新版教材 p110）
 
 ## ⭐ Signage [ˈsaɪnɪdʒ] 不可数名词，指所有标识的总称，不能说 a signage
 
@@ -2118,20 +2167,22 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 > -a diverse workforce 多元化的员工队伍（比如语言、经验不同）
 > -a temporary / contract workforce 临时／合同制员工
 
-## ⭐ Commissioning  [kəˈmɪʃnɪŋ] 调试、投入使用前的检查和测试
+## ⭐ Commissioning new equipment [kəˈmɪʃənɪŋ njuː ɪˈkwɪpmənt] 新设备调试／投用前测试
 
-> 在 HSE 场景里讲到设备、系统、建筑时，一般都是"调试、投入使用"的意思。考试里怎么用： 1.9 承包商：调试新设备通常由承包商或供应商来做，属于"组织平常不做、风险较高"的工作，和拆除、维修并列。调试时设备第一次通电运转，防护装置可能还没装好，很容易出事。场景里出现新设备调试 → 建议：调试前做风险评估、选择有能力的承包商、使用作业许可、隔离区域、调试完成并确认安全后才交给员工使用，还要对员工进行培训。
-
-> English: Commissioning of the new machine should be carried out by a competent contractor under a permit-to-work, and the machine should not be handed over until all guards and safety devices have been checked.
-
+> 考试里怎么用：新版教材 1.09 How Clients and Contractors Should Work Together 把 commissioning new equipment（新设备调试）列为一种可能带来较高风险的承包工作。它指设备正式投入日常使用前，对设备进行安装后的检查、测试和调试，确认能安全运行。答题时要根据场景考虑谁来调试、如何控制人员接触设备，以及怎样确认安全后再移交使用。
+>
+> English: A competent contractor should commission the new equipment and check that its safety devices work before it is handed over to employees.
+>
 > 常见搭配：
-> -commission new equipment / a new machine 调试新设备
-> -commissioning tests 调试测试
-> -before / after commissioning 调试前／调试后
-> -hand over (to the user) 移交（给使用方）
-> -decommissioning 停用、退役（相反的过程，拆除前也有风险）
+> - commission new equipment 调试新设备
+> - commissioning tests 调试测试
+> - before / during commissioning 调试前／调试期间
+> - hand over the equipment 移交设备
+> - decommission equipment 停用设备／设备退役
+>
+> 笔记关联：1.9 的 **Demolition** 词条引用的是同一句教材原文（拆除、维修、调试都是高风险承包工作）；变更管理（2.2 Management of change）也要求新设备投用前先评估。
 
-- Contract work often involves tasks outside the usual scope of the organisation’s activities, many of which could present higher levels of risk. Examples include demolition, repair work, or commissioning new equipment.
+- Studybook 原句：Activities with Higher Risks: Contract work often involves tasks outside the usual scope of the organisation's activities, many of which could present higher levels of risk. Examples include demolition, repair work, or commissioning new equipment.（新版教材 p110）
 
 ## ⭐ Occupational Health Services (OHS) 职业健康服务
 
@@ -2261,6 +2312,20 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 - require those submitting tenders to make provision for the cost of safety and health measures during the construction process.
 
+## Request for Proposal (RFP) 提案请求书；征求方案文件
+
+> 考试里怎么用：发包方（**client**）发出 RFP，要求投标承包商提交安全记录，以及如何管理高风险作业的初步方案。这样，安全要求会在选择承包商之前就进入招标流程。
+
+> English: The client issues a Request for Proposal (RFP) requiring bidders to submit their safety records and a preliminary outline of how they will manage high-risk activities.
+
+> 常见搭配：
+> - **issue / send out an RFP** 发出提案请求
+> - **respond to an RFP** 回复提案请求
+> - **submit a proposal** 提交方案
+> - **submit a tender / bid** 提交投标书／投标
+> - **safety records** 安全记录
+> - **high-risk activities** 高风险作业
+
 ## Problematic [ˌprɑːbləˈmætɪk] 有问题的、有隐患的
 
 > 考试里怎么用： 一般读懂就行。你笔记里的例句很典型：客户想要又快又便宜，"这本身就有问题"，因为会导致承包商走捷径、风险增加。答题时如果想说"某个做法有问题"，用更直接的说法更清楚，比如 This is unsafe because… 或 This could lead to…，然后写出具体的后果。
@@ -2293,7 +2358,247 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 - painting from ladders instead of scaffolding
 
+## Safe erection and dismantling  /ɪˈrekʃən ən dɪsˈmæntlɪŋ/ of complex scaffolding systems 安全搭建和拆除复杂脚手架系统
+
+> 考试里怎么用：这句话强调，搭建和拆除复杂脚手架需要足够时间，并应由有能力的人员按安全方法进行。发包方制定工期时，应把这些工作所需的时间考虑进去，避免工期不合理，造成仓促作业或走捷径。
+
+> English: The client should allow sufficient time for the safe erection and dismantling of complex scaffolding systems.
+
+> 常见搭配：
+> - **erect scaffolding** 搭建脚手架
+> - **dismantle scaffolding** 拆除脚手架
+> - **complex scaffolding systems** 复杂脚手架系统
+> - **allow sufficient time for** 为……留出充足时间
+> - **safe erection and dismantling** 安全搭建和拆除
+
+- **Studybook 原句**：The client adjusts the project schedule to account for the necessary curing time of concrete or the safe erection and dismantling of complex scaffolding systems.（新版教材 p113）
+
+## ⭐ Mobile elevating work platform (MEWP) 移动式升降工作平台
+
+> 考试里怎么用：MEWP 是一种可移动、可升高作业平台，常用于高处作业。使用时要确认设备和作业安排安全，并由受过训练的人员操作。新版 Studybook 的承包商场景中，客户代表看到工人在 MEWP 上作业却没有穿安全带，便要求降下平台并暂停作业，直到安全带配齐并正确佩戴。
+
+> English: The worker was operating a mobile elevating work platform (MEWP) without a harness.
+
+> 常见搭配：
+> - **operate a MEWP** 操作移动式升降工作平台
+> - **work from a MEWP** 使用移动式升降工作平台作业
+> - **MEWP operator** 移动式升降工作平台操作员
+> - **lower the MEWP** 降下移动式升降工作平台
+
+- **Studybook 原句**：A client representative observes a contractor's worker operating a mobile elevating work platform (MEWP) without a harness.（新版教材 p115）
+
+## ⭐⭐ Interface 交界面、交叉点，⭐⭐ Interact / Interaction 相互影响
+
+> - 易混：interface 是「地点」，interaction 是「影响」——先找交叉点，再管相互影响。
+
+### ⭐⭐ Interface [ˈɪntəfeɪs] 交界面、交叉点
+
+> 考试里怎么用：1.10 计划阶段（新版 p133）：找出承包商作业和本单位员工、公众、其他承包商**在哪里碰到一起**（interface points），提前规划怎么隔开。场景里多个承包商或承包商与员工共用区域 → 指出发包方应先识别交叉点。1.8 共用场所也用：公共区域可以做覆盖各方作业交界面的联合风险评估（p106）。
+>
+> English: The client should identify interface points where the contractor's work physically meets its own staff or members of the public, and plan how to separate them.
+
+> 常见搭配：
+> - identify / map out interface points 识别交叉点
+> - coordinate the interface 协调交界面
+> - the interface between their activities 各方作业的交界面
+> - physically intersect with 在空间上交叉
+
+- Identify Interface Points: Map out exactly where the contractor's work will physically intersect with the client's own staff or members of the public, and plan how to separate them.（教材 p133）
+
+### ⭐⭐ Interface points 作业交叉点
+
+> 考试里怎么用：指不同人员或作业在什么位置碰到一起。在这起案例中，地面工人用振动平板夯压实碎石的区域，紧挨着钢结构分包商安装钢支柱的区域；这就是需要事先识别和管理的 interface。压实机的振动对未固定牢靠的钢结构产生影响，则是后续需要管理的 interaction（相互影响）。
+>
+> English: The client should identify the interface point between the groundworks and steel erection areas, then plan how to separate and coordinate the two activities.
+>
+> 怎么区分：interface point 是作业区域在哪里交叉；interaction 是作业交叉后怎样相互影响。这题里，两个承包商在相邻区域同时作业是 interface；振动导致钢柱松脱是 interaction。
+>
+> 笔记关联：见本组下面的「怎么区分：Interface / Interaction」表；钢结构倒塌案例见 QA.md 1.10 的 Case Study（新版 p136–139）。
+>
+> Studybook 原句：Failure to Identify Interface Points: The client failed to map out where different contractors' activities would physically intersect. Scheduling heavy vibratory compaction work directly next to incomplete, unsecured steelwork demonstrated a severe lack of hazard foresight.（新版教材 p138）
+
+### ⭐⭐ Interact / Interaction [ˌɪntərˈækt] 相互影响、相互作用
+
+> 考试里怎么用：1.10 施工阶段（新版 p134）：协调就是实时管理现场，**预见各项作业会怎么相互影响**，并主动管理。场景里屋顶施工、下面仓库照常作业，或者振动作业挨着没固定的结构 → 指出没有管理好作业之间的相互影响，建议调整时间、设隔离区。
+>
+> English: Coordination involves foreseeing how activities interact and actively managing those interactions, for example by scheduling work out of hours.
+
+> 常见搭配：
+> - foresee how activities interact 预见作业之间如何相互影响
+> - manage the interactions 管理相互影响
+> - unmanaged interaction 未加管理的相互影响
+> - interact with other trades / site staff 与其他工种／现场员工相互影响
+
+- Coordination is the real-time management of the workspace, foreseeing how activities interact and actively managing those interactions.（教材 p134）
+
+### 怎么区分：Interface / Interaction
+
+| | Interface 交界面 | Interaction 相互影响 |
+|---|---|---|
+| 是什么 | **在哪里**碰到一起（位置） | 碰到一起后**发生什么**（影响） |
+| 词性 | 名词 | 动词 interact／名词 interaction |
+| 什么阶段 | 计划（开工前）：找出来、规划隔离 | 协调（施工中）：预见并管理 |
+| 案例（p138） | 压实作业区和未固定的钢结构在同一区域 | 压路机振动导致钢柱倒塌 |
+| 失误说法 | Failure to Identify Interface Points | Failure to Manage Interactions |
+| 教材 | 1.10（p133）、1.8（p106） | 1.10（p134–135） |
+
+## ⭐ Bypassing safety 绕过安全措施；规避安全保护
+
+> 考试里怎么用：指为了省时间或方便，故意不使用安全保护、跳过安全步骤，或使安全装置失效。承包商作业时，如果工人绕过设备上的安全继电器（**safety relays**），属于承包商自身作业方法造成的风险；答题时可指出需要停止危险作业、恢复安全功能并查明原因。
+
+> English: The contractor bypassed the safety relays on their equipment, creating a risk of electrocution.
+
+> 常见搭配：
+> - **bypass safety devices / guards** 绕过安全装置／防护罩
+> - **bypass safety relays** 绕过安全继电器
+> - **bypass a safety procedure / safety step** 跳过安全程序／步骤
+> - **bypass safety controls** 绕过安全控制措施
+
+> ⚠️ 易混：**bypass** 不只是“没有遵守”，常带有主动避开、绕开或使保护不起作用的意思。*Ignore a safety rule* 是无视安全规则；*bypass a safety device* 是绕开或使安全装置不起作用。
+
+- **Studybook 原句**：The company is responsible for the general safety of the contractor on-site, but not for incidents that occur solely due to the contractor's own poor working methods, such as electrocution due to bypassing safety relays on their own equipment.（新版教材 p111）
+
+## ⭐ “Fire and forget” approach 签完合同就撒手不管
+
+> 考试里怎么用：形容发包方把工作交给承包商后，就不再检查或监控，直到项目快结束才过问。它不是说真的“放火然后忘记”，而是批评缺少持续监督。场景题可建议客户定期抽查承包商的作业和安全安排，及时发现问题并跟进整改。
+
+> English: The client should monitor the contractor’s work regularly and follow up any safety issues rather than taking a “fire and forget” approach.
+
+> 常见搭配：
+> - **take a “fire and forget” approach** 采取“交出去就不管”的做法
+> - **monitor contractor performance** 监控承包商表现
+> - **carry out spot checks** 进行抽查
+> - **follow up safety issues** 跟进安全问题
+
+- **Studybook 原句**：A “fire and forget” approach where the client signs the contract, hands over the keys, and never checks the site again until the project is supposedly finished.（新版教材 p114）
+
+## ⭐ Unvetted /ʌnˈvetɪd/ 未经审查的；未经审核的
+
+> 考试里怎么用：指某人或某组织尚未经过必要的背景、能力或资质检查。承包商语境中，**unvetted contractor** 是尚未完成适当审查的承包商。场景若说客户仅凭朋友推荐就雇用承包商，可指出客户没有核实其注册资质、能力或安全记录。
+
+> English: The client should not hire an unvetted contractor without checking their competence, registration and safety record.
+
+> 常见搭配：
+> - **unvetted contractor / builder** 未经审查的承包商／建筑商
+> - **vet a contractor** 审查承包商
+> - **vetting process** 审查流程
+> - **check competence and safety credentials** 核查能力和安全资质
+
+> **笔记关联**：我在 `HSE_eng.md` 和 `QA.md` 中没有找到 *unvetted* 或 *vetting*。可将它和承包商的 **competence checks（能力审查）**、安全记录核查放在一起记。
+
+- **Studybook 原句**：The client hires an unvetted, unregistered local builder to perform complex structural alterations simply because they were recommended by a friend.（新版教材 p114）
+
+## ⭐ Sanctions /ˈsæŋkʃənz/ 制裁；处罚措施
+
+> 考试里怎么用：在合同语境中，**sanctions** 指承包商不遵守安全要求时，合同规定可以采取的处罚或后果，例如暂停作业、由承包商承担相关费用，或多次违规后终止合同。答题时可以建议在合同中预先写清安全要求及违规后果。
+
+> English: The contract should specify the sanctions that will apply if the contractor fails to comply with health and safety requirements.
+
+> 常见搭配：
+> - **contractual sanctions** 合同约定的处罚措施
+> - **impose sanctions** 施加处罚
+> - **sanctions for non-compliance** 对不合规行为的处罚
+> - **suspend work / terminate the contract** 暂停作业／终止合同
+
+> ⚠️ 易混：这里的 **sanctions** 指合同中的处罚后果，不是只指国家或国际组织实施的经济制裁。
+
+- **Studybook 原句**：Clients must ensure that contracts explicitly specify safety and health requirements, as well as the sanctions and penalties that will apply in the event of non-compliance.（新版教材 p114）
+
 # 1.10 Pre-selection and Management of Contractors（教材 p125–145）
+
+## ⭐⭐⭐ Risk Assessment and Method Statement (RAMS) 风险评估与施工方案
+
+> 考试里怎么用：**RAMS** 通常指承包商针对具体任务准备的一组文件：**Risk Assessment** 识别任务中的危害、评估风险并确定控制措施；**Method Statement** 说明工作将按什么步骤、使用什么设备和控制措施安全完成。开工前，承包商应提交 RAMS，客户应审查并确认其适合现场和具体作业。
+
+> English: The contractor must assess the risks of the task and provide a written method statement explaining how the work will be carried out safely.
+
+> 常见搭配：
+> - **prepare / submit RAMS** 编制／提交风险评估和施工方案
+> - **review / agree the RAMS** 审查／商定 RAMS
+> - **task-specific risk assessment** 针对具体任务的风险评估
+> - **written method statement** 书面施工方案
+> - **follow the agreed method statement** 按商定的施工方案作业
+
+> ⚠️ 易混：**Risk Assessment** 主要回答“有哪些危害和风险、怎样控制”；**Method Statement** 主要回答“具体按什么顺序和方法安全地做”。两者互相配合，但不是同一份内容的两个名字。
+
+- **Studybook 原句**：The contractor must assess the risks of their specific tasks and provide a written method statement detailing how the job will be done safely.（新版教材 p127）
+
+## ⭐ Project-specific safety and health management plan 针对具体项目的安全与健康管理计划
+
+> 考试里怎么用：指承包商为**当前这个项目**编制的安全计划，而不是照搬其他项目的通用模板。计划要符合客户现场的安全管理体系，并结合本项目的风险、规则和应急安排；开工前应提交客户审查并获得批准。
+
+> English: The contractor must create a project-specific safety and health management plan that aligns with the client’s site OSH system and obtain approval before work begins.
+
+> 常见搭配：
+> - **develop / create a project-specific plan** 制定针对具体项目的计划
+> - **align with the client’s site OSH system** 与客户现场的职业安全健康体系相衔接
+> - **submit the plan for approval** 提交计划以供批准
+> - **generic, copy-pasted plan** 通用的、复制粘贴的计划
+> - **site-specific rules and risks** 现场特定规则和风险
+
+> ⚠️ 易混：**RAMS** 是针对具体任务的风险评估和施工方案；**project-specific safety and health management plan** 是针对整个项目的安全健康管理计划，范围通常更广，需与客户的现场体系衔接。
+
+- **Studybook 原句**：The Contractor will create a project-specific safety and health management plan that aligns with the client's overall site OSH system, and secure the client's approval before beginning any work.（新版教材 p118）
+
+## ⭐⭐ Pre-approved list of contractors 预先批准的承包商名单
+
+> 考试里怎么用：这是组织用来记录哪些承包商经过筛选、可考虑参与未来项目的名单。合同结束后，组织应评估承包商的安全表现并记录下来：表现好，可以保留在名单上并邀请其参与后续投标；表现差或安全标准不可接受，则应将其移除。它是承包商预选和持续管理之间的反馈机制，不代表承包商以后可以不经评估就直接获聘。
+>
+> English: The client should review the contractor’s health and safety performance and update the pre-approved list before inviting contractors to tender for future work.
+>
+> 常见搭配：
+> - a pre-approved list of contractors 预先批准的承包商名单
+> - remain on the list 留在名单上
+> - remove a contractor from the list 将承包商从名单中移除
+> - review and record performance 评估并记录表现
+> - invite contractors to tender 邀请承包商投标
+
+- Studybook 原句：The findings of this review must be documented and noted on the organisation's pre-approved list of contractors.（新版教材 p142）
+
+## Robust systems [rəʊˈbʌst] 完善可靠的管理安排
+
+> 考试里怎么用：这里的 robust 是“扎实、完善、能有效发挥作用”，不是“强壮”。Robust systems 指组织要有一套清晰、可靠的安排来管理承包商工作、降低风险，例如开工前沟通和规划、明确双方责任，并在合同期间持续协作。结合场景写出具体安排，比只写 “have a robust system” 更有说服力。
+>
+> English: The client should have robust systems for planning and coordinating contractors’ work throughout the contract.
+>
+> 常见搭配：
+> - implement robust systems 建立并落实完善的体系
+> - robust systems for managing contractors 管理承包商的完善体系
+> - reduce risks so far as is reasonably practicable 在合理可行范围内降低风险
+> - collaborate throughout the contract 在整个合同期间协作
+> - Robust management requires teeth 管理措施要有实际约束力
+
+- Studybook 原句：Organisations that hire contractors must implement robust systems to reduce the risks to contractors, their own staff, and the public so far as is reasonably practicable.（新版教材 p132）
+
+
+## ⭐⭐ Scope creep [skəʊp kriːp] 工作范围蔓延
+
+> 考试里怎么用：指合同进行中，工作内容发生变化或扩大，但安全计划没有相应更新。比如电工原本只负责给一楼房间重新布线，中途却被要求去易碎屋顶检查配件——原来的 RAMS 就不再适用于新任务。遇到这种情况，应暂停新任务，重新评估风险，并修订作业安排和协议，再开始工作。
+>
+> English: If the contractor’s work changes, stop the task and review the risk assessment and method statement before the new work begins.
+>
+> 常见搭配：
+> - scope creep 工作范围逐渐扩大或变化
+> - a change in the scope of work 工作范围发生变化
+> - update the safety plan 更新安全计划
+> - revise the method statement 修订施工方案
+> - stop work and reassess risks 停工并重新评估风险
+
+- Studybook 原句：A frequent cause of contractor accidents is “scope creep”—when the nature of the work changes mid-contract without a corresponding update to the safety plan.（新版教材 p141）
+
+## Scrutinised /ˈskruːtənaɪzd/ 仔细审查过；认真核查过
+
+> 考试里怎么用：表示对资料进行仔细、批判性的检查，不只是快速浏览。预选承包商时，客户应 scrutinise 与拟议工作相关的风险评估和安全作业制度，确认它们足够充分、确实适用于该项工作。
+
+> English: The client should scrutinise the contractor’s risk assessments and safe systems of work to check that they are sufficient and relevant to the task.
+
+> 常见搭配：
+> - **scrutinise risk assessments** 仔细审查风险评估
+> - **scrutinise documents / records** 仔细核查文件／记录
+> - **scrutinise something for relevance and adequacy** 仔细检查某物是否相关、充分
+> - **be scrutinised** 被仔细审查
+
+- **Studybook 原句**：These should be scrutinised to see if they are sufficient and relevant to the work they will be doing.（新版教材 p130）
 
 ## Showcase 展示、展现
 
@@ -2350,7 +2655,40 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 - What are their arrangements for selecting and managing sub-contractors? Clients want reassurance that sub-contractors will be carefully selected and managed by the main contractor.
 
-## A point of contact [pɔɪnt əv ˈkɑːntækt] 联系人、对接人
+## ⭐⭐ Lockout/Tagout (LOTO) 上锁挂牌
+
+> 考试里怎么用：LOTO 是 Lockout/Tagout 的常见缩写，在职业安全和设备维修语境中经常使用。维修、清洁或修理机器前，先隔离电源及其他危险能量来源，再上锁并挂牌，防止设备意外启动或重新接通。Lockout 是用锁把隔离装置固定在关闭状态；Tagout 是挂上标签，说明设备正在维修、不得操作。承包商作业时，客户和承包商需要协调好设备隔离。
+>
+> English: Before repairing the conveyor, the client and contractor should isolate its energy sources, lock them off and attach warning tags to prevent accidental start-up.
+>
+> 常见搭配：
+> - a lockout/tagout procedure 上锁挂牌程序
+> - isolate the equipment 隔离设备
+> - lock off the power supply 锁定电源隔离装置
+> - prevent accidental start-up 防止意外启动
+>
+> 笔记关联：我没有在 HSE_eng.md 或 QA.md 中搜到 lockout/tagout。相关内容有：
+> - HSE_eng.md 第 2279 行的 isolate the power supply（切断电源），位于 1.9 How Clients and Contractors Should Work Together 这一课下面。
+> - HSE_eng.md 第 2744 行的 Junction box，位于 1.10 Pre-selection and Management of Contractors 这一课下面，例句提到隔离电源后维修。
+
+- Studybook 原句：Ensure Equipment Isolation (Lockout/Tagout): When contractors are required to maintain, clean, or repair client machinery (such as fixing a conveyor system), the client must coordinate the strict isolation of the equipment. All power supplies and potential energy sources must be securely disconnected and physically locked off by both the client and the contractor to prevent the machine from accidentally starting up while the contractor is exposed to moving parts.（新版教材 p134）
+
+## A conveyor system [kənˈveɪə] 输送系统；传送设备
+
+> 考试里怎么用：conveyor system 是用来连续输送货物或材料的设备系统，例如传送带。教材用它举例说明：承包商要维修、清洁或修理现场机器时，客户需要协调好设备隔离，防止设备意外启动。看到输送设备正在维修或清理堵塞物，可结合场景指出要先隔离危险能量，再进行作业。
+>
+> English: Before a contractor repairs the conveyor system, the client should coordinate the isolation of the equipment to prevent accidental start-up.
+>
+> 常见搭配：
+> - a conveyor system 输送系统
+> - a conveyor belt 传送带
+> - repair / maintain a conveyor system 维修／保养输送系统
+> - a blockage in the conveyor 传送设备堵塞
+> - isolate the equipment 隔离设备
+
+- Studybook 原句：Ensure Equipment Isolation (Lockout/Tagout): When contractors are required to maintain, clean, or repair client machinery (such as fixing a conveyor system), the client must coordinate the strict isolation of the equipment.（新版教材 p134）
+
+## ⭐⭐ A point of contact 联系人、对接人
 
 > **考试里怎么用：** ⭐⭐ 常作为一条具体、实用的建议出现。场景里出现"承包商不知道找谁""几家单位之间没人对接""出了问题不知道向谁报告" → 建议指定一个明确的联系人。答题时要写清楚这个人负责什么：比如照看承包商、回答问题、批准作业、协调各方；并可点出没有联系人的后果：confusion, delays, missed hazards。
 >
@@ -2379,7 +2717,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 - Clients should nominate a point of contact for contractors to liaise with during the work. This person is responsible for looking after them, supervising them, answering any questions, and giving any necessary work authorisations. 
 
-## A site visit 现场查看／工地走访
+## ⭐ A site visit 现场查看／工地走访
 
 > **考试里怎么用：** ⭐ 常出现在承包商「开工前准备」一条里。场景写承包商不了解现场、作业范围不清、进场就撞上现有危害 → 建议开工前由承包商代表做 *a site visit*，弄清要做什么、现场条件与限制。答题写清目的：identify the work / assess site conditions / plan controls；别只写 “go to site”。
 >
@@ -2409,7 +2747,200 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 > - identify the work / site conditions 弄清作业内容／现场条件
 > - walk the site / walk-round 现场走一遍
 
-- Before the arrival of the contractors, there would normally be some discussion and a site visit by a representative of the contractors to identify what work will be carried out.This meeting is what will lead to a risk assessment and method statement being written and agreed upon by both parties.
+- Before the arrival of the contractors, there would normally be some discussion and a site visit by a representative of the contractors to identify what work will be carried out.This meeting is what will lead to a risk assessment and method statement being
+
+## Groundworks 地基工程；土方及地面准备工程
+
+> 考试里怎么用：指建筑施工开始前或施工过程中进行的地面和地下工程，例如开挖、准备地基，以及处理地下管线附近的作业。Studybook 的例子中，开挖承包商开始 groundworks 前，客户应提供地下高压电缆和燃气管线的位置图。
+
+> English: Before groundworks begin, the client should provide the excavation contractor with site maps showing underground cables and gas pipes.
+
+> 常见搭配：
+> - **carry out / begin groundworks** 开展／开始地基及土方工程
+> - **groundworks contractor** 地基工程／土方承包商
+> - **groundworker** 地基工程工人
+> - **excavation work** 开挖作业
+> - **underground services** 地下管线
+
+> ⚠️ 易混：**groundworks** 是工程类别；**groundworker** 是从事这类工作的工人。它不只是“地面上的工作”，常包括开挖及地下设施周边作业。
+
+- **Studybook 原句**：Before groundworks begin, the client provides the excavation contractor with detailed site maps showing the location of underground high-voltage cables and gas pipes.（新版教材 p112）
+
+## Excavation contractor /ˌekskəˈveɪʃən/ 开挖承包商；土方开挖承包商
+
+> 考试里怎么用：读懂即可。指受聘进行开挖作业的承包商。开挖前，发包方应向其提供已知地下设施（如电缆和燃气管线）的资料；承包商则应告知计划中的开挖是否会影响已知地下管线，并讨论隔离措施。
+> 场景里出现开挖作业时，可以从这几个角度写：1)发包方开工前有没有提供地下管线图？2)沟槽有没有支护？3)看到危险有没有叫停？
+
+> English: Before excavation begins, the client should provide the contractor with information about known underground services.
+
+> 常见搭配：
+> - **excavation contractor** 开挖承包商
+> - **excavation work** 开挖作业
+> - **begin / carry out excavation** 开始／进行开挖
+> - **underground services** 地下管线
+> - **buried cables and gas pipes** 埋地电缆和燃气管道
+
+- **Studybook 原句**：Before groundworks begin, the client provides the excavation contractor with detailed site maps showing the location of underground high-voltage cables and gas pipes.（新版教材 p112）
+
+## Excavator /ˈekskəveɪtə/ 挖掘机；挖掘作业设备
+
+> 考试里怎么用：在施工场景中，**excavator** 通常指挖掘机这种重型设备。开挖前要确认地下管线位置，并规划作业范围和安全措施，避免挖坏电缆或燃气管道。
+
+> English: The excavator operator should check the location of underground services before digging.
+
+> 常见搭配：
+> - **operate an excavator** 操作挖掘机
+> - **excavator operator** 挖掘机操作员
+> - **excavation work** 开挖作业
+> - **underground services** 地下管线
+> - **dig with an excavator** 使用挖掘机开挖
+
+> ⚠️ 易混：**excavator** 通常是挖掘机；**excavation contractor** 是开挖承包商；**groundworker** 是从事地基或土方作业的工人。
+
+- **Studybook 原句**：新版 Studybook 中未检索到 *excavator* 这个词；相关原句提到开挖承包商开工前应获得地下高压电缆和燃气管线的位置图。（新版教材 p112）
+
+## Vibratory plate compactor [ˈvaɪbrətəri pleɪt kəmˈpæktə] 振动平板夯
+
+> 考试里怎么用：这是用振动底板压实土壤、碎石等地面的设备，常用于地基或地面准备工程。新版教材的案例中，地面工人操作它压实碎石时，旁边正在安装的钢柱没有支撑牢固；设备振动与结构不稳共同导致钢柱倒塌。答题时要结合案例指出：相邻作业的相互影响没有评估，作业区域也没有隔离，而不只是把设备本身列作危险。
+>
+> English: The groundworker was using a vibratory plate compactor close to an unsupported steel column, and the vibration contributed to the collapse.
+>
+> 常见搭配：
+> - operate a vibratory plate compactor 操作振动平板夯
+> - compact hardcore 压实碎石垫层
+> - ground vibrations 地面振动
+> - an unsupported steel column 未支撑的钢柱
+> - segregate work areas 隔离作业区域
+
+- Studybook 原句：On the morning of the incident, a groundworker employed by the groundworks subcontractor was tasked with using a heavy vibratory plate compactor to consolidate hardcore material along the perimeter of the building footprint.（新版教材 p136）
+
+## Building footprint [ˈfʊtprɪnt] 建筑物在地面上的占地范围
+
+> 考试里怎么用：这里的 building footprint 指建筑物在地面上所占的范围或轮廓，不是“建筑物的足迹”。原句说的是沿着建筑物占地范围的边缘压实碎石。案例还提示：紧邻这个范围的钢结构安装作业受到压实设备振动的影响，因此需要规划作业顺序、识别作业交叉点并隔离区域。
+>
+> English: The groundworker compacted hardcore along the perimeter of the building footprint.
+>
+> 常见搭配：
+> - the building footprint 建筑物的地面占地范围
+> - the perimeter of the building footprint 建筑物占地范围的边缘
+> - within the building footprint 在建筑物占地范围内
+> - adjacent to the building footprint 紧邻建筑物占地范围
+
+- Studybook 原句：On the morning of the incident, a groundworker employed by the groundworks subcontractor was tasked with using a heavy vibratory plate compactor to consolidate hardcore material along the perimeter of the building footprint[一支钢结构分包商的施工队当时正在安装竖直的钢支柱].（新版教材 p136）
+
+## Clearing debris /ˈdebriː/ 清理杂物；清除碎屑
+
+> 考试里怎么用：指把工作区域或通道里的废料、碎屑等清走。及时清理可以减少绊倒、滑倒或通道受阻的风险。施工现场要特别留意被带进通道的泥土、碎料和其他障碍物。
+
+> English: Workers should clear debris from walkways promptly to prevent slips and trips.
+
+> 常见搭配：
+> - **clear / remove debris** 清理／移除碎屑
+> - **construction debris** 建筑废料
+> - **clear debris from walkways** 清理通道上的杂物
+> - **keep the work area tidy** 保持作业区整洁
+
+> **笔记关联**：`HSE_eng.md` 第 **399–407 行**，**Element 1.2「The Financial Costs of Incidents」**下的 **A clean-up operation** 词条，将 *debris* 列为事故后清理的物料；第 **2659–2678 行**的 **Trailing cables** 词条引用了清理杂物的新版教材例句，可以和本短语一起记。前者偏事故后清理成本，后者是现场及时清障、防止绊倒。
+
+- **Studybook 原句**：Compliance: Promptly securing trailing cables and clearing debris immediately after the client's health and safety auditor issues a minor non-conformance report.（新版教材 p120）
+
+## High-voltage cables /ˈvəʊltɪdʒ/ 高压电缆
+
+> 考试里怎么用：开挖前如果地下有高压电缆，施工人员可能因挖掘设备损坏电缆而触电，甚至造成致命伤害。发包方应把已知电缆位置告知开挖承包商，并提供现场图纸；开挖方应据此计划作业并采取适当控制措施。
+
+> English: Before groundworks begin, the client should show the excavation contractor the location of underground high-voltage cables.
+
+> 常见搭配：
+> - **underground high-voltage cables** 地下高压电缆
+> - **locate / identify buried cables** 定位／识别埋地电缆
+> - **damage a cable during excavation** 在开挖时损坏电缆
+> - **provide site maps** 提供现场图纸
+
+- **Studybook 原句**：Before groundworks begin, the client provides the excavation contractor with detailed site maps showing the location of underground high-voltage cables and gas pipes.（新版教材 p112）
+
+## Junction box /ˈdʒʌŋkʃən/ 接线盒
+
+> 考试里怎么用：指用于连接、分支或保护电线连接点的盒体。作业中如果发现接线盒破损、未固定或带电部件暴露，应避免接触，并由有资质的人员隔离电源后检查或维修。
+
+> English: Damaged junction boxes should be isolated and repaired by a competent person.
+
+> 常见搭配：
+> - **electrical junction box** 电气接线盒
+> - **wiring inside a junction box** 接线盒内的线路
+> - **a damaged / exposed junction box** 损坏的／带电部件暴露的接线盒
+> - **isolate the power supply** 隔离／切断电源
+
+> **Studybook 原句**：新版 Studybook 中没有检索到 *junction box* 这个词，因此暂时没有对应的教材原句和页码。
+
+## ⭐ Trailing cables /ˈtreɪlɪŋ/ 拖在地面上的电缆；散落电缆
+
+> 考试里怎么用：指延伸或散落在地面上的电缆，可能绊倒行人。应把电缆妥善固定或改走安全路线，并及时清理走道。若用电池工具可以消除现场电缆，也可减少绊倒风险。
+
+> English: Trailing cables across a walkway should be secured or removed promptly to prevent trips.
+
+> 常见搭配：
+> - **a trailing cable across a walkway** 横跨通道的电缆
+> - **secure / remove trailing cables** 固定／移除散落电缆
+> - **trip hazard** 绊倒危险
+> - **keep walkways clear** 保持通道畅通
+
+- **Studybook 原句**：Compliance: Promptly securing trailing cables and clearing debris immediately after the client's health and safety auditor issues a minor non-conformance report.（新版教材 p120）
+
+## Buried service line  埋地管线；地下公用设施线路
+
+> 考试里怎么用：指埋在地下的公用设施线路或管线，例如电缆、燃气管道或供水管。开挖作业可能碰到这类设施，因此承包商应开工前告知客户，并讨论隔离等安全措施。
+
+> English: The contractor should notify the client if planned excavation will cross a known buried service line and discuss isolation before digging.
+
+> 常见搭配：
+> - **a buried service line** 一条埋地管线／地下设施线路
+> - **locate buried services** 定位地下管线
+> - **cross a buried service line** 与埋地管线交叉
+> - **discuss isolation procedures** 讨论隔离程序
+> - **before digging / excavation** 开挖前
+
+- **Studybook 原句**：Notifying the client that planned excavation work will cross a known buried service line and discussing isolation procedures before digging.（新版教材 p117）
+
+## Mezzanine /ˈmezəniːn/ 夹层；中间楼层
+
+> 考试里怎么用：指建筑物内部位于两层主楼层之间的楼层或平台。承包商作业时，要考虑上下楼层之间的相互影响：例如在夹层焊接可能影响下方使用易燃溶剂的清洁作业。应协调作业时间、控制火花和隔离区域，并确保双方沟通。
+
+> English: The client should not schedule welding on a mezzanine above solvent-cleaning work without coordinating the activities.
+
+> 常见搭配：
+> - **mezzanine level / floor** 夹层／中间楼层
+> - **work on a mezzanine** 在夹层作业
+> - **above / below the mezzanine** 在夹层上方／下方
+
+- **Studybook 原句**：The client schedules a welding contractor to work on a mezzanine directly above a cleaning contractor using highly flammable solvents, with no communication between the two parties.（新版教材 p113）
+
+## Curing time /ˈkjʊərɪŋ/ 固化时间；养护时间
+
+> 考试里怎么用：指混凝土等材料需要经过固化或养护、才能达到所需强度的时间。安排工程进度时，客户应把必要的 curing time 算进去，避免工期过紧，导致承包商为了赶工而违反安全要求或在条件未满足时继续施工。
+
+> English: The client should allow sufficient curing time for concrete when planning the project schedule.
+
+> 常见搭配：
+> - **curing time of concrete** 混凝土固化／养护时间
+> - **allow sufficient curing time** 留足固化时间
+> - **account for curing time** 把固化时间考虑在内
+> - **adjust the project schedule** 调整项目进度
+
+- **Studybook 原句**：The client adjusts the project schedule to account for the necessary curing time of concrete or the safe erection and dismantling of complex scaffolding systems.（新版教材 p113）
+
+## Site-wide speed limit 全场统一限速
+
+> 考试里怎么用：指适用于整个工地或场地的统一速度限制。承包商及其员工也必须遵守客户规定的现场交通规则，包括限速和单向行驶安排，以降低车辆与行人、其他车辆或作业区发生碰撞的风险。
+
+> English: Contractors must follow the client’s site-wide speed limit and designated traffic routes.
+
+> 常见搭配：
+> - **set / enforce a site-wide speed limit** 设定／执行全场限速
+> - **follow the site speed limit** 遵守现场限速
+> - **traffic routes / one-way system** 交通路线／单向行驶系统
+> - **site traffic rules** 现场交通规则
+
+- **Studybook 原句**：Non-Compliance: Ignoring the client's site-wide speed limit or driving heavy machinery the wrong way down a designated one-way system.（新版教材：Element 1.09「How Clients and Contractors Should Work Together」）
 
 ## Stray (into) [streɪ ˈɪntuː] 误入、擅自走进
 
@@ -2438,36 +2969,19 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 - Access to the work area should be controlled to ensure that unnecessary personnel do not stray into the area and put themselves at risk.
 
-## Congestion [kənˈdʒestʃən] 拥挤、堵塞（通道／场地挤满）
+## ⭐ Congestion [kənˈdʒestʃən] 拥挤、堵塞
 
-> **考试里怎么用：** ⭐ 承包商管理里写场地控制。场景写工具、材料、废料堆在通道上 → 写 *excessive congestion*，常和 *trip hazards*、*block fire escape routes* 一起出。答措施：提供合适的储存与废料设施（suitable storage and waste facilities）。
+> 考试里怎么用：在承包商作业场景中，congestion 通常指工具、材料和废料让作业区或通道变得拥挤、堵塞。场景提到物料堆在通道、出口附近或妨碍通行时，可以指出 congestion，并结合题目建议提供合适的储存和废料设施、保持通道和消防疏散路线畅通。
 >
-> **English:** Provide suitable storage and waste facilities so that tools, materials and waste do not create excessive congestion, trip hazards, or block fire escape routes.
-
-### 常考位置
-
-- 1. **承包商管理 · 作业中控制（1.10）**：教材：承包商常带大型工具、设备、材料，并产生废料；客户应提供合适储存与废料设施，避免 *excessive congestion*、绊倒危害、堵住消防疏散通道。
-- 2. **场景信号**：*materials left in walkways / waste piled near exits / site cluttered* → 点 *congestion*，再写 storage、housekeeping、clear escape routes。
-- 3. **和滑倒绊倒／消防题交叉**：拥挤本身常连带 *trip hazards* 与 *blocked fire exits*——三件事可一起得分。
-
-### 答题可抄句型
-
-- *Provide suitable storage and waste facilities to avoid excessive congestion.*
-- *Keep walkways and escape routes clear of materials and waste.*
-- *Poor storage of contractor materials can create congestion and trip hazards.*
-
-**易混区分：**
-- congestion ≠ traffic jam（考场里多半是**场地／通道被占满**，不是马路上堵车）
-- congestion ≠ overcrowding of people only（人多可以叫拥挤；教材这句更强调**物堆导致的堵塞**）
-- congestion 是现象；措施写 *storage / waste facilities / housekeeping / keep routes clear*
-
-> Common collocations:
+> English: The client should provide suitable storage and waste facilities to prevent congestion and keep fire escape routes clear.
+>
+> 常见搭配：
 > - excessive congestion 过度拥挤／严重堵塞
 > - create congestion 造成拥挤
-> - congestion, trip hazards, (and) blocked fire escape routes 拥挤、绊倒危害、堵住疏散通道（教材固定三联）
+> - congestion, trip hazards and blocked fire escape routes 拥挤、绊倒危害和消防疏散通道受阻
 > - suitable storage and waste facilities 合适的储存与废料设施
 
-- Contractors often require large tools, equipment, and quantities of materials. Their work often generates waste. The client should provide suitable storage and waste facilities to ensure this does not create excessive congestion, trip hazards, or block fire escape routes.
+- Studybook 原句：Clients must offer practical assistance by designating secure storage and waste facilities to prevent excessive congestion, trip hazards, or blocked fire escape routes.（新版教材 p133）
 
 # 2.1 The Basics of Management Systems（教材 p146–148）
 
@@ -2709,6 +3223,21 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 > - be compatible with other management systems 与其他管理体系兼容
 > - be consistent with 与……一致
 > - not conflict with 不与……冲突
+
+### In so far as is compatible with  在不与……冲突的范围内；只要符合……
+
+> 考试里怎么用：这是一个限定条件，表示某项职责或安排要在**符合相关法律法规的前提下**执行。Studybook 这句话的意思是：总承包商应负责协调安全措施，并在符合国家法律法规的范围内确保这些措施得到遵守。
+
+> English: The principal contractor should coordinate safety measures and, in so far as is compatible with national laws and regulations, ensure compliance with them.
+
+> 常见搭配：
+> - **in so far as is compatible with national laws and regulations** 在不与国家法律法规冲突的范围内
+> - **compatible with the law** 符合法律要求；与法律不冲突
+> - **ensure compliance with measures** 确保遵守措施
+
+> ⚠️ 易混：这里的 **compatible with** 表示“相容、不冲突”，不是 *so far as is reasonably practicable*（在合理可行的范围内）。前者限定**是否与法律相容**，后者限定**采取措施的合理可行程度**。
+
+- **Studybook 原句**：The principal contractor … should be responsible for planning and coordinating safety and health measures and, in so far as is compatible with national laws and regulations, for ensuring compliance with such measures.（新版教材 p123）
 
 ### ⭐⭐ Integrated into 融入、合为一体
 
@@ -3031,6 +3560,23 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 > **Studybook 原句**：
 > - “Regular training and practical drills for all staff.”（教材 p160）
 > - Studybook 中也将 *drills* 列为手臂振动风险相关设备的例子（3.x 手传振动部分）。
+
+## ⭐ Abrasive wheel cutting /əˈbreɪsɪv/ 使用砂轮切割
+
+> 考试里怎么用：指用砂轮片切割材料。切割时可能产生火花和高温，因此在易燃物附近作业前，应告知客户，并按现场要求申请 **hot work permit（动火作业许可证）**，同时采取适当防火措施。
+
+> English: Abrasive wheel cutting near flammable materials requires informing the client and obtaining a hot work permit where required.
+
+> 常见搭配：
+> - **abrasive wheel** 砂轮片
+> - **cut with an abrasive wheel** 使用砂轮切割
+> - **hot work permit** 动火作业许可证
+> - **flammable storage area** 易燃物品存放区
+> - **inform the client before starting work** 开工前通知客户
+
+> ⚠️ 答题提醒：Studybook 用这个例子说明承包商应在开工前沟通作业危害、协调控制措施。若题目有易燃物、火花或高温作业线索，可考虑动火许可和防火控制。
+
+- **Studybook 原句**：Non-Compliance: Beginning abrasive wheel cutting near a flammable storage area without informing the client or requesting a hot work permit.（新版教材 p117）
 
 ## In essence /ɪn ˈesəns/ 本质上；简而言之
 
