@@ -453,6 +453,27 @@ QA.md
 > 3)Check 是 Evaluation，加上中心的 Audit
 > 4)Act 是 Action for improvement
 
+![2.2 视频练习：Harborough 场景](img/2.2-quiz-harborough-scenario.png)
+
+![2.2 视频练习：Harborough 归类答案（Plan / Do）](img/2.2-quiz-harborough-pdca-answers.png)
+
+> 视频练习要点（Harborough）：
+> - **Plan**：初始评审（initial review）、审查健康数据（reviewed health data）、更新安全方针、设定清晰的目标
+> - **Do**：培训矩阵（training matrix）、主管复训、承包商管理制度、应急演练、每月安全简报
+> - ⚠️ 董事会每年审查健康监护数据，答案归到 **Plan**，因为它的用途是**定新目标和降险计划**，不是检查绩效。
+
+![2.2 视频练习：Rivermount 场景](img/2.2-quiz-rivermount-scenario.png)
+
+![2.2 视频练习：Rivermount 归类答案（PDCA）](img/2.2-quiz-rivermount-pdca-answers.png)
+
+> 视频练习要点（Rivermount）：
+> - **Plan**：设定新的安全目标、编列设备升级预算
+> - **Do**：刀具使用复训、给厨房员工发防滑鞋、主管每日简报和抽查（spot checks）
+> - **Check**：审查事故数据，发现漏报；检查发现旧炸锅缺少防溅罩（splash guards）
+> - **Act**：每季度和客户的设施团队联合评审，跟踪改进、继续调整
+> - ⚠️ 场景是先整改（Do）、后定目标（Plan）的，说明归类看**这件事起什么作用**，不看发生的先后。
+> - ⚠️ 同样叫 review：查绩效、找问题的归 **Check**；为了继续改进而定期评审的归 **Act**。
+
 ### 2）考试重点（Claude 补充）
 
 > ⭐⭐⭐ 5 个要素（p150）：**Policy / Organising / Planning and implementation / Evaluation / Action for improvement**，图的中心是 **Audit**。画成圆圈 = 持续进行、不断变化。ILO-OSH 是**指南**：不强制、不取代国家法律、**不能认证**。

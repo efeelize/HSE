@@ -1815,7 +1815,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 > -组织之间 In a shared workplace, different employers’ activities interact, so they must coordinate .
 > -危害之间 Two chemicals may interact and become more dangerous together; noise and fatigue may interact to increase errors.
 
-- They might also participate in senior management reviews of health and safety performance and interact with enforcement agencies and other stakeholders.
+- They might also participate in senior management reviews of health and safety performance and interact with enforcement agencies and other stakeholders[利益相关方].
 
 ## ⭐ Oversight 遗漏
 
