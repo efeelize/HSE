@@ -1499,7 +1499,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 >
 > English: Senior managers can delegate responsibility for tasks, but they remain accountable for health and safety.
 
-### Responsibility 职责
+### ⭐⭐⭐ Responsibility 职责
 
 > 考试里怎么用：**负责去做**某项任务。可以下放、可以多人分担。
 >
@@ -1507,7 +1507,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 >
 > 常见搭配：be responsible for 负责；delegate responsibility 下放职责；allocate responsibilities 分配职责；roles and responsibilities 角色和职责
 
-### Accountability 问责、最终责任
+### ⭐⭐⭐ Accountability 问责、最终责任
 
 > 考试里怎么用：对**结果**负最终责任，出了问题要交代。**不能下放**，留在雇主和最高管理层。
 >
@@ -1797,6 +1797,32 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 | 回答 | 为什么、往哪去 | 想去哪 | 具体到什么程度、何时 | 怎么做到 |
 | 具体程度 | 最宏观 | 宏观 | **具体、可衡量** | 最详细 |
 | 例子 | 我们重视安全 | 减少叉车事故 | 2027 年 12 月前减少 30% | 铺人行通道、培训司机 |
+
+## ⭐⭐ Voluntary commitments 自愿承诺；组织主动承担的要求
+
+> **考试里怎么用**
+>
+> 如果题目要求评价组织是否落实安全方针，先找出它**具体承诺了什么**，再用场景证据判断它**实际做到了什么**。
+> **审题提醒**　如果场景只说明公司没有完成自己承诺的巡查频次，有依据写的是 *failed to meet its commitment*（未兑现承诺）。要判断是否违反法定要求，还需知道适用法律具体要求什么。
+>
+> 例如，某企业主动承诺每月由一名董事参加安全巡查，但记录显示过去三个月没有董事参加。可以写：
+> *The organisation did not meet its voluntary commitment to monthly director-led safety tours. No director took part in a tour during the three months described.*
+> 组织没有兑现由董事每月带队巡查的承诺。场景所述的三个月里，没有董事参加巡查。
+
+> **易混｜legal requirements / voluntary commitments / practical targets**
+>
+> | 词汇 | 怎样区分 | 例子 |
+> |---|---|---|
+> | **Legal requirement** 法定要求 | 来源是适用法律。答「违法」时，要有相应的法律要求和场景事实作依据。 | 雇主须履行适用法律规定的安全职责。 |
+> | **Voluntary commitment** 自愿承诺 | 来源是组织主动作出的承诺。答题时可以评价组织是否兑现。 | 公司承诺让董事定期参与现场安全巡查。 |
+> | **Practical target** 具体可行的目标 | 把承诺写成可执行、可检查的结果。 | 每月由一名董事带队完成一次巡查，并记录发现的问题。 |
+
+>
+> **常见搭配**
+>
+> - **make a voluntary commitment to do something** 主动作出承诺要做某事
+> - **meet / fulfil a commitment** 履行承诺
+> - **fail to meet a commitment** 未能兑现承诺
 
 ## Interact [ˌɪntərˈækt] 互动、交流、相互作用
 
@@ -3103,6 +3129,8 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 > - integrated into business management 融入业务管理
 > - simply good management 本身就是好的管理
 
+- The policy should also be compatible with[彼此兼容，可以分别运行，但不冲突], or integrated into[把健康与安全政策纳入已有管理体系，作为其中的一部分共同运行], any other management systems in use — for example, quality or environmental systems.
+
 ## ⭐⭐ Certification / Accredited / Externally audited 认证／经认可的／外部审核
 
 > 考试里怎么用：2.1 提到有些体系会被外部审核并获认证；2.2–2.4 反复考：ISO 45001 可认证，ILO-OSH 2001 不能认证；认证的好处（外部认可、赢得合同）和局限（成本、官僚、有证≠合法合规）。
@@ -3353,11 +3381,11 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 - Line managers are accountable for health and safety in their areas — OSH is not just a specialist's job.（教材 p156）
 
-## ⭐⭐ At … intervals [ət ˈɪntəvlz] 每隔一段时间、定期
+## ⭐⭐ At … intervals [ˈɪntəvlz] 每隔一段时间、定期
 
-> 考试里怎么用：万能答题短语，各 Element 都能用。2.2 培训要求（教材 p156）：*initial and refresher training, reviewed at appropriate intervals*。场景里"培训只在入职时做一次" → 写 *refresher training should be provided at appropriate intervals*。写检查、审核、维护、风险评估回顾时加上 at regular / planned intervals，答案更具体；频率取决于风险高低（*depending on the level of risk*）。
->
-> English: Refresher training should be provided at appropriate intervals, and equipment should be inspected at regular intervals depending on the level of risk.
+> 考试里怎么用：万能答题短语，各 Element 都能用。*initial and refresher training, reviewed at appropriate intervals*。场景里"培训只在入职时做一次" → 写 *refresher training should be provided at appropriate intervals*。写检查、审核、维护、风险评估回顾时加上 at regular / planned intervals，答案更具体；频率取决于风险高低（*depending on the level of risk*）。
+
+- ⚠️ 答题提醒：如果场景显示风险较高、设备使用频繁或近期发生过事故，要说明为什么需要更频繁检查。不要只写“定期检查”，要尽可能结合场景给出理由。
 
 > 常见搭配：
 > - at regular intervals 定期（间隔固定）——检查、维护
@@ -3372,15 +3400,35 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 > - The equipment should be inspected **at frequent intervals** because it is used heavily.
 > - The organisation should monitor safety performance **at appropriate intervals** to identify problems early.
 
-- ⚠️ 答题提醒：如果场景显示风险较高、设备使用频繁或近期发生过事故，要说明为什么需要更频繁检查。不要只写“定期检查”，要尽可能结合场景给出理由。
+> **易混搭配**
+>
+> | 表达 | 强调什么 | 场景里怎么理解 |
+> |---|---|---|
+> | **at appropriate intervals** 按适当间隔 | 频率是否合适 | 复审培训安排时，要考虑工作的风险和员工实际需要。 |
+> | **at planned intervals** 按计划的间隔 | 是否事先安排 | 最高负责人应把管理评审排进计划，明确何时评审。 |
+> | **at regular intervals** 定期 | 是否按规律重复 | 例如主管每月开展一次现场检查。 |
+>
+> **审题提醒**　如果题干说「引入了新设备，但培训内容多年未变」，可以具体写 **review the training before workers use the new equipment**。场景已经给出了需要复审的时点。
+
 - Include initial and refresher training, reviewed at appropriate intervals.（教材 p156）
+- “The most senior accountable person should conduct reviews at planned intervals.”
 
 ## ⭐⭐ Be free of charge 免费；不收取费用
 
-> 考试里怎么用：描述培训、设备或其他安全安排**不应让员工承担费用**时，可以用这个表达。  
-> **free of charge** 是固定搭配，意思是“免费”；前面常接 **be**。
+> **考试里怎么用**
+>
+> - **员工被要求自费参加必要的安全培训** → 写清雇主的责任：*The employer should provide the required safety training free of charge to workers.* 雇主应向员工免费提供必要的安全培训。
+> - **培训免费，但只能在下班后参加** → 费用和时间是两个考点。这里应抓住 *during working hours*。教材中的 *preferably*（最好）修饰培训时间，意思是「培训应免费，并最好安排在工作时间内」。
 
-> English: Health and safety training should be provided free of charge to workers.
+> ⚠️ 答题提醒：**free of charge** 只说明“不收费”。如果题目还涉及员工能否参加培训，可以补充培训应安排在工作时间内。
+
+> **Studybook 原句**（按笔记摘录）
+> “Be free of charge and preferably take place during working hours.”
+
+> **易混｜free of charge / in charge of**
+>
+> - **free of charge** 说的是**费用**。*Workers receive the training free of charge.* 员工免费接受培训。
+> - **in charge of** 说的是**职责**。*The supervisor is in charge of arranging the training.* 主管负责安排培训。
 
 > 常见搭配：
 > - **be free of charge** 免费
@@ -3392,8 +3440,6 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 > - The employer should provide the required safety training **free of charge**.
 > - Personal protective equipment should be provided **free of charge** to workers.
 > - The training should be **free of charge** and preferably take place during working hours.
-
-> ⚠️ 答题提醒：**free of charge** 只说明“不收费”。如果题目还涉及员工能否参加培训，可以补充培训应安排在工作时间内。
 
 - Be free of charge and preferably [最好；尽可能] take place during working hours.
 
@@ -3517,8 +3563,6 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 >   应急安排应包括明确的疏散程序和定期实操演练。
 
 > ⚠️ 答题提醒：**foreseeable** 是“可以预见的”。答题时应结合工作地点和实际风险，指出相关灾害及对应安排，不要笼统地说所有组织都要防范同一种自然灾害。
-
-> **笔记关联**：Studybook 将它列在 **Element 2.2，ILO-OSH 2001: Planning and Implementation** 下的应急准备内容中；可和 **foreseeable emergencies**、疏散程序及应急演练一起记。
 
 -  **Studybook 原句**：Organisations must plan for foreseeable emergencies such as fire, chemical release, explosion, or natural disaster.（教材 p160）
 
@@ -3661,11 +3705,13 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 - 易混：拼写只差一点——**quali**ty 质 → 定性；**quanti**ty 量 → 定量。
 - 易混：考试要求**两种都用**（use both），只用一种不全面。
 
-## ⭐ Ergonomic conditions /ˌɜːɡəˈnɒmɪk/ 人体工学条件；工效学状况
+## ⭐ Ergonomic /ˌɜːɡəˈnɒmɪk/ conditions 人体工学条件；工效学状况
 
 > 考试里怎么用：指工作环境和工作安排是否适合人的身体特点与能力，例如工作站布局、座椅和显示器设置、操作姿势、重复动作和搬运方式。进行主动监控时，组织可检查这些条件，及早发现可能导致肌肉骨骼不适或损伤的问题。
+> **审题提醒**　题目问 **monitoring** 时，写怎样观察和检查；问 **control measures** 时，再写怎样调整台面高度、把常用物料移到容易够到的位置。
+> ⚠️ 答题提醒：这里的 **ergonomic** 不是只指“椅子舒不舒服”，还涉及工作任务、工具、工作站和人的适配。答题时结合场景指出具体问题，再说明如何调整或控制。
 
-> English: Active monitoring should include monitoring of environmental and ergonomic conditions.
+- English: Active monitoring should include monitoring of environmental and ergonomic conditions.
 
 > 常见搭配：
 > - **ergonomic conditions** 人体工学条件
@@ -3679,8 +3725,6 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 >   组织应监控人体工学条件，以识别设计不佳的工作站和不良姿势。
 > - Workstations should be adjusted to suit workers and reduce the risk of musculoskeletal problems.
 >   应调整工作站以适应员工，降低肌肉骨骼问题的风险。
-
-> ⚠️ 答题提醒：这里的 **ergonomic** 不是只指“椅子舒不舒服”，还涉及工作任务、工具、工作站和人的适配。答题时结合场景指出具体问题，再说明如何调整或控制。
 
 - **Studybook 原句**：Monitoring of environmental and ergonomic conditions.（教材 p163）
 
@@ -3772,7 +3816,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 ## ⭐⭐⭐ Audit 审核，⭐⭐⭐ Management review 管理评审
 
-### ⭐⭐⭐ Audit [ˈɔːdɪt] 审核
+### ⭐⭐⭐ Audit 审核
 
 > 考试里怎么用：对整个体系的**正式、独立**检查，看体系是否到位、是否充分、是否有效。审核方案要规定：频率和范围、审核员的能力和独立性、方法（查文件、访谈、现场观察）、报告和跟进安排。结果要报告给负责整改的人，并与员工代表讨论。ILO-OSH 图的中心就是 Audit。
 >
@@ -3787,7 +3831,7 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 - Auditing provides a formal and independent check on how well the OSH management system is functioning.（教材 p164）
 
-### ⭐⭐⭐ Management review [rɪˈvjuː] 管理评审
+### ⭐⭐⭐ Management review 管理评审
 
 > 考试里怎么用：PDCA 收尾的**战略**评估，由**最高负责人**按计划的间隔进行。输入：监测、调查、审核结果；事故和健康趋势；法律、技术、组织变化；员工、安全委员会、外部的反馈。输出：目标是否达成、体系是否仍适用、需要哪些整改、下一步优先事项。结果要正式记录，并告知员工和员工代表。
 >
@@ -3802,18 +3846,136 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 
 - The most senior accountable person should conduct reviews at planned intervals.（教材 p165）
 
-### 怎么区分：Inspection / Audit / Management review
+> **考试里怎么区分**
+>
+> | 判断点 | Audit 审核 | Management review 管理评审 |
+> |---|---|---|
+> | 谁来做？ | 有能力、能独立评价被审核工作的审核员 | 最高管理层 |
+> | 回答什么问题？ | 对照要求，有什么证据说明体系已落实、运行有效或存在缺口？ | 综合审核、监测和事故趋势等信息，体系是否仍然合适、有效？需要作什么决定？ |
+> | 夜班演练的例子 | 查记录、访谈员工，发现夜班没有按程序参加演练，形成审核发现。 | 根据审核发现和排班情况，决定调整演练安排、提供资源，并跟进效果。 |
+>
+> **两者的联系**　*Audit findings are an input to management review.* 审核发现是管理评审的一项依据。审核员也可以提出改进建议；最高管理层则要决定组织如何改进、由谁负责、需要哪些资源。
 
-| | Inspection 检查 | Audit 审核 | Management review 管理评审 |
-|---|---|---|---|
-| 查什么 | 现场的场所、设备、作业 | **整个体系**是否到位、充分、有效 | 整体**策略**是否仍有效 |
-| 谁来做 | 主管、经理、安全代表 | 有能力且**独立**的审核员 | **最高负责人** |
-| 方法 | 现场看、对照检查表 | 查文件、访谈、现场观察 | 看监测、审核、调查结果和趋势 |
-| PDCA | Check（主动监测） | Check | Check → **Act**（闭环） |
-| 结果 | 当场问题清单 | 审核报告，交整改负责人 | 新目标、新优先事项、结构调整 |
-| 教材 | 2.2（p163） | 2.2（p164） | 2.2（p165） |
+## ⭐ Complementary [ˌkɒmplɪˈmentəri] 互补的；相辅相成的
 
-- 易混：Will's Insights（p165）——**measuring** 是收集数据；**reviewing** 是判断数据好坏、是否达到目标。
-- 易混：audit 强调**独立**、看**整个体系**；inspection 只看现场条件。
+> **考试里怎么用** ：当题目要求解释两种管理活动怎样共同发挥作用时，可以用 **complementary**，然后写清楚各自贡献了什么。例如，审核发现夜班员工漏掉了消防演练，最高管理层在管理评审时据此决定调整排班并安排演练资源。
+>
+> **场景答题句**　*Audits and management reviews play complementary roles. Audits identify gaps in the system, and senior management uses the findings to decide what needs to change.*
+
+> **易混｜compatible / complementary / integrated**
+>
+> | 词 | 看什么关系？ | HSE 例子 |
+> |---|---|---|
+> | **compatible with** 与……相容 | 两套要求能同时执行，彼此没有冲突。 | 安全方针与质量管理体系的要求相容。 |
+> | **complementary** 互补的 | 两项活动各有贡献，一项能补充另一项。 | 审核提供证据，管理评审利用证据确定改进重点。 |
+> | **integrated into** 整合进…… | 一项要求或活动已纳入另一套体系或流程。 | 公司把安全检查要求纳入现有的设备维护流程。 |
+>
+> **常见搭配**　*play complementary roles* 发挥互补作用；*complementary approaches* 相互补充的方法。
+
+## ⭐ Isolation training [ˌaɪsəˈleɪʃən ˈtreɪnɪŋ] 能源隔离培训
+
+> **考试里怎么用**
+>
+> - 题干说「维修人员只按了停止按钮就开始清理传送带」→ 能直接指出的是**设备未被安全隔离**。按停后机器虽然不动，仍可能被他人重新启动。
+> - 题干进一步说「维修人员不知道隔离开关在哪里，也没人教过他怎样使用」→ 有证据写 **training in safe isolation**。说明谁需要培训、要掌握什么操作，以及这能防止谁受伤。
+
+> **易混词｜同一个维修场景，题目问什么就答什么**
+>
+> | 易混词 | 考试里怎么区分 |
+> |---|---|
+> | **Stopping 停机 / Isolation 能源隔离** | **Stopping** 使机器停止运转。**Isolation** 将设备与危险能源隔开。看到 *pressed the stop button*，只能确认工人按了停机按钮。 |
+> | **Training 培训 / Competence 胜任能力** | 培训记录说明员工接受过培训。若题目问雇主如何确认员工能安全作业，可以写：让员工在监督下演示如何隔离这台设备，并验证隔离有效。 |
+> | **Safe system of work 安全作业制度 / Permit to work 作业许可证** | **SSoW** 说明这项工作怎样安全完成，包括谁负责隔离、怎样核实、何时可以复机。**PTW** 用于正式授权指定人员在规定条件和时限内开展特定高风险作业。许可证上签了字，仍需现场核实隔离措施已经落实。 |
+
+> **笔记关联**
+>
+> - **Lockout/Tagout (LOTO) 上锁挂牌** — `HSE_eng.md` 第 **2658** 行，**第 1.10 课 Pre-selection and Management of Contractors**。这两个独立词条适合放在一起：题目问「维修人员需要学会什么」时写 **training in safe isolation**；问「隔离后怎样防止他人重新接通能源」时，写 **lock off the isolator and attach a warning tag**。
+
+## ⭐⭐ Preparedness [prɪˈpeərɪdnəs] 准备就绪的状态；应急准备
+
+> **考试里怎么用**
+>
+> **Emergency preparedness** 指组织在紧急情况发生前，为了能及时应对而作好的准备。建议标 **⭐⭐**：场景题里，要能从证据判断「哪些人还没准备好、缺了哪项安排」，并提出针对性的改进。
+>
+> 例如，题干说「白班参加过消防演练，但夜班员工不知道集合点在哪里」。这说明夜班的**应急准备存在缺口**。答题时写明涉及哪个班次、要练什么、怎样确认有效：
+> *Night-shift workers should take part in a fire drill so they can practise evacuating to the assembly point. The supervisor should check that everyone can be accounted for there.*
+> 夜班员工应参加消防演练，练习疏散到集合点。主管应检查能否在集合点核实所有人员的去向。
+
+> **Studybook 相关原句**（按笔记摘录，教材 p160）
+> “Organisations must plan for foreseeable emergencies such as fire, chemical release, explosion, or natural disaster.”
+
+> **易混｜Prevention / Preparedness / Response**
+>
+> | 词汇 | 用同一个火灾场景区分 |
+> |---|---|
+> | **Prevention 预防** | 控制点火源、妥善存放易燃物，降低**起火的可能性**。 |
+> | **Preparedness 应急准备** | 提前指定集合点、明确谁负责清点人员，并组织各班次**练习疏散**。 |
+> | **Response 应急响应** | 真的起火后，**发出警报、组织疏散、在集合点清点人员**。 |
+>
+> **判断线索**　同样是 *evacuation*（疏散），演练时疏散属于 **preparedness**；实际火警中疏散属于 **response**。区分预防和准备时，要看措施的目的，因为两者都可以发生在事前。
+
+> **常见搭配**
+>
+> - **emergency preparedness and response** 应急准备与响应
+> - **assess emergency preparedness** 评估应急准备情况
+> - **test emergency arrangements through drills** 通过演练检验应急安排
+
+## ⭐ Practical drills [ˈpræktɪkəl drɪlz] 实操演练
+
+> **考试里怎么用**
+>
+> 如果场景说「员工在入职时听过消防讲解，但从未参加疏散演练」，可以肯定员工接受过培训，同时指出：组织还没有通过演练检验员工能否按程序撤离。答改进措施时，写清楚**谁参加、练什么、怎样利用演练结果**。
+>
+> *The employer should run evacuation drills for all shifts and check whether everyone can reach the assembly point and be accounted for. Any problems identified should be addressed.*
+> 雇主应组织各班次开展疏散演练，检查所有人能否到达集合点，以及能否核实每个人的去向。对演练中发现的问题应采取改进措施。
+
+> **Studybook 原句**（按笔记摘录，教材 p160）
+> “Regular training and practical drills for all staff.”
+> 定期为全体员工组织培训和实操演练。**for all staff** 同时修饰 *training* 和 *practical drills*。
+
+> **易混｜Training / Practical drill / Emergency response**
+>
+> | 表达 | 用同一个火灾场景区分 |
+> |---|---|
+> | **Training 培训** | 员工学习听到警报后该走哪条路线、到哪里集合。培训也可以包含实操。 |
+> | **Practical drill 实操演练** | 模拟火警，让员工实际走一遍疏散路线，并在集合点清点人员。演练既让员工练习，也检验安排是否可行。 |
+> | **Emergency response 应急响应** | 发生真实火警时，员工按程序撤离，负责人核实人员去向。 |
+
+> **常见搭配**
+>
+> - **conduct / run an evacuation drill** 组织疏散演练
+> - **take part in a drill** 参加演练
+> - **review the findings of a drill** 复盘演练中发现的问题
+
+> **笔记关联**
+>
+> - **Preparedness 应急准备** — `HSE_eng.md` 第 **3884** 行，第 **2.2** 课 *ILO-OSH 2001*。把两个词连成一句记：*Practical drills help test emergency preparedness.* 实操演练有助于检验应急准备是否充分。
+> - **Fire escape routes 疏散通道** — `HSE_eng.md` 第 **1400** 行，第 **1.6** 课 *Roles of Directors, Managers, and Supervisors*。场景题里可以具体写：疏散演练能暴露员工不熟悉逃生路线、出口受阻等问题。
+
+## ⭐⭐⭐ Root causes 根本原因
+
+> **考试里怎么用**
+>
+> 假设员工在通道的一摊油上滑倒。调查发现，机器已经漏油数周，员工多次报告，却一直没有人负责安排维修。用这一个场景可以区分三个层次：
+>
+> | 原因层次 | 要回答的问题 | 场景证据 |
+> |---|---|---|
+> | **Immediate cause 直接原因** | 当时是什么直接导致员工滑倒？ | 通道地面有油，员工踩上去滑倒。 |
+> | **Underlying cause 深层原因／间接原因** | 为什么通道上会持续出现油污？ | 机器持续漏油数周，一直未得到维修。 |
+> | **Root cause 根本原因** | 为什么已知故障长期得不到处理？ | 故障报告流程没有明确由谁安排维修，导致员工多次报告后仍无人采取行动。 |
+>
+> **审题提醒**　如果题干只写“员工踩到油污后滑倒”，就有证据指出直接原因；要写“维修职责不清”这一根本原因，还需要报告记录、人员访谈或职责安排等证据。答题时，把具体的管理缺陷和它造成的后果连起来。
+>
+> **场景答题句**　*No one had been assigned responsibility for acting on defect reports. As a result, the leak remained unrepaired despite repeated reports from workers.*
+
+> **Studybook 原句**（按笔记摘录，教材 p167）
+> “Identifying and analysing root causes of any non-conformities or failures — whether related to legal requirements or the organisation’s own safety arrangements.”
+
+> **常见搭配**
+>
+> - **identify the root causes of an incident** 查明事件的根本原因
+> - **address the root causes** 针对根本原因采取行动
+> - **prevent recurrence** 防止同类事件再次发生
+
 
 # 2.3 ISO45001 - An International H&SManagement System Standard（教材 p169–186）
