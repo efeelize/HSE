@@ -3968,8 +3968,8 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 >
 > **场景答题句**　*No one had been assigned responsibility for acting on defect reports. As a result, the leak remained unrepaired despite repeated reports from workers.*
 
-> **Studybook 原句**（按笔记摘录，教材 p167）
-> “Identifying and analysing root causes of any non-conformities or failures — whether related to legal requirements or the organisation’s own safety arrangements.”
+- “Identifying and analysing root causes of any non-conformities or failures — whether related to legal requirements or the organisation’s own safety arrangements.”
+- Understanding context ensures that the system is not generic but tailored to the organisation’s realities. 
 
 > **常见搭配**
 >
@@ -3977,5 +3977,68 @@ English: The guard should be refitted and an interlock installed, as PPE such as
 > - **address the root causes** 针对根本原因采取行动
 > - **prevent recurrence** 防止同类事件再次发生
 
-
 # 2.3 ISO45001 - An International H&SManagement System Standard（教材 p169–186）
+
+## ⭐⭐ Tailored to [ˈteɪləd] 针对……制定 / ⭐⭐ Proportionate to 与……相称
+
+> **考试里怎么区分**
+>
+> - **Tailored to** 看**针对性**。问自己：“这个现场、这项任务或这群员工有什么特点？方案据此作了什么调整？”
+> - **Proportionate to** 看**措施的力度是否合适**。问自己：“考虑到风险的大小，这样的控制够不够？手续会不会过于繁琐？”
+
+### 用同一个吊装场景理解
+
+> **场景**　吊装区紧邻工人每天使用的人行通道。承包商提交了一份通用吊装方案，只写了“设置警示牌”。
+>
+> **Tailored to the site layout** — *The lifting plan should be tailored to the site layout and show which route pedestrians should use during lifting operations.*
+> 吊装方案应根据现场布局制定，标明吊装期间行人应改走哪条路线。这里评价的是**方案有没有考虑这条人行通道**。
+>
+> **Proportionate to the risk** — *The controls should be proportionate to the risk of a falling load. A warning sign alone would not keep pedestrians out of the lifting area.*
+> 控制措施应与吊物坠落的风险相称。仅靠警示牌难以阻止行人进入吊装区，因此应采取能将行人与吊装区隔开的措施。这里评价的是**警示牌提供的保护够不够**。
+
+### 考试句型｜tailor A to B / A is tailored to B
+
+> **A 是要调整的内容**，如培训、风险评估或作业方案；**B 是调整的依据**，如员工的任务、现场布局或具体危害。
+>
+> | 题目要求 | 句型和例句 |
+> |---|---|
+> | **建议谁来做** | **The employer should tailor A to B.** — *The employer should tailor induction training to each worker’s tasks.* 雇主应根据每名工人的任务调整入职培训。 |
+> | **评价已有做法** | **A is tailored to B.** — *Induction training is tailored to each worker’s tasks.* 入职培训已按工人的任务作了调整。场景有证据时用，例如不同岗位接受了不同的实操培训。 |
+> | **建议怎样改进** | **A should be tailored to B.** — *Induction training should be tailored to each worker’s tasks.* 如果所有岗位只收到同一份通用讲义，可以用这句提出改进，再补充哪个岗位需要学什么。 |
+
+### 反向表达｜disproportionate to 与……不相称
+
+> *Requiring three levels of approval to move an empty box out of a walkway would be disproportionate to the risk.*
+> 清理通道里的一个空箱子还要经过三级审批，手续就与风险不相称。联系第 2.3 课的 **overly bureaucratic** 一起记：前者评价手续与风险是否相称，后者描述手续过于繁琐。
+
+### 笔记关联
+
+> - **A generic document 通用文件、模板式文件** — `HSE_eng.md` 第 **2646** 行，第 **1.10** 课 *Pre-selection and Management of Contractors*。看到照搬的模板，用 **tailored to** 指出应补上哪项现场风险或作业细节。
+> - **Bureaucratic 官僚式的、手续繁琐的** — `HSE_eng.md` 第 **3039** 行，第 **2.1** 课 *The Basics of Management Systems*。评价管理程序时，用 **proportionate to / disproportionate to** 解释为什么这样的控制力度或审批层级合适或过度。
+
+## ⭐⭐ Procurement [prəˈkjʊəmənt] 采购；货物和服务的采购过程
+
+> **考试里怎么用**
+>
+> 如果场景说“公司只按最低报价买了一台传送带，设备到货后才发现防护罩不适合现场作业”，可以沿着两个时间点作答：
+>
+> - **下单前**：把所需的机器防护要求写进采购规格，用这些要求比较供应商的方案。
+> - **投入使用前**：核实交付的设备是否满足约定的防护要求。场景若说公司买的是安装服务，还要考虑安装承包商能否安全完成这项工作。
+>
+> **场景答题句**　*The company should specify its guarding requirements before ordering the conveyor and check that these requirements have been met before putting it into use.*
+> 公司应在订购传送带前明确防护要求，并在投入使用前核实这些要求是否得到满足。
+
+> **易混｜Purchasing / Procurement / Contractor management**
+>
+> | 表达 | 在这个场景里怎样理解？ |
+> |---|---|
+> | **Purchasing 购买** | 强调购买这项交易，例如向供应商下单购买传送带。 |
+> | **Procurement 采购** | 看整个采购过程：明确需要什么、提出安全规格、选择供应商、核实实际交付的设备或服务。 |
+> | **Contractor management 承包商管理** | 如果安装也交给外部公司，就要核查安装人员的能力、协调现场风险，并监督安装作业。选择安装商是两者的交集。 |
+
+> **常见搭配**
+>
+> - **procurement of goods and services** 货物和服务的采购
+> - **specify health and safety requirements** 明确健康与安全要求
+> - **include safety requirements in procurement specifications** 把安全要求写进采购规格
+
